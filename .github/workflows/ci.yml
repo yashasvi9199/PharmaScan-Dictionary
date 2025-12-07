@@ -1,0 +1,31 @@
+name: CI
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 18
+
+      - name: Install dependencies (if package.json exists)
+        run: npm ci || true
+
+      - name: Validate dictionary files exist
+        run: |
+          test -f data/salts.csv
+          test -f data/forms.csv
+          test -f data/units.csv
+          test -f data/ocr_variants.csv
+
+      - name: Run ingest stub (optional)
+        run: node scripts/ingest_stub.ts || true
