@@ -5,6 +5,6 @@
   "description": "Versioned pharmaceutical terminology dictionaries for PharmaScan.",
   "license": "MIT",
   "scripts": {
-    "test": "node tests/validate_stub.ts || true"
+    "test": "node tests/validate_stub.js"
   }
 }
