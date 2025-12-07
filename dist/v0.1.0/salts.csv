@@ -1,0 +1,11 @@
+id,canonical,aliases,source,notes
+salt_0001,paracetamol,acetaminophen|paracetarmol,https://en.wikipedia.org/wiki/Paracetamol,common analgesic
+salt_0002,amoxicillin,amoxycillin|amox|amoxi,https://en.wikipedia.org/wiki/Amoxicillin,broad-spectrum antibiotic
+salt_0003,ibuprofen,ibruprofen|ibu|ibrufen,https://en.wikipedia.org/wiki/Ibuprofen,nsaid
+salt_0004,azithromycin,azith|azythromycin,https://en.wikipedia.org/wiki/Azithromycin,antibiotic
+salt_0005,pantoprazole,pantaprazole|pantaprozole,https://en.wikipedia.org/wiki/Pantoprazole,proton pump inhibitor
+salt_0006,levocetirizine,levoctirizine|levocet|cetirizine-l,https://en.wikipedia.org/wiki/Levocetirizine,antihistamine
+salt_0007,metformin,metformine|metforrnin,https://en.wikipedia.org/wiki/Metformin,antidiabetic
+salt_0008,atorvastatin,atorvostatin|atorva,https://en.wikipedia.org/wiki/Atorvastatin,statin
+salt_0009,losartan,losaratan|losrtan,https://en.wikipedia.org/wiki/Losartan,antihypertensive
+salt_0010,omeprazole,omeprazol|omiprazole,https://en.wikipedia.org/wiki/Omeprazole,ppi

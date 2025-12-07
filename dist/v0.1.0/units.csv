@@ -1,0 +1,11 @@
+id,canonical,aliases,source,notes
+unit_0001,mg,milligram|mgs|mq,manual,mass unit
+unit_0002,g,gram|gm|grm,manual,mass unit
+unit_0003,mcg,microgram|mcgs|mc9,manual,very small mass unit
+unit_0004,ml,milliliter|mlt|m1,manual,liquid volume
+unit_0005,l,liter|ltr|lt,manual,liquid volume
+unit_0006,iu,international unit|i.u|lu,manual,biological activity unit
+unit_0007,%,percent|pct|percnt,manual,concentration unit
+unit_0008,mg_ml,mg/ml|mgml|mgm1,manual,combined concentration
+unit_0009,mcg_ml,mcg/ml|mcgml|mcgm1,manual,combined concentration
+unit_0010,meq,mmol_equivalent|m.eq|meqq,manual,electrolyte measurement unit

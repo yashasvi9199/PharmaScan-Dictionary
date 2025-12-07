@@ -1,0 +1,14 @@
+variant,canonical,pattern,notes
+paracetarmol,paracetamol,paracetar?mol,common r↔t OCR error
+paracetmol,paracetamol,paracetmol,missing 'a' variant
+acetaminophen,paracetamol,acetaminophen,US name mapped to canonical
+amoxycillin,amoxicillin,amoxycillin,alternate spelling
+amox,amoxicillin,^amox$,short form seen on blister strips
+ibruprofen,ibuprofen,ibruprofen,transposition error
+ibu,ibuprofen,^ibu$,short form
+pantaprazole,pantoprazole,pantaprazole,typo variant
+pantoprozole,pantoprazole,pantaprozole,keyboard error
+omeprazol,omeprazole,omeprazol,missing final 'e'
+omiprazole,omeprazole,omiprazole,common misspell
+mgml,mg_ml,mg/?ml,missing separator for concentration
+mgs,mg,mg(s)?$,plural/s trailing s

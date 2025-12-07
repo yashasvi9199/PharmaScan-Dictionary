@@ -1,0 +1,11 @@
+id,canonical,aliases,source,notes
+form_0001,tablet,tab|tbl|tbal,manual,solid oral dosage form
+form_0002,capsule,cap|caps|capsl,manual,solid oral dosage form
+form_0003,syrup,syp|syrp|srup,manual,liquid pediatric form
+form_0004,injection,inj|inject|inje,manual,parenteral form
+form_0005,drops,drop|drp|drps,manual,liquid eyedrop/eardrop
+form_0006,ointment,oint|ont|omnt,manual,semi-solid topical
+form_0007,cream,crm|crem|cram,manual,semi-solid topical
+form_0008,gel,gl|jel|gell,manual,topical
+form_0009,solution,sol|soln|sln,manual,liquid form
+form_0010,suspension,susp|suspn|supsn,manual,liquid form requiring shaking
