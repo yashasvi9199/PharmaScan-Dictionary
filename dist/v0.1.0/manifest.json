@@ -1,0 +1,12 @@
+{
+  "version": "v0.1.0",
+  "created_at": "2025-12-07T00:00:00+05:30",
+  "generated_by": "PharmaScan-Dictionary CI (stub)",
+  "files": [
+    { "path": "data/salts.csv", "notes": "canonical salts (source of truth)" },
+    { "path": "data/forms.csv", "notes": "dosage forms" },
+    { "path": "data/units.csv", "notes": "measurement units" },
+    { "path": "data/ocr_variants.csv", "notes": "OCR noisy variants mapping" }
+  ],
+  "notes": "Placeholder manifest. CI will replace this with checksums and validated build output in future releases."
+}
