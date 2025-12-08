@@ -2,7 +2,7 @@
 set -e
 
 echo "=== Generate slugs ==="
-node scripts/generate_all_slugs.sh
+sh scripts/generate_all_slugs.sh
 
 echo "=== Rename normalized ==="
 node scripts/rename_normalized.js
