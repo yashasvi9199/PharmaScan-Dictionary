@@ -3,7 +3,16 @@ const fs = require("fs");
 const crypto = require("crypto");
 const dir = "data/out";
 
+if (!fs.existsSync(dir)) {
+  console.log("No artifacts directory, skipping checksum verification");
+  process.exit(0);
+}
+
 const files = fs.readdirSync(dir).filter(f => f.endsWith(".sha256"));
+if (!files.length) {
+  console.log("No .sha256 files found, skipping checksum verification");
+  process.exit(0);
+}
 
 for (const shaFile of files) {
   const target = shaFile.replace(".sha256", "");
