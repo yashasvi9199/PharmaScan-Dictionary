@@ -11,6 +11,7 @@ permissions:
   contents: write
   packages: write
   pages: write
+  id-token: write
 
 jobs:
   build-and-release:
@@ -89,8 +90,6 @@ jobs:
           name: ${{ steps.bump.outputs.version }}
           body: |
             Automated release of PharmaScan Dictionary.
-
-            See [CHANGELOG.md](https://github.com/${{ github.repository }}/blob/main/CHANGELOG.md) for details.
           files: |
             dist/dictionary.bundle.json
             dist/dictionary.bundle.json.sha256
