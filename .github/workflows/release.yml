@@ -2,14 +2,12 @@ name: Build & Release Dictionary
 
 on:
   workflow_dispatch: {}
-  push:
-    branches:
-      - main
+  schedule:
+    - cron: "0 0 * * 0" # Run weekly on Sunday
 
 permissions:
   contents: write
   packages: write
-  issues: write
   pages: write
 
 jobs:
@@ -18,116 +16,90 @@ jobs:
     env:
       NODE_OPTIONS: --no-warnings
     steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
 
-    - name: Checkout
-      uses: actions/checkout@v4
-      with:
-        fetch-depth: 0
+      - name: Switch to main branch
+        run: git checkout main || git checkout -b main origin/main
 
-    - name: Setup Node
-      uses: actions/setup-node@v4
-      with:
-        node-version: 18
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 18
 
-    - name: Ensure scripts executable
-      run: |
-        chmod +x ingest/run_ingest.sh || true
-        chmod +x scripts/*.js || true
+      - name: Download WHO ATC CSV
+        run: |
+          mkdir -p data
+          curl -sS -L -o data/atc.csv "https://raw.githubusercontent.com/fabkury/atcd/master/WHO%20ATC-DDD%202024-07-31.csv"
 
-    - name: Download WHO ATC CSV
-      run: |
-        mkdir -p data
-        curl -sS -L -o data/atc.csv "https://raw.githubusercontent.com/fabkury/atcd/master/WHO%20ATC-DDD%202024-07-31.csv"
+      - name: Run Ingest & Build Pipeline
+        run: |
+          # This runs the full pipeline: ingest -> dedupe -> clean -> bundle -> version -> checksum
+          # Note: version.json will be generated with default or env version here, but we will update it later.
+          sh ingest/run_ingest.sh
 
-    - name: Run full pipeline (ingest → dedupe → clean → bundle → version → checksum)
-      run: |
-        sh ingest/run_ingest.sh
+      - name: Bump Version
+        id: bump
+        run: |
+          # Bump patch version in package.json
+          node scripts/bump_version.js > new_version.txt
+          VERSION=$(cat new_version.txt)
+          # VERSION is like "v0.1.1"
+          echo "version=${VERSION}" >> $GITHUB_OUTPUT
 
-    - name: Read version
-      id: ver
-      run: |
-        if [ -f dist/version.json ]; then
-          VERSION=$(jq -r .version dist/version.json)
-        else
-          VERSION="0.0.0-$(date -u +%Y%m%d%H%M%S)"
-        fi
-        echo "version=${VERSION}" >> $GITHUB_OUTPUT
+          # Update dist/version.json with the new version
+          # generate_version.js expects DICT_VERSION env var (without v prefix usually, but let's check)
+          # scripts/generate_version.js: const version = process.env.DICT_VERSION || "0.1.0";
+          # We'll pass the clean version number.
+          CLEAN_VERSION=${VERSION#v}
+          export DICT_VERSION=$CLEAN_VERSION
+          node scripts/generate_version.js
 
-    - name: Create Git tag (annotated)
-      run: |
-        TAG="v${{ steps.ver.outputs.version }}"
-        git config user.name "github-actions[bot]"
-        git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-        git tag -a "$TAG" -m "Release $TAG" || true
-        git push origin "$TAG" || true
+          echo "Bumped to $VERSION"
 
-    - name: Create GitHub Release
-      id: create_release
-      uses: actions/create-release@v1
-      with:
-        tag_name: "v${{ steps.ver.outputs.version }}"
-        release_name: "v${{ steps.ver.outputs.version }}"
-        draft: false
-        prerelease: false
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit & Push Changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-    - name: Upload bundle asset to Release
-      uses: actions/upload-release-asset@v1
-      with:
-        upload_url: ${{ steps.create_release.outputs.upload_url }}
-        asset_path: dist/dictionary.bundle.json
-        asset_name: dictionary.bundle.json
-        asset_content_type: application/json
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          git checkout main
+          git pull origin main --rebase || true
 
-    - name: Upload sha256 to Release
-      uses: actions/upload-release-asset@v1
-      with:
-        upload_url: ${{ steps.create_release.outputs.upload_url }}
-        asset_path: dist/dictionary.bundle.json.sha256
-        asset_name: dictionary.bundle.json.sha256
-        asset_content_type: text/plain
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # Add package.json (version bump) and dist/ (artifacts)
+          git add package.json dist/
 
-    - name: Upload artifact for GitHub Pages
-      uses: actions/upload-pages-artifact@v1
-      with:
-        path: dist
+          # Check if there are changes to commit
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore: release ${{ steps.bump.outputs.version }}"
+            git tag -a "${{ steps.bump.outputs.version }}" -m "Release ${{ steps.bump.outputs.version }}"
+            git push origin main --tags
+          fi
 
-    - name: Deploy to GitHub Pages (publish latest bundle)
-      uses: actions/deploy-pages@v1
-      # no inputs needed; this will deploy contents uploaded above to the repo's Pages site
+      - name: Create GitHub Release
+        uses: softprops/action-gh-release@v1
+        with:
+          tag_name: ${{ steps.bump.outputs.version }}
+          name: ${{ steps.bump.outputs.version }}
+          body: |
+            Automated release of PharmaScan Dictionary.
 
-    - name: (optional) Publish to S3-compatible CDN
-      if: ${{ secrets.CDN_S3_BUCKET && secrets.CDN_S3_ENDPOINT }}
-      run: |
-        python3 - <<'PY'
-import os,subprocess
-bucket=os.environ['CDN_S3_BUCKET']
-endpoint=os.environ['CDN_S3_ENDPOINT']
-access=os.environ['CDN_S3_ACCESS_KEY']
-secret=os.environ['CDN_S3_SECRET_KEY']
-subprocess.check_call(['pip','install','--quiet','awscli'])
-cmd = ['aws','s3','--endpoint-url', endpoint, 'cp', 'dist/dictionary.bundle.json', f's3://{bucket}/dictionary.bundle.json']
-env = os.environ.copy()
-env['AWS_ACCESS_KEY_ID']=access
-env['AWS_SECRET_ACCESS_KEY']=secret
-subprocess.check_call(cmd, env=env)
-print("uploaded to CDN")
-PY
+            See [CHANGELOG.md](https://github.com/${{ github.repository }}/blob/main/CHANGELOG.md) for details.
+          files: |
+            dist/dictionary.bundle.json
+            dist/dictionary.bundle.json.sha256
+            dist/version.json
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-    - name: Upload build artifact (CI artifact)
-      if: always()
-      uses: actions/upload-artifact@v4
-      with:
-        name: dictionary-dist
-        path: |
-          dist/dictionary.bundle.json
-          dist/dictionary.bundle.json.sha256
-          dist/version.json
+      - name: Deploy to GitHub Pages
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
 
-    - name: Post Checkout cleanup
-      run: echo "CI completed"
+      - name: Deploy
+        uses: actions/deploy-pages@v4
