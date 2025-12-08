@@ -17,4 +17,10 @@ node scripts/clean_pipeline.js
 echo "=== Build bundle ==="
 node scripts/build_bundle.js
 
+echo "=== Version ==="
+node scripts/generate_version.js
+
+echo "=== Checksum ==="
+node scripts/checksum.js
+
 echo "OK"
