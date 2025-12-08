@@ -1,30 +1,40 @@
 # Contributing to PharmaScan-Dictionary
 
-Thank you for helping improve the dictionary. This repository is used by multiple services, so consistency and data quality are critical.
+## Basics
+- Edit source CSVs in `data/` (e.g. `data/salts.csv`, `data/forms.csv`).
+- Every new row must include a `name` column or the first column must contain the display name.
 
-## Contribution Rules
+## Local validation
+1. Generate normalized outputs:
 
-1. **All changes must go through pull requests.**
-2. **Every entry must include a `source` field** pointing to where the term originated (official database, PDF, manual curation, etc.).
-3. **Do not manually edit files inside `dist/`** — these are build outputs generated during releases.
-4. Follow the schema used in the CSV files:
-   - `id` (stable, never changes)
-   - `canonical` (normalized form)
-   - `aliases` (comma-separated list)
-   - `source`
-   - `notes`
-5. Keep all terms lowercase except proper names.
-6. Avoid duplicate canonical names; use `aliases` instead.
-7. For OCR variants, record the variant exactly as seen and map it to a canonical term.
-8. Use semantic versioning (via GitHub Releases) when updating dictionary data.
+   `./scripts/run_normalization.sh`
 
-## Workflow
+2. Validate schema:
 
-1. Submit PR with changes in `data/`.
-2. CI will verify file existence and basic structure.
-3. After approval, changes are merged into `main`.
-4. A release is created to generate new versioned CDN paths under `/dist/`.
+   `node scripts/validate_schema.js data/out/salts.normalized.json`  
 
-## Licensing
+3. Validate slugs:
 
-By contributing, you agree your additions are licensed under MIT and that any external data sources are allowed to be redistributed under this license.
+   `node scripts/validate_slugs.js data/out/salts.normalized.json`
+
+4. Validate checksums:
+
+   `node scripts/verify_checksums.js`
+
+
+## PR requirements
+- Include the CSV change only (do not commit `data/out/`).
+- Provide a summary of additions/edits and any sources used.
+- For large imports, include a staging JSON under `data/` (e.g. `data/ingest_openfda.json`) and a short dedupe plan.
+- CI will run normalization and validation; fix any CI errors before requesting review.
+
+## Style rules
+- Use lowercase slugs; the pipeline will generate them but keep names clean.
+- Prefer canonical generic names over brand names where possible.
+- Do not change slug generation logic in this repository; breaking slug changes must be a MAJOR release and require maintainer approval.
+
+## Contact / Maintainers
+See MAINTAINERS.md for the maintainer list and review policy.
+
+## CI
+See `.github/workflows/ci.yml`

@@ -1,12 +1,14 @@
-# Maintainer Rules
+# Maintainers
 
-All dataset changes must meet:
-- Every entry must include `name`.
-- Normalization must succeed with no errors.
-- Checksums must validate.
-- Manifest must rebuild without diff.
-- Bundle must regenerate with no missing fields.
+Primary maintainers:
+- @yashasvi9199 (owner)
 
-Only canonical normalized files are considered source of truth.
+Responsibilities:
+- Accept dataset contributions
+- Run quality checks on large imports
+- Review and merge PRs that change `data/*.csv`
+- Tag and publish releases
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
+PR policy:
+- All dataset changes must include normalized outputs or pass CI.
+- Large ingestion changes require a maintainer review and approval.
