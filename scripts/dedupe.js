@@ -77,6 +77,8 @@ function mergeEntries(a, b) {
 }
 
 function run() {
+    console.log("Beginning Merge dedupe.js...");
+    
   if (!fs.existsSync(IN)) {
     console.error("missing", IN);
     process.exit(1);

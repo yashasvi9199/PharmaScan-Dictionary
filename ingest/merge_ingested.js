@@ -60,7 +60,5 @@ if (process.argv[1]?.endsWith("merge_ingested.js")) {
     process.exit(1);
   });
 }
-
-module.exports = { run };
-
 if (require.main === module) run();
+module.exports = { run };

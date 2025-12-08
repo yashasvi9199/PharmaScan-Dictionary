@@ -86,6 +86,6 @@ if (process.argv[1] && /source_openfda\.js$/.test(process.argv[1])) {
     process.exit(1);
   });
 }
-module.exports = { run };
 
 if (require.main === module) run();
+module.exports = { run };
