@@ -1,23 +1,34 @@
 #!/usr/bin/env sh
 set -e
-echo "=== Step 1: Generate slugs ==="
+
+echo "=== Generate slugs ==="
 node scripts/generate_all_slugs.sh
 
-echo "=== Step 2: Validate slug outputs ==="
+echo "=== Rename normalized files ==="
+node scripts/rename_normalized.js
+
+echo "=== Validate slugs ==="
 node scripts/validate_slugs.js \
-  data/out/salts.with-slugs.json \
-  data/out/forms.with-slugs.json \
-  data/out/units.with-slugs.json \
-  data/out/ocr_variants.with-slugs.json
+  data/out/salts.normalized.json \
+  data/out/forms.normalized.json \
+  data/out/units.normalized.json \
+  data/out/ocr_variants.normalized.json
 
-echo "=== Step 3: Schema validation ==="
+echo "=== Schema validation ==="
 node scripts/validate_schema.js \
-  data/out/salts.with-slugs.json \
-  data/out/forms.with-slugs.json \
-  data/out/units.with-slugs.json \
-  data/out/ocr_variants.with-slugs.json
+  data/out/salts.normalized.json \
+  data/out/forms.normalized.json \
+  data/out/units.normalized.json \
+  data/out/ocr_variants.normalized.json
 
-echo "=== Step 4: Generate checksums ==="
+echo "=== Checksums ==="
 node scripts/generate_checksums.js data/out
 
-echo "=== DONE ==="
+echo "=== Build bundle ==="
+node scripts/build_bundle.js
+
+echo "=== Checksum bundle ==="
+node scripts/generate_checksums.js data/out
+
+
+echo "DONE"
