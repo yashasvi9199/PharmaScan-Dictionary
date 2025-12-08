@@ -35,3 +35,22 @@ jobs:
 
       - name: Verify manifest exists
         run: test -f data/out/manifest.json
+        
+      - name: Detect dataset changes
+        run: |
+          git fetch origin main
+          git diff origin/main -- data/*.csv > dataset.diff || true
+
+      - name: Validate dataset structure
+        run: |
+          if [ -s dataset.diff ]; then
+            echo "Dataset changed"
+            ./scripts/run_normalization.sh
+          fi
+          
+      - name: Ingestion pipeline
+        run: |
+          chmod +x ingest/run_ingest.sh
+          ./ingest/run_ingest.sh
+
+
