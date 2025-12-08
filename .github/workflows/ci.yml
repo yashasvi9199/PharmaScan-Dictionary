@@ -29,3 +29,9 @@ jobs:
 
       - name: Run ingest stub (optional)
         run: node scripts/ingest_stub.ts || true
+
+      - name: Verify checksums
+        run: node scripts/verify_checksums.js
+
+      - name: Verify manifest exists
+        run: test -f data/out/manifest.json
