@@ -2,7 +2,11 @@
 set -e
 
 echo "=== Ingest sources ==="
+
+echo "=== OpenFDA ==="
 node ingest/source_openfda.js
+
+echo "=== WHO ATC ==="
 node ingest/source_who_atc.js
 
 echo "=== Merge ingested ==="
