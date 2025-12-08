@@ -1,4 +1,4 @@
-import fs from "fs/promises";
+const fs = require("fs/promises");
 
 const OUT_PATH = "data/ingest_openfda.json";
 const BASE_URL = "https://api.fda.gov/drug/label.json";
@@ -45,7 +45,7 @@ async function fetchPage(skip = 0) {
   return json.results || [];
 }
 
-export async function run() {
+async function run() {
   const items = [];
   let skip = 0;
   let fetched = 0;
@@ -86,4 +86,6 @@ if (process.argv[1] && /source_openfda\.js$/.test(process.argv[1])) {
     process.exit(1);
   });
 }
-export default { run };
+module.exports = { run };
+
+if (require.main === module) run();

@@ -1,5 +1,5 @@
-import fs from "fs/promises";
-import path from "path";
+const fs =  require("fs/promises");
+const path = require("path");
 
 const IN_DIR = "data";
 const OUT = "data/ingested_combined.json";
@@ -21,7 +21,7 @@ async function load(fp) {
   }
 }
 
-export async function run() {
+async function run() {
   const files = (await fs.readdir(IN_DIR)).filter(f => /^ingest_.*\.json$/.test(f));
   const map = new Map();
 
@@ -61,4 +61,6 @@ if (process.argv[1]?.endsWith("merge_ingested.js")) {
   });
 }
 
-export default { run };
+module.exports = { run };
+
+if (require.main === module) run();
