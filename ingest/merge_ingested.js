@@ -1,8 +1,8 @@
-const fs =  require("fs/promises");
-const path = require("path");
+import fs from "fs/promises";
+import path from "path";
 
 const IN_DIR = "data";
-const OUT = "data/ingested_combined.json";
+const OUT_PATH = path.join(IN_DIR, "ingested_combined.json");
 
 const slugify = s =>
   String(s || "")
@@ -13,52 +13,76 @@ const slugify = s =>
     .replace(/\s+/g, "-")
     .replace(/-+/g, "-");
 
-async function load(fp) {
+async function readIngestFiles() {
+  const names = await fs.readdir(IN_DIR);
+  return names
+    .filter(n => /^ingest_.*\.json$/.test(n))
+    .map(n => path.join(IN_DIR, n));
+}
+
+async function loadFile(fp) {
   try {
-    return JSON.parse(await fs.readFile(fp, "utf8"));
+    const txt = await fs.readFile(fp, "utf8");
+    return JSON.parse(txt || "[]");
   } catch {
     return [];
   }
 }
 
-async function run() {
-  const files = (await fs.readdir(IN_DIR)).filter(f => /^ingest_.*\.json$/.test(f));
-  const map = new Map();
+export async function run() {
+  const files = await readIngestFiles();
+  const acc = new Map();
 
   for (const f of files) {
-    const arr = await load(path.join(IN_DIR, f));
+    const arr = await loadFile(f);
+    if (!Array.isArray(arr)) continue;
     for (const it of arr) {
       const names = Array.isArray(it.names) ? it.names : [];
-      const primary = names[0] || it.slug || "";
-      const slug = slugify(it.slug || primary);
+      const primary = names[0] || it.slug || names.find(Boolean) || "";
+      const slug = slugify(it.slug || primary || names[0] || "");
       if (!slug) continue;
 
-      if (!map.has(slug)) {
-        map.set(slug, {
-          slug,
-          names: Array.from(new Set(names)),
-          sources: [it.source || f],
-          raws: it.raw ? [it.raw] : []
-        });
-      } else {
-        const ex = map.get(slug);
-        ex.names = Array.from(new Set([...ex.names, ...names]));
-        if (it.source) ex.sources.push(it.source);
-        if (it.raw) ex.raws.push(it.raw);
+      const entry = {
+        slug,
+        names: Array.from(new Set(names)),
+        sources: new Set([it.source || path.basename(f)]),
+        raws: it.raw ? [it.raw] : [],
+        atc: it.atc || (it.raw && it.raw.code) || null // preserve ATC if present
+      };
+
+      if (!acc.has(slug)) {
+        acc.set(slug, entry);
+        continue;
+      }
+      const cur = acc.get(slug);
+      cur.names = Array.from(new Set([...cur.names, ...names]));
+      if (it.source) cur.sources.add(it.source);
+      if (it.raw) cur.raws.push(it.raw);
+      // merge atc if missing
+      if (!cur.atc && (it.atc || (it.raw && it.raw.code))) {
+        cur.atc = it.atc || (it.raw && it.raw.code) || null;
       }
     }
   }
 
-  const out = Array.from(map.values());
-  await fs.writeFile(OUT, JSON.stringify(out, null, 2), "utf8");
+  const out = Array.from(acc.values()).map(v => ({
+    slug: v.slug,
+    names: v.names,
+    sources: Array.from(v.sources),
+    raws: v.raws,
+    atc: v.atc || null
+  }));
+
+  await fs.writeFile(OUT_PATH, JSON.stringify(out, null, 2), "utf8");
   return out.length;
 }
 
-if (process.argv[1]?.endsWith("merge_ingested.js")) {
-  run().then(n => console.log("merged", n)).catch(e => {
-    console.error(e);
-    process.exit(1);
-  });
+if (process.argv[1] && /merge_ingested\.js$/.test(process.argv[1])) {
+  run()
+    .then(n => console.log("merged", n, "entries"))
+    .catch(e => {
+      console.error("error", e.message || e);
+      process.exit(1);
+    });
 }
-if (require.main === module) run();
-module.exports = { run };
+export default { run };
