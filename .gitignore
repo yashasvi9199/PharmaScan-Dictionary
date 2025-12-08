@@ -18,3 +18,8 @@ Thumbs.db
 # TypeScript build artifacts
 *.tsbuildinfo
 /data/out/
+
+# Output files
+data/ingest_openfda.json
+data/ingest_who_atc.json
+data/ingested_combined.json
