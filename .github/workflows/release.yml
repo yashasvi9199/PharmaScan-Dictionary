@@ -80,7 +80,8 @@ jobs:
           else
             git commit -m "chore: release ${{ steps.bump.outputs.version }} [skip ci]"
             git tag -a "${{ steps.bump.outputs.version }}" -m "Release ${{ steps.bump.outputs.version }}"
-            git push origin main --tags
+            # Force push to overwrite any race-condition commits (safe for release bot)
+            git push origin main --tags --force
           fi
 
       - name: Create GitHub Release
