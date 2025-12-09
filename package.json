@@ -1,6 +1,6 @@
 {
   "name": "pharmascan-dictionary",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "private": false,
   "description": "Versioned pharmaceutical terminology dictionaries for PharmaScan.",
   "license": "MIT",
