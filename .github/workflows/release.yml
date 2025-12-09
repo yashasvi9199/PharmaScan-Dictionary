@@ -68,8 +68,8 @@ jobs:
           git config user.name "yashasvi9199"
           git config user.email "yashasvi9199@gmail.com"
 
-          git checkout main
-          git pull origin main --rebase || true
+          # git checkout/pull removed to avoid conflicts with dirty tree
+          # We are already on main from the earlier step
 
           # Add package.json (version bump) and dist/ (artifacts)
           git add package.json dist/

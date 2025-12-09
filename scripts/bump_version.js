@@ -7,8 +7,25 @@ const pkg = JSON.parse(fs.readFileSync(pkgPath, "utf8"));
 
 function getLatestTag() {
   try {
-    // Get the latest tag (e.g., "v0.1.1")
-    return execSync("git describe --tags --abbrev=0", { encoding: "utf8" }).trim();
+    // Get all tags matching v*
+    const output = execSync("git tag -l 'v*'", { encoding: "utf8" }).trim();
+    if (!output) return null;
+
+    const tags = output.split(/\r?\n/).map(t => t.trim()).filter(t => /^v\d+\.\d+\.\d+$/.test(t));
+
+    if (tags.length === 0) return null;
+
+    // Sort descending
+    tags.sort((a, b) => {
+      const va = parseVersion(a);
+      const vb = parseVersion(b);
+      // We want b - a for descending
+      if (isGreater(va, vb)) return -1;
+      if (isGreater(vb, va)) return 1;
+      return 0;
+    });
+
+    return tags[0];
   } catch (e) {
     return null;
   }
