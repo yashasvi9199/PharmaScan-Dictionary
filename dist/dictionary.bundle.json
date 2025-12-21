@@ -52,6 +52,8 @@
       "purpose anti cavity",
       "mint toothpaste",
       "for dental care",
+      "antivavity",
+      "active ingredient na fluoride 0 02 0 01 w",
       "curodont repair fluoride plus",
       "active ingredients na fluoride 0 05 0 02 w",
       "ortho super chocolate fluoride mouthwash",
@@ -66,8 +68,7 @@
       "pop hint of mint",
       "active ingredient na fluoride 0 243 0 14 w",
       "pop pumpin strawberry",
-      "active ingredient na fluoride 0 243 0 13 w",
-      "pop whatzzup watermelon"
+      "active ingredient na fluoride 0 243 0 13 w"
     ],
     "atc": "A01AA01"
   },
@@ -367,8 +368,8 @@
     "atc": "A01AC02"
   },
   {
-    "slug": "0-9g",
-    "canonical": "0 9g",
+    "slug": "oak",
+    "canonical": "oak",
     "names": [
       "hydrocortisone",
       "anti itch",
@@ -389,9 +390,22 @@
       "usp 1",
       "hydrocortisone with aloe",
       "hydrocortisone with aloe anti itch",
+      "truelipids 1 hydrocortisone barrier",
+      "active ingredient purpose hydrocortisone 1 anti itch",
+      "uses temporarily relieves itching associated with minor skin irritations",
+      "inflammation",
+      "rashes due to eczema psoriasis poison ivy",
+      "oak",
+      "sumac insect bites detergents soaps cosmetics jewelry seborrheic dermatitis temporarily relieves external anal",
+      "genital itching other uses of this product should only be under the advice",
+      "supervision of a doctor",
       "hydrocortisone continuous",
       "shopko hydrocortisone maximum strength",
       "live better hydrocortisone with aloe",
+      "neomycin sulphate",
+      "polymyxin b sulphate",
+      "neomycin",
+      "polymyxin b sulfates",
       "hydrocortisone plus 12 moisturizers"
     ],
     "atc": "A01AC03"
@@ -2344,10 +2358,9 @@
       "drug facts purpose bisacodyl 10 mg stimulant laxative",
       "publix women laxative",
       "loratadine",
-      "signature care allergy relief",
+      "allergy relief",
       "active ingredient loratadine 10 mg",
       "purpose antihistamine",
-      "allergy relief",
       "active ingredient loratadine",
       "10 mg usp",
       "dye free childrens loratadine",
@@ -3118,7 +3131,8 @@
     "slug": "prednisone",
     "canonical": "prednisone",
     "names": [
-      "prednisone"
+      "prednisone",
+      "prednisone delayed"
     ],
     "atc": "A07EA03"
   },
@@ -5563,7 +5577,6 @@
     "canonical": "nityr",
     "names": [
       "nitisinone",
-      "orfadin",
       "nityr"
     ],
     "atc": "A16AX04"
@@ -13722,8 +13735,6 @@
       "active ingredient salicylic acid 2 0",
       "replenix gly sal 10 2 cleanser",
       "active ingredient salicylic acid usp",
-      "first aid beauty fab acne spot treatment",
-      "active ingredients salicylic acid 2",
       "acne calming water",
       "active ingredients salicylic acid 1 purpose acne treatment",
       "wart remover",
@@ -13913,10 +13924,9 @@
       "purpose anti dandruff",
       "shoulders bare minimal ingredients soothing hydration",
       "equate dry scalp 2 in 1 dandruff anti dandruff",
-      "clear slate",
-      "zinc pyrithione",
       "clean apple",
       "eternal spirit beauty hair pro anti dandruff",
+      "zinc pyrithione",
       "zinc pyrithione 1",
       "anti dandruff",
       "salicylic acid",
@@ -15372,10 +15382,11 @@
     "canonical": "body wash",
     "names": [
       "chloroxylenol",
-      "hand guard high foaming antiseptic hand",
+      "suds high foaming antiseptic hand",
       "body wash",
       "drug facts box otc active ingredient section chloroxylenol 0 3",
       "drug facts box otc purpose section antiseptic",
+      "hand guard high foaming antiseptic hand",
       "sierrasoft clear antibacterial wash foam",
       "active ingredient chloroxylenol",
       "0 5 purpose antibacterial",
@@ -28031,10 +28042,12 @@
     "atc": "L04AJ"
   },
   {
-    "slug": "eculizumab",
-    "canonical": "eculizumab",
+    "slug": "bkemv",
+    "canonical": "bkemv",
     "names": [
-      "eculizumab"
+      "eculizumab",
+      "bkemv",
+      "eculizumab aeeb"
     ],
     "atc": "L04AJ01"
   },
@@ -34772,7 +34785,8 @@
       "14 mg delivered over 24 hours",
       "active ingredient step 3 nicotine",
       "7 mg delivered over 24 hours",
-      "nicotine mini"
+      "nicotine mini",
+      "active ingredient nicotine polacrilex 4 mg nicotine polacrilex 2 mg"
     ],
     "atc": "N07BA01"
   },
@@ -39226,10 +39240,11 @@
     "atc": "S01LA07"
   },
   {
-    "slug": "faricimab",
-    "canonical": "faricimab",
+    "slug": "vabysmo",
+    "canonical": "vabysmo",
     "names": [
-      "faricimab"
+      "faricimab",
+      "vabysmo"
     ],
     "atc": "S01LA09"
   },
@@ -42336,6 +42351,26 @@
     "atc": null
   },
   {
+    "slug": "trametinib-dimethyl-sulfoxide",
+    "canonical": "trametinib dimethyl sulfoxide",
+    "names": [
+      "trametinib dimethyl sulfoxide",
+      "mekinist",
+      "trametinib"
+    ],
+    "atc": null
+  },
+  {
+    "slug": "levothyroxine",
+    "canonical": "levothyroxine",
+    "names": [
+      "levothyroxine",
+      "liothyronine",
+      "np thyroid 120"
+    ],
+    "atc": null
+  },
+  {
     "slug": "varenicline-tartrate",
     "canonical": "varenicline tartrate",
     "names": [
@@ -42384,6 +42419,7 @@
       "purposes pain reliever",
       "fever reducer cough suppressant nasal decongestant",
       "active ingredient acetaminophen 325mg",
+      "extra strength pain relief",
       "diphenhydramine hcl",
       "childrens delsym cough plus cold night time",
       "active ingredients purposes acetaminophen 325 mg pain reliever",
@@ -42393,7 +42429,6 @@
       "fever",
       "active ingredient acetaminophen 160 mg",
       "codeine phosphate",
-      "extra strength pain relief",
       "active ingredient acetaminophen usp",
       "650 mg",
       "childrens pain relief",
@@ -42523,11 +42558,11 @@
       "vicks nyquil severe honey flavor cold",
       "dextromethrophan",
       "active ingredients acetaminophen 325 mg dextromethorphan hbr 10 mg doxylamine succinate 6 25 mg phenylephrine hcl 5 mg purpose pain reliever",
-      "pharbetol",
       "active ingredients acetaminophen",
       "usp 250 mg ibuprofen",
       "usp 125 mg nonsteroidal anti inflammatory drug",
       "purposes pain reliever pain reliever",
+      "pharbetol",
       "mucus relief cold flu sore throat maximum strength",
       "active ingredients acetaminophen 650 mg dextromethorphan hbr 20 mg guaifenesin 400 mg phenylephrine hcl 10 mg",
       "headache relief extra strength",
@@ -43410,10 +43445,8 @@
       "daydream cushion gentle light",
       "active ingredients avobenzone 1 5 homosalate 8 0 octisalate 3 0 titanium dioxide 11 8 purpose sunscreen",
       "purpose sunscreen",
-      "octocrylene",
-      "olay regenerist regenerating with sunscreen broad spectrum spf 15",
-      "active ingredients purpose avobenzone 3 0 sunscreen homosalate 4 0 sunscreen octisalate 4 5 sunscreen octocrylene 2 6 sunscreen",
       "octinoxate",
+      "octocrylene",
       "medichoice moisturizing lip balm spf15",
       "active ingredients avobenzone 3 0 octinoxate 6 5 octisalate 5 0 octocrylene 1 5 purpose sunscreen",
       "triple prep spf 40",
@@ -44061,9 +44094,6 @@
       "active ingredient uncoated zinc oxide 23 purpose sunscreen",
       "isa knox anew solaire everyday mineral face protection broad spectrum spf 50 sunscreen",
       "active ingredients zinc oxide 15 52",
-      "first aid beauty fab weightless mineral sunscreen broad spectrum spf 30",
-      "zinc oxide 22 sunscreen",
-      "sunscreen",
       "baby mineral sunscreen spf55",
       "active ingredients zinc oxide 20 0",
       "baby mineral sunscreen probiotics spf55",
@@ -44076,6 +44106,7 @@
       "native mineral sunscreen broad spectrum spf 30 sweet peach",
       "nectar",
       "zinc oxide 20 sunscreen",
+      "sunscreen",
       "skinfuse shield spf 30",
       "oneskin os 01 shield broad spectrum spf 30 mineral sunscreen tinted",
       "active ingredients zinc oxide 17 5",
@@ -44116,6 +44147,15 @@
       "everyday sun defense",
       "active ingredient zinc oxide 9 4",
       "otc purpose sunscreen"
+    ],
+    "atc": null
+  },
+  {
+    "slug": "zinc-oxide-22-sunscreen",
+    "canonical": "zinc oxide 22 sunscreen",
+    "names": [
+      "zinc oxide 22 sunscreen",
+      "sunscreen"
     ],
     "atc": null
   },
@@ -44326,13 +44366,10 @@
       "vicks childrens vaporub",
       "camphor 4 8 eucalyptus oil 1 2 menthol 2 6 purpose cough suppressant topical analgesic cough suppressant cough suppressant topical analgesic",
       "purpose cough suppressant topical analgesic cough suppressant cough suppressant topical analgesic",
-      "unspecified form",
-      "methyl salicylate",
-      "tiger balm muscle rub",
-      "active ingredients purpose methyl salicylate 15 topical analgesic menthol 5 topical analgesic camphor 3 topical analgesic",
       "equate rub",
       "active ingredients camphor 4 8 cough suppressant topical analgesic eucalyptus oil 1 2 cough suppressant menthol 2 6 cough suppressant topical analgesic",
       "purpose cough suppressant topical analgesic",
+      "unspecified form",
       "cvs health medicated chest rub",
       "active ingredients camphor 4 7 eucalyptus oil 1 2 menthol 2 6",
       "purpose camphor cough suppressant topical analgesic eucalyptus oil cough suppressant menthol cough suppressant topical analgesic",
@@ -44342,6 +44379,7 @@
       "tiger balm neck",
       "shoulder rub",
       "active ingredients purpose camphor 11 topical analgesic menthol 10 topical analgesic",
+      "methyl salicylate",
       "rite aid muscle rub ultra strength",
       "active ingredients camphor 4 menthol 10 methyl salicylate 30",
       "purpose camphor topical analgesic menthol topical analgesic methyl salicylate topical analgesic",
@@ -44451,6 +44489,8 @@
       "active ingredients titanium dioxide 1 9 zinc oxide 2 9",
       "dr jart cicapair tiger grass color correcting treatment",
       "active ingredients titanium dioxide 2 8 zinc oxide 5 8",
+      "g m collin fps spf 45 uva uvb tinted sunscreen",
+      "active ingredient titanium dioxide 11 2 zinc oxide 8 4",
       "luminous eye corrector spf 41 medium",
       "active ingredients titanium dioxide 10 00 zinc oxide 12 00",
       "stay agelesstinted sunscreen broad spectrum spf 30",
@@ -44604,9 +44644,7 @@
       "active ingredient active ingredient diphenhydramine hcl 25 mg",
       "purpose purpose antihistamine",
       "24 7 lift by 7 eleven",
-      "active ingredient diphenhydramine hcl 25 mg diphenhydramine hcl 50 mg",
-      "up",
-      "up allergy relief"
+      "active ingredient diphenhydramine hcl 25 mg diphenhydramine hcl 50 mg"
     ],
     "atc": null
   },
@@ -44646,9 +44684,9 @@
       "aspirin enteric coated",
       "aspirin 81 mg",
       "active ingredient aspirin 81mg nonsteroidal anti inflammatory drug",
-      "adult low dose enteric coated aspirin",
       "active ingredient aspirin 325 mg nonsteroidal anti inflammatory drug",
       "fever reducer",
+      "adult low dose enteric coated aspirin",
       "methocarbamol"
     ],
     "atc": null
@@ -45373,9 +45411,9 @@
       "diclofenac na",
       "active ingredient diclofenac na 1 nonsteroidal anti inflammatory drug",
       "purpose arthritis pain reliever",
+      "arthritis pain reliever",
       "diclofenac na topical",
       "1",
-      "arthritis pain reliever",
       "diclofenac na topical 1"
     ],
     "atc": null
@@ -45527,7 +45565,8 @@
     "canonical": "cromolyn na",
     "names": [
       "cromolyn na",
-      "gastrocrom"
+      "gastrocrom",
+      "cromolyn na inhalation"
     ],
     "atc": null
   },
@@ -45665,7 +45704,15 @@
       "w zinc oxide 15 w",
       "w",
       "purpose skin protectant",
-      "active ingredient white petrolatum 100 w"
+      "active ingredient white petrolatum 100 w",
+      "crash",
+      "active ingredient white petrolatum usp",
+      "purpose skin protectant uses temporarily protects minor cuts",
+      "scrapes",
+      "burns helps relieve",
+      "prevent",
+      "temporarily protect chaged",
+      "chapped or cracked skin"
     ],
     "atc": null
   },
@@ -45891,6 +45938,14 @@
       "atorvastatin calcium trihydrate",
       "atorvastatin calcium",
       "atorvastatin coated"
+    ],
+    "atc": null
+  },
+  {
+    "slug": "cyclobenzaprine-hcl",
+    "canonical": "cyclobenzaprine hcl",
+    "names": [
+      "cyclobenzaprine hcl"
     ],
     "atc": null
   },
@@ -46534,14 +46589,6 @@
     "atc": null
   },
   {
-    "slug": "cyclobenzaprine-hcl",
-    "canonical": "cyclobenzaprine hcl",
-    "names": [
-      "cyclobenzaprine hcl"
-    ],
-    "atc": null
-  },
-  {
     "slug": "cefazolin-na",
     "canonical": "cefazolin na",
     "names": [
@@ -46649,6 +46696,31 @@
     "atc": null
   },
   {
+    "slug": "fexofenadine-hcl",
+    "canonical": "fexofenadine hcl",
+    "names": [
+      "fexofenadine hcl",
+      "active ingredient fexofenadine hcl usp",
+      "180 mg",
+      "purpose antihistamine",
+      "allergy active ingredient fexofenadine hcl usp",
+      "60mg",
+      "pseudoephedrine hcl",
+      "active ingredient fexofenadine hcl",
+      "usp 60 mg pseudoephedrine hcl",
+      "usp 120 mg",
+      "purpose antihistamine nasal decongestant",
+      "valumeds 24 hour allergy relief",
+      "180 mg purpose antihistamine",
+      "curist hives relief",
+      "fexofenadine hcl 180 mg",
+      "active ingredient fexofenadine hcl usp 180 mg",
+      "childrens allergy relief",
+      "active ingredient fexofenadine hcl usp 30 mg"
+    ],
+    "atc": null
+  },
+  {
     "slug": "apraclonidine-hcl",
     "canonical": "apraclonidine hcl",
     "names": [
@@ -46679,14 +46751,6 @@
       "purpose skin protectant",
       "dry skin healing",
       "active ingredient petrolatum 41",
-      "resorcinol",
-      "resinol",
-      "active ingredients petrolatum 55",
-      "resorcinol 2",
-      "temporarily protects minor cuts scrapes burns temporarily relieves pain",
-      "itching associated with minor skin irritations minor burns sunburn minor cuts scrapes insect bites rashes due to poison ivy",
-      "oak",
-      "sumac",
       "petroleum",
       "active ingredient white petrolatum usp"
     ],
@@ -47192,7 +47256,8 @@
     "slug": "esmolol-hcl",
     "canonical": "esmolol hcl",
     "names": [
-      "esmolol hcl"
+      "esmolol hcl",
+      "esmolol hcl in na cl"
     ],
     "atc": null
   },
@@ -47907,6 +47972,12 @@
       "purposes antihistamine cough suppressant",
       "allergy",
       "active ingredient chlorpheniramine maleate 4 mg",
+      "cvs childrens cough",
+      "cold",
+      "dextrometrorphan hbr",
+      "purposes antihistamine cough suppressant uses temporarily relieves cough due to minor throat",
+      "bronchial irritation as may occur with a cold temporarily relieves these symptoms due to hay fever or other upper respiratory allergies runny nose sneezing itchy",
+      "watery eyes itching of the nose or throat",
       "hydrocodone bitartrate",
       "hydrocodone polistirex",
       "chlorpheniramine polistirex",
@@ -48020,30 +48091,6 @@
       "purposes pain reliever",
       "fever reducer cough suppressant",
       "fever reducer antihistamine cough suppressant"
-    ],
-    "atc": null
-  },
-  {
-    "slug": "fexofenadine-hcl",
-    "canonical": "fexofenadine hcl",
-    "names": [
-      "fexofenadine hcl",
-      "allergy active ingredient fexofenadine hcl usp",
-      "60mg",
-      "purpose antihistamine",
-      "pseudoephedrine hcl",
-      "active ingredient fexofenadine hcl",
-      "usp 60 mg pseudoephedrine hcl",
-      "usp 120 mg",
-      "purpose antihistamine nasal decongestant",
-      "valumeds 24 hour allergy relief",
-      "active ingredient fexofenadine hcl usp",
-      "180 mg purpose antihistamine",
-      "curist hives relief",
-      "fexofenadine hcl 180 mg",
-      "active ingredient fexofenadine hcl usp 180 mg",
-      "childrens allergy relief",
-      "active ingredient fexofenadine hcl usp 30 mg"
     ],
     "atc": null
   },
@@ -48236,6 +48283,15 @@
     "canonical": "oxycodone hcl",
     "names": [
       "oxycodone hcl"
+    ],
+    "atc": null
+  },
+  {
+    "slug": "prucalopride-succinate",
+    "canonical": "prucalopride succinate",
+    "names": [
+      "prucalopride succinate",
+      "prucalopride"
     ],
     "atc": null
   },
@@ -48515,6 +48571,17 @@
     "names": [
       "carbidopa",
       "levodopa"
+    ],
+    "atc": null
+  },
+  {
+    "slug": "levocetirizine-dihydrochloride",
+    "canonical": "levocetirizine dihydrochloride",
+    "names": [
+      "levocetirizine dihydrochloride",
+      "active ingredient levocetirizine dihydrochloride usp",
+      "5 mg",
+      "purpose antihistamine"
     ],
     "atc": null
   },
@@ -50522,6 +50589,14 @@
     "atc": null
   },
   {
+    "slug": "selegiline-hcl",
+    "canonical": "selegiline hcl",
+    "names": [
+      "selegiline hcl"
+    ],
+    "atc": null
+  },
+  {
     "slug": "nicotinamide-mononucleotide-600mg",
     "canonical": "nicotinamide mononucleotide 600mg",
     "names": [
@@ -50677,6 +50752,14 @@
       "theraworx joint relief roll on",
       "active ingredient olibanum 8x 0 05 hpus the letters h p u s indicate that the components in this product are officially monographed in the homeopathic pharmacopoeia of the united state purpose anti inflammatory",
       "purpose anti inflammatory"
+    ],
+    "atc": null
+  },
+  {
+    "slug": "ropivacaine-hcl",
+    "canonical": "ropivacaine hcl",
+    "names": [
+      "ropivacaine hcl"
     ],
     "atc": null
   },
@@ -51208,10 +51291,13 @@
     "canonical": "psyllium husk",
     "names": [
       "psyllium husk",
+      "cvs health",
+      "natural fiber supplement",
+      "active ingredient psyllium hydrophilic mucilloid 6 grams",
+      "purpose bulk forming laxative",
       "unflavored organic natural fiber",
       "supplement facts serving size 1 rounded teaspoon servings per container about 85 amount per serving dv calories 25 total carbohydrate 7 g 3 dietary fiber 3g 11 soluble fiber 2g total sugars 4g includes added sugars 4g 8 iron 0 4mg 2 na 5mg 1 k 30 mg 1 percent daily values are based on a 2000 calorie diet",
-      "daily value not established",
-      "purpose bulk forming laxative"
+      "daily value not established"
     ],
     "atc": null
   },
@@ -51434,6 +51520,14 @@
     "atc": null
   },
   {
+    "slug": "ustekinumab-aekn",
+    "canonical": "ustekinumab aekn",
+    "names": [
+      "ustekinumab aekn"
+    ],
+    "atc": null
+  },
+  {
     "slug": "glyburide",
     "canonical": "glyburide",
     "names": [
@@ -51448,6 +51542,18 @@
       "articaine hcl",
       "epinephrine bitartrate",
       "epinephrine"
+    ],
+    "atc": null
+  },
+  {
+    "slug": "atoltivimab",
+    "canonical": "atoltivimab",
+    "names": [
+      "atoltivimab",
+      "maftivimab",
+      "odesivimab",
+      "inmazeb",
+      "odesivimab ebgn"
     ],
     "atc": null
   },
@@ -51795,6 +51901,17 @@
     "names": [
       "levoleucovorin calcium",
       "levoleucovorin"
+    ],
+    "atc": null
+  },
+  {
+    "slug": "sennosides",
+    "canonical": "sennosides",
+    "names": [
+      "sennosides",
+      "gericare senna syrup",
+      "active ingredient sennosides 8 8 mg",
+      "laxative"
     ],
     "atc": null
   },
