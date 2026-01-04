@@ -24,8 +24,8 @@
     "atc": "A01AA"
   },
   {
-    "slug": "kindfill",
-    "canonical": "kindfill",
+    "slug": "gelato-apf",
+    "canonical": "gelato apf",
     "names": [
       "na fluoride",
       "anticavity rinse",
@@ -46,11 +46,6 @@
       "crest complete multi benefit whitening plus scope",
       "crest strawberry",
       "crest bubblegum",
-      "kindfill",
-      "cinnamon toothpaste",
-      "active ingredient na fluoride 62mg",
-      "purpose anti cavity",
-      "mint toothpaste",
       "for dental care",
       "antivavity",
       "active ingredient na fluoride 0 02 0 01 w",
@@ -66,9 +61,7 @@
       "active ingredient na fluoride 0 243 0 16 w",
       "purpose anticavity toopaste",
       "pop hint of mint",
-      "active ingredient na fluoride 0 243 0 14 w",
-      "pop pumpin strawberry",
-      "active ingredient na fluoride 0 243 0 13 w"
+      "active ingredient na fluoride 0 243 0 14 w"
     ],
     "atc": "A01AA01"
   },
@@ -120,10 +113,7 @@
       "0 4",
       "burkhart",
       "active ingredient stannous fluoride 0 4",
-      "purpose fluoride preventive treatment",
-      "enamelon preventive treatment",
-      "active ingredient stannous fluoride 0 40 0 15 w",
-      "sensitivity relief"
+      "purpose fluoride preventive treatment"
     ],
     "atc": "A01AA04"
   },
@@ -272,18 +262,228 @@
     "atc": "A01AB17"
   },
   {
-    "slug": "1",
-    "canonical": "1",
+    "slug": "w",
+    "canonical": "w",
     "names": [
-      "1",
       "clotrimazole",
       "active ingredient clotrimazole usp 1 w",
       "w",
       "purpose antifungal",
-      "active ingredient clotrimazole usp 1",
       "clotrimazole topical",
       "antifungal 1 clotrimazole",
-      "active ingredient active ingredients clotrimazole 1 0"
+      "active ingredient active ingredients clotrimazole 1 0",
+      "lidocaine",
+      "re lieved lidocaine patch",
+      "lidocaine patch 4",
+      "active ingredients lidocaine 4",
+      "purpose topical analgesic",
+      "menthol",
+      "dch nerve pain relief",
+      "lidocaine 4",
+      "menthol 1",
+      "topical anesthetic",
+      "topical analgesic",
+      "phenylephrine hcl",
+      "dch rapid relief hemorrhoidal",
+      "lidocaine 5",
+      "phenylephrine hcl 0 25",
+      "vasoconstrictor",
+      "dch pain relief",
+      "external analgesic",
+      "gen7t plus",
+      "healthwise pain relief lidocaine patch",
+      "active ingredient lidocaine 4 0",
+      "purpose topical anesthetic",
+      "active ingredient lidocaine 4 w",
+      "pain relieving lidocaine patch",
+      "active ingredient lidocaine 4",
+      "equate pain relieving patches",
+      "active ingredients lidocaine 4 0",
+      "lidocaine pain relief patch",
+      "active ingredients lidocaine 4 purpose topical analgesic",
+      "lidocaine pain relief patch 5 ct",
+      "active ingredients lidocaine 4 topical anesthetic",
+      "purpose external analgesic",
+      "fast freeze lidocaine",
+      "pain reliveing patch",
+      "greencaine blast",
+      "active ingredient lidocaine 4 purpose topical anesthetic",
+      "tridacaine xl",
+      "hemorrhoid pain relief",
+      "active ingredient lidocaine 5",
+      "purpose lidocaine 5 local anesthetic",
+      "rapid relief pain relief patch",
+      "petrolatum",
+      "liprotek",
+      "active ingredient petrolatum 61 lidocaine 0 6 purpose skin protectant external or topical analgesic",
+      "purpose skin protectant external or topical analgesic",
+      "hunter beach 4",
+      "20",
+      "benzocaine",
+      "resorcinol",
+      "thera plus maximum strength feminine anti itch",
+      "active ingredients benzocaine 20 resorcinol 3 purpose external analgesic",
+      "gelato topical anesthetic",
+      "active ingredients benzocaine 200mg",
+      "purpose anesthetic",
+      "anestenka",
+      "active ingrediets benzocaine 10",
+      "purpose pain reliever",
+      "primo topical anesthetic",
+      "candee caine topical anesthetic",
+      "stallion",
+      "delay creme",
+      "active ingredient benzocaine 5",
+      "purpose desensitizer",
+      "sta hard",
+      "desensitizing lubricant",
+      "defend",
+      "anesthetic liquid",
+      "active ingredient benzocaine 20 0 w",
+      "avant",
+      "active ingredient benzocaine",
+      "glycerin",
+      "finafta",
+      "active ingredients purpose benzocaine usp 5 anesthetic glycerin 33 demulcen",
+      "purpose anesthetic demulcen",
+      "instant erection",
+      "ultimate erection enhancer",
+      "anal ese",
+      "desensitizer",
+      "active ingredient benzocaine 7 5",
+      "anal blu",
+      "hurricaine topical anesthetic",
+      "active ingredient benzocaine 20",
+      "octinoxate",
+      "oxybenzone",
+      "artistry youth xtend lifting smoothing foundation shade chiffon l2c1",
+      "active ingredients octinoxate 7 5 w",
+      "p",
+      "p oxybenzone 0 5 w",
+      "w p",
+      "p purpose sunscreen",
+      "purpose sunscreen",
+      "octisalate",
+      "zinc oxide",
+      "private label moisturizing oil free paraben free spf43",
+      "sunscreen",
+      "active ingredients zinc oxide 7 50 octinoxate 7 50 octisalate 2 50",
+      "uses helps prevent sunbrun an dphoto damage caused by uva",
+      "uvb exposure if used as directed with other sun protection measures",
+      "decreases the risk of skin cancer",
+      "early skin aging caused by the sun",
+      "botanical soothing spf 30",
+      "active ingredients octinoxate octisalate zinc oxide",
+      "note mattifying extreme wear foundation",
+      "active ingredient octinoxate 0 6 purpose sunscreen",
+      "sheer defense tinted spf 46",
+      "active ingredient zinc oxide 12 octinoxate 7 5",
+      "artistry youth xtend lifting smoothing foundation shade natural l2n2",
+      "titanium dioxide",
+      "sheer defense tinted moisturizer spf 15 ml 40 merle norman",
+      "active ingredients purpose octinoxate 7 5 sunscreen titanium dioxide 4 37 sunscreen uses helps prevent sunburn if used as directed with other sun protection measures",
+      "early skin aging caused by the sun keep out of reach of children if swallowed",
+      "get medical help or contact a poison control center right away stop use",
+      "ask a doctor if rash occurs warnings for external use only do not use on damaged or broken skin when using this product keep out of eyes rinse with water to remove directions for sunscreen use apply liberally",
+      "evenly 15 minutes before sun exposure use a water resistant sunscreen if swimming or sweating reapply at least every 2 hours sun protection measures spending time in the sun increases your risk of skin cancer",
+      "early skin aging to decrease this risk",
+      "regularly use a sunscreen with a broad spectrum spf value of 15 or higher",
+      "other sun protection measures including limit time in the sun",
+      "especially from 10 a m 2 p m wear long sleeved shirts",
+      "pants",
+      "hats",
+      "sunglasses childdren under 6 months ask a doctor inactive ingredients water",
+      "dimethicone",
+      "butylene glycol",
+      "glyceryl stearate se",
+      "mica",
+      "talc",
+      "iron oxides",
+      "glyceryl dilaurate",
+      "glyceryl behenate",
+      "ceramide 3",
+      "saccharide isomerate",
+      "allantoin",
+      "tocopheryl acetate",
+      "tetrahexyldecyl ascorbate",
+      "glycine soja germ extract",
+      "echinacea purpurea extract",
+      "foeniculum vulgare fruit extract",
+      "equisetum arvense extract",
+      "chamomilla recutita flower extract",
+      "cucumis sativus fruit extract",
+      "camellia oleifera leaf extract",
+      "lecithin",
+      "palmitic acid",
+      "polyglyceryl 10 decaoleate",
+      "polyacrylamide",
+      "peg 12 dimethicone",
+      "octyldodecyl stearoyl stearate",
+      "steareth 20",
+      "c13 14 isoparaffin",
+      "isocetyl alcohol",
+      "propylene glycol",
+      "laureth 7",
+      "silica",
+      "cyclodextrin",
+      "disodium edta",
+      "phenoxyethanol",
+      "tetrasodium edta",
+      "bht",
+      "diazolidinyl urea",
+      "fragrance",
+      "uses helps prevent sunburn if used as directed with other sun protection measures",
+      "dr jart premium beauty balm fair light",
+      "octinoxate 6 8 octisalate 4 5 titanium dioxide 4 8 zinc oxide 5 0",
+      "dr jart premium beauty balm light medium medium",
+      "dr jart premium beauty balm medium tan",
+      "gr total cover 2 in 1 foundation",
+      "concealer spf 15",
+      "active ingredients octinoxate 1 w",
+      "v",
+      "broad spectrum spf45",
+      "active ingredients zinc oxide 12 octinoxate 7 5",
+      "camo cc spf30 deep 560 c",
+      "active ingredients octinoxate 7 5 titanium dioxide 4 45 zinc oxide 13 72 purpose sunscreen",
+      "flawless effect liquid foundation spf 15 merle norman",
+      "active ingredients octinoxate 7 50 oxybenzone 3 00 uses helps prevent sunburn if used as directed with other sun protection measures",
+      "early skin aging caused by the sun keep out of reach of children if product is swallowed",
+      "ask a doctor if rash occurs warnings for external use only do not use on damaged or broken skin when using this product keep out of eyes rinse with water to remove directions for sunscreen use apply liberally 15 minutes before sun exposure use a water resistant sunscreen if swimming or sweating reapply at least every 2 hours sun protection measures spending time in the sun increases your risk of skin cancer",
+      "regularly use a sunscreen with broad spectrum spf of 15 or higher",
+      "especially from 10 a m 2 p m wear long sleeve shirts",
+      "sunglasses children under 6 months ask a doctor water",
+      "cyclopentasiloxane",
+      "diisostearyl malate",
+      "ethylhexyl palmitate",
+      "pentylene glycol",
+      "peg 30 dipolyhydroxystearate",
+      "cyclohexasiloxane",
+      "aluminum starch octenylsuccinate",
+      "disteardimonium hectorite",
+      "hdi",
+      "ppg",
+      "polycaprolactone crosspolymer",
+      "glyceryl oleate",
+      "glyceryl stearate",
+      "myristyl myristate",
+      "polyglyceryl 3 beeswax",
+      "disodium stearoyl glutamate",
+      "na hyaluronate",
+      "ginkgo biloba leaf extract",
+      "aluminum hydroxide",
+      "alcohol denat",
+      "methylparaben",
+      "propylparaben",
+      "benzethonium cl",
+      "dyclonine hcl",
+      "liquid bandage",
+      "benzethonium cl plus dyclonine hcl",
+      "active ingredients benzethonium cl 0 2 dyclonine hcl 0 75",
+      "purpose first aid antiseptic topical analgesic",
+      "medi first protective coating bandage",
+      "active ingredients benzethonium cl 0 2 w",
+      "w benzocaine 3 2 w",
+      "purpose topical antiseptic topical anesthetic"
     ],
     "atc": "A01AB18"
   },
@@ -380,8 +580,6 @@
       "active ingredient hydrocortisone usp 1",
       "purpose antipruritic",
       "theracare hydrocortisone",
-      "cortizone 10 fast acting itch relief cooling",
-      "active ingredients hydrocortisone 1",
       "hydrocortisone kit",
       "equate cortisone",
       "hydrocortisone 1",
@@ -2299,9 +2497,6 @@
     "canonical": "senna",
     "names": [
       "docusate na",
-      "docusate na 100mg",
-      "active ingredient docusate na 100 mg",
-      "purpose stool softener",
       "sennosides",
       "senna s",
       "senna",
@@ -2311,7 +2506,8 @@
       "stool softener laxative",
       "active ingredient docusate na usp",
       "100 mg",
-      "purpose stool softener laxative"
+      "purpose stool softener laxative",
+      "active ingredient docusate na 100 mg"
     ],
     "atc": "A06AA02"
   },
@@ -2336,10 +2532,6 @@
     "canonical": "5 mg",
     "names": [
       "bisacodyl",
-      "walgreens gentle laxative",
-      "active ingredient active ingredient purpose bisacodyl 10 mg stimulant laxative",
-      "uses for relief of occasional constipation this product generally produces bowel movement in 1",
-      "4 to 1 hour",
       "dulcolax laxative",
       "active i ngredient bisacodyl 10 mg",
       "purpose stimulant laxative",
@@ -2380,6 +2572,8 @@
       "active ingredients purpose loratadine",
       "usp 10 mg antihistamine pseudoephedrine sulphate",
       "usp 240 mg nasal decongestant",
+      "loratadine 10mg",
+      "antihistamine",
       "xl 3 allergy",
       "active ingredient loratadine 10mg"
     ],
@@ -2599,15 +2793,10 @@
     "atc": "A06AD16"
   },
   {
-    "slug": "dibasic",
-    "canonical": "dibasic",
+    "slug": "na-phosphate",
+    "canonical": "na phosphate",
     "names": [
-      "na phosphate",
-      "dibasic",
-      "unspecified form",
-      "monobasic",
-      "equate ready to use enema laxative",
-      "active ingredients purpose dibasic na phosphate 7 g saline laxative monobasic na phosphate 19 g saline laxative"
+      "na phosphate"
     ],
     "atc": "A06AD17"
   },
@@ -6850,10 +7039,7 @@
       "use temporary relief of headache",
       "amino mask bioelements",
       "active ingredient purpose sulfur 5 acne treatment",
-      "use for the treatment of acne",
-      "acne therapy bar",
-      "active ingredient sulfur 3 purpose acne treatment",
-      "purpose acne treatment"
+      "use for the treatment of acne"
     ],
     "atc": "B03AA07"
   },
@@ -8122,246 +8308,6 @@
     "atc": "C01BA13"
   },
   {
-    "slug": "w",
-    "canonical": "w",
-    "names": [
-      "lidocaine",
-      "menthol",
-      "lidozen",
-      "active ingredients lidocaine 4 00 menthol 1 00 topical anesthetic external analgesic",
-      "topical anesthetic external analgesic",
-      "aspercreme with lidocaine dry",
-      "active i ngredient lidocaine 4",
-      "purpose topical anesthetic",
-      "re lieved lidocaine patch",
-      "lidocaine patch 4",
-      "active ingredients lidocaine 4",
-      "purpose topical analgesic",
-      "dch nerve pain relief",
-      "lidocaine 4",
-      "menthol 1",
-      "topical anesthetic",
-      "topical analgesic",
-      "phenylephrine hcl",
-      "dch rapid relief hemorrhoidal",
-      "lidocaine 5",
-      "phenylephrine hcl 0 25",
-      "vasoconstrictor",
-      "dch pain relief",
-      "external analgesic",
-      "gen7t plus",
-      "healthwise pain relief lidocaine patch",
-      "active ingredient lidocaine 4 0",
-      "active ingredient lidocaine 4 w",
-      "w",
-      "pain relieving lidocaine patch",
-      "active ingredient lidocaine 4",
-      "equate pain relieving patches",
-      "active ingredients lidocaine 4 0",
-      "lidocaine pain relief patch",
-      "active ingredients lidocaine 4 purpose topical analgesic",
-      "lidocaine pain relief patch 5 ct",
-      "active ingredients lidocaine 4 topical anesthetic",
-      "purpose external analgesic",
-      "fast freeze lidocaine",
-      "pain reliveing patch",
-      "greencaine blast",
-      "active ingredient lidocaine 4 purpose topical anesthetic",
-      "tridacaine xl",
-      "hemorrhoid pain relief",
-      "active ingredient lidocaine 5",
-      "purpose lidocaine 5 local anesthetic",
-      "rapid relief pain relief patch",
-      "petrolatum",
-      "liprotek",
-      "active ingredient petrolatum 61 lidocaine 0 6 purpose skin protectant external or topical analgesic",
-      "purpose skin protectant external or topical analgesic",
-      "dynamo delay sample bottle",
-      "active ingredient lidocaine usp 13",
-      "dr numb",
-      "hunter beach 4",
-      "20",
-      "benzocaine",
-      "resorcinol",
-      "thera plus maximum strength feminine anti itch",
-      "active ingredients benzocaine 20 resorcinol 3 purpose external analgesic",
-      "gelato topical anesthetic",
-      "active ingredients benzocaine 200mg",
-      "purpose anesthetic",
-      "anestenka",
-      "active ingrediets benzocaine 10",
-      "purpose pain reliever",
-      "primo topical anesthetic",
-      "candee caine topical anesthetic",
-      "stallion",
-      "delay creme",
-      "active ingredient benzocaine 5",
-      "purpose desensitizer",
-      "sta hard",
-      "desensitizing lubricant",
-      "defend",
-      "anesthetic liquid",
-      "active ingredient benzocaine 20 0 w",
-      "avant",
-      "active ingredient benzocaine",
-      "glycerin",
-      "finafta",
-      "active ingredients purpose benzocaine usp 5 anesthetic glycerin 33 demulcen",
-      "purpose anesthetic demulcen",
-      "instant erection",
-      "ultimate erection enhancer",
-      "anal ese",
-      "desensitizer",
-      "active ingredient benzocaine 7 5",
-      "anal blu",
-      "hurricaine topical anesthetic",
-      "active ingredient benzocaine 20",
-      "octinoxate",
-      "oxybenzone",
-      "artistry youth xtend lifting smoothing foundation shade chiffon l2c1",
-      "active ingredients octinoxate 7 5 w",
-      "p",
-      "p oxybenzone 0 5 w",
-      "w p",
-      "p purpose sunscreen",
-      "purpose sunscreen",
-      "octisalate",
-      "zinc oxide",
-      "private label moisturizing oil free paraben free spf43",
-      "sunscreen",
-      "active ingredients zinc oxide 7 50 octinoxate 7 50 octisalate 2 50",
-      "uses helps prevent sunbrun an dphoto damage caused by uva",
-      "uvb exposure if used as directed with other sun protection measures",
-      "decreases the risk of skin cancer",
-      "early skin aging caused by the sun",
-      "note mattifying extreme wear foundation",
-      "active ingredient octinoxate 0 6 purpose sunscreen",
-      "sheer defense tinted spf 46",
-      "active ingredient zinc oxide 12 octinoxate 7 5",
-      "titanium dioxide",
-      "no7 protect",
-      "perfect intense advanced all in one foundation spf 50 cameo",
-      "titanium dioixide",
-      "carton active ingredients section active ingredients octinoxate 6 5 titanium dioxide 4 25 octisalate 5 purpose sunscreen",
-      "uses uses helps prevent sunburn",
-      "artistry youth xtend lifting smoothing foundation shade natural l2n2",
-      "sheer defense tinted moisturizer spf 15 ml 40 merle norman",
-      "active ingredients purpose octinoxate 7 5 sunscreen titanium dioxide 4 37 sunscreen uses helps prevent sunburn if used as directed with other sun protection measures",
-      "early skin aging caused by the sun keep out of reach of children if swallowed",
-      "get medical help or contact a poison control center right away stop use",
-      "ask a doctor if rash occurs warnings for external use only do not use on damaged or broken skin when using this product keep out of eyes rinse with water to remove directions for sunscreen use apply liberally",
-      "evenly 15 minutes before sun exposure use a water resistant sunscreen if swimming or sweating reapply at least every 2 hours sun protection measures spending time in the sun increases your risk of skin cancer",
-      "early skin aging to decrease this risk",
-      "regularly use a sunscreen with a broad spectrum spf value of 15 or higher",
-      "other sun protection measures including limit time in the sun",
-      "especially from 10 a m 2 p m wear long sleeved shirts",
-      "pants",
-      "hats",
-      "sunglasses childdren under 6 months ask a doctor inactive ingredients water",
-      "dimethicone",
-      "butylene glycol",
-      "glyceryl stearate se",
-      "mica",
-      "talc",
-      "iron oxides",
-      "glyceryl dilaurate",
-      "glyceryl behenate",
-      "ceramide 3",
-      "saccharide isomerate",
-      "allantoin",
-      "tocopheryl acetate",
-      "tetrahexyldecyl ascorbate",
-      "glycine soja germ extract",
-      "echinacea purpurea extract",
-      "foeniculum vulgare fruit extract",
-      "equisetum arvense extract",
-      "chamomilla recutita flower extract",
-      "cucumis sativus fruit extract",
-      "camellia oleifera leaf extract",
-      "lecithin",
-      "palmitic acid",
-      "polyglyceryl 10 decaoleate",
-      "polyacrylamide",
-      "peg 12 dimethicone",
-      "octyldodecyl stearoyl stearate",
-      "steareth 20",
-      "c13 14 isoparaffin",
-      "isocetyl alcohol",
-      "propylene glycol",
-      "laureth 7",
-      "silica",
-      "cyclodextrin",
-      "disodium edta",
-      "phenoxyethanol",
-      "tetrasodium edta",
-      "bht",
-      "diazolidinyl urea",
-      "fragrance",
-      "uses helps prevent sunburn if used as directed with other sun protection measures",
-      "dr jart premium beauty balm fair light",
-      "octinoxate 6 8 octisalate 4 5 titanium dioxide 4 8 zinc oxide 5 0",
-      "dr jart premium beauty balm light medium medium",
-      "dr jart premium beauty balm medium tan",
-      "gr total cover 2 in 1 foundation",
-      "concealer spf 15",
-      "active ingredients octinoxate 1 w",
-      "v",
-      "broad spectrum spf45",
-      "active ingredients zinc oxide 12 octinoxate 7 5",
-      "no7 perfect",
-      "perfect intense advanced all in one foundation spf 50 willow",
-      "camo cc spf30 deep 560 c",
-      "active ingredients octinoxate 7 5 titanium dioxide 4 45 zinc oxide 13 72 purpose sunscreen",
-      "love your sunscreen broad spectrum spf 25",
-      "active ingredients octinoxate 7 0",
-      "zinc oxide 6 0",
-      "flawless effect liquid foundation spf 15 merle norman",
-      "active ingredients octinoxate 7 50 oxybenzone 3 00 uses helps prevent sunburn if used as directed with other sun protection measures",
-      "early skin aging caused by the sun keep out of reach of children if product is swallowed",
-      "ask a doctor if rash occurs warnings for external use only do not use on damaged or broken skin when using this product keep out of eyes rinse with water to remove directions for sunscreen use apply liberally 15 minutes before sun exposure use a water resistant sunscreen if swimming or sweating reapply at least every 2 hours sun protection measures spending time in the sun increases your risk of skin cancer",
-      "regularly use a sunscreen with broad spectrum spf of 15 or higher",
-      "especially from 10 a m 2 p m wear long sleeve shirts",
-      "sunglasses children under 6 months ask a doctor water",
-      "cyclopentasiloxane",
-      "diisostearyl malate",
-      "ethylhexyl palmitate",
-      "pentylene glycol",
-      "peg 30 dipolyhydroxystearate",
-      "cyclohexasiloxane",
-      "aluminum starch octenylsuccinate",
-      "disteardimonium hectorite",
-      "hdi",
-      "ppg",
-      "polycaprolactone crosspolymer",
-      "glyceryl oleate",
-      "glyceryl stearate",
-      "myristyl myristate",
-      "polyglyceryl 3 beeswax",
-      "disodium stearoyl glutamate",
-      "na hyaluronate",
-      "ginkgo biloba leaf extract",
-      "aluminum hydroxide",
-      "alcohol denat",
-      "methylparaben",
-      "propylparaben",
-      "benzethonium cl",
-      "hand e foam",
-      "otc antimicrobial drug products",
-      "active ingredient benzethonium cl 0 20",
-      "purpose antiseptic handwash",
-      "dyclonine hcl",
-      "liquid bandage",
-      "benzethonium cl plus dyclonine hcl",
-      "active ingredients benzethonium cl 0 2 dyclonine hcl 0 75",
-      "purpose first aid antiseptic topical analgesic",
-      "medi first protective coating bandage",
-      "active ingredients benzethonium cl 0 2 w",
-      "w benzocaine 3 2 w",
-      "purpose topical antiseptic topical anesthetic"
-    ],
-    "atc": "C01BB01"
-  },
-  {
     "slug": "mexiletine",
     "canonical": "mexiletine",
     "names": [
@@ -9203,7 +9149,6 @@
       "purposes pain reliever",
       "leader ibuprofen",
       "active ingredient ibuprofen 100 mg nonsteroidal anti inflammatory drug",
-      "200 mg nonsteroidal anti inflammatory drug purpose pain reliever",
       "concentrated ibuprofen infants",
       "active ingredient ibuprofen 50 mg nonsteroidal anti inflammatory drug",
       "topcare infants ibuprofen",
@@ -10048,9 +9993,8 @@
     "names": [
       "hydrochlorothiazide",
       "lisinopril",
-      "olmesartan medoxomil",
-      "olmesartan medoxomil hydrochlorothiazide",
       "triamterene",
+      "olmesartan medoxomil",
       "losartan k"
     ],
     "atc": "C03AA03"
@@ -13750,10 +13694,6 @@
       "callus remover",
       "active ingredient salicylic acid 17 w",
       "purpose corn",
-      "bluedot callus removers",
-      "active ingredient salicylic acid 40 in a plaster vehicle",
-      "purposes corn",
-      "calluses removal",
       "shailee psoriasis treatment",
       "active ingredient purpose salicylic acid 3 psoriasis",
       "dandruff seborrheic dermatitis",
@@ -13761,8 +13701,6 @@
       "purpose wart remover",
       "even better clinical acne solutions",
       "active ingredients salicylic acid 0 5",
-      "acne therapy moisturizing",
-      "active ingredient salicylic acid 1 5",
       "satinique anti dandruff scalp",
       "hair",
       "active ingredients salicylic acid 2 0 purpose anti dandruff",
@@ -13775,9 +13713,6 @@
       "active ingredient salicylic acid 40",
       "purpose callus remover",
       "medicated callus removers extra thick",
-      "oil free daily face eqb",
-      "salicylic acid 2",
-      "active ingreient purpose salicylic acid 2 acne medication",
       "medicated corn removers",
       "purpose corn remover",
       "skinpharmacy advanced acne therapy pore refining facial mask",
@@ -13847,11 +13782,9 @@
       "novonail",
       "tolnaftate 1",
       "antifungal",
-      "fungablend 10",
-      "active ingredients tolnaftate 1 0 purpose antifungal",
-      "purpose antifungal",
       "tolnafate",
       "active ingredient tolnaftate 1",
+      "purpose antifungal",
       "meijer athletes foot liquid",
       "foot odor control"
     ],
@@ -13900,44 +13833,18 @@
       "betadine",
       "drug facts active ingredients povidone iodine",
       "purpose first aid antiseptic",
-      "lights povindone iodine scrub",
-      "active ingredient povidone iodine usp",
-      "purpose antiseptic",
       "medichoice povidone iodine prep pad",
       "active ingredient povidone iodine usp 10 purpose antiseptic",
+      "purpose antiseptic",
       "povidone iodine impregnated",
       "active ingredients povidone iodine",
       "usp 10",
       "povidone iodine scrub sterile",
       "active ingredient povidone iodine 7 5 purpose antiseptic",
-      "active ingredient povidone iodine 10",
-      "prep pad sterile",
-      "otc purpose",
       "medichoice pvp",
+      "active ingredient povidone iodine usp",
       "10 w",
-      "w purpose antiseptic",
-      "pyrithione zinc",
-      "head",
-      "shoulders bare minimal ingredients",
-      "active ingredient pyrithione zinc 1",
-      "purpose anti dandruff",
-      "shoulders bare minimal ingredients soothing hydration",
-      "equate dry scalp 2 in 1 dandruff anti dandruff",
-      "clean apple",
-      "eternal spirit beauty hair pro anti dandruff",
-      "zinc pyrithione",
-      "zinc pyrithione 1",
-      "anti dandruff",
-      "salicylic acid",
-      "selenium sulfide",
-      "anti dandruff intensive therapy",
-      "active ingredient selenium sulfide 1 pyrithione zinc 1 salicylic acid 1",
-      "anti seborrheic",
-      "seborrheic dermatitis therapy",
-      "active ingredient pyrithone zinc 1 salicylic acid 1",
-      "purpose seborrheic dermatitis treatment",
-      "dandruff",
-      "dry scalp care"
+      "w purpose antiseptic"
     ],
     "atc": "D01AE24"
   },
@@ -14454,19 +14361,11 @@
     "atc": "D05AX04"
   },
   {
-    "slug": "acne",
-    "canonical": "acne",
+    "slug": "tazorac",
+    "canonical": "tazorac",
     "names": [
       "tazarotene",
-      "tazorac",
-      "tazarodex plaque psoriasis",
-      "acne",
-      "tazarodex plaque psoriasis acne active ingredient tazarotene 0 1",
-      "tazarodex plaque psoriasis acne purpose plaque psoriasis acne",
-      "pso thera scalp psoriasis",
-      "tazaratone",
-      "pso thera scalp psoriasis shampoo active ingredient tazarotene 0 05",
-      "pso thera scalp psoriasis shampoo purpose controls symptoms of scalp psoriasis"
+      "tazorac"
     ],
     "atc": "D05AX05"
   },
@@ -15895,6 +15794,8 @@
       "vie naturelle acne body",
       "active ingredients benzoyl peroxide 2 5 acne treatment",
       "acne treatment",
+      "clear med 5",
+      "active ingredients benzoyl peroxide 5",
       "replenix acne",
       "active ingredient benzoyl peroxide",
       "usp 5",
@@ -15975,11 +15876,7 @@
     "slug": "azelaic-acid",
     "canonical": "azelaic acid",
     "names": [
-      "azelaic acid",
-      "tranexamic acid",
-      "rosacea therapy moisturizing",
-      "rosacea therapy moisturizing active ingredient azelaic acid 5 tranexamic acid 1",
-      "rosacea therapy moisturizing purpose rosacea treatment"
+      "azelaic acid"
     ],
     "atc": "D10AX03"
   },
@@ -16262,6 +16159,23 @@
       "hydroquinone"
     ],
     "atc": "D11AX11"
+  },
+  {
+    "slug": "head",
+    "canonical": "head",
+    "names": [
+      "pyrithione zinc",
+      "head",
+      "shoulders bare minimal ingredients",
+      "active ingredient pyrithione zinc 1",
+      "purpose anti dandruff",
+      "shoulders bare minimal ingredients soothing hydration",
+      "equate dry scalp 2 in 1 dandruff anti dandruff",
+      "clean apple",
+      "dandruff",
+      "dry scalp care"
+    ],
+    "atc": "D11AX12"
   },
   {
     "slug": "monobenzone",
@@ -26392,17 +26306,6 @@
     "canonical": "lead",
     "names": [
       "arsenic trioxide",
-      "cupric acetate",
-      "lobelia spicata leaf",
-      "pork kidney",
-      "tobacco leaf",
-      "cuprum aceticum nicotiana",
-      "active ingredients cuprum aceticum 6x",
-      "lobelia 6x",
-      "renes 6x",
-      "nicotiana 10x",
-      "arsenicum album 12x",
-      "use temporary relief of cough",
       "ceanothus americanus leaf",
       "cinchona officinalis bark",
       "digitalis",
@@ -34770,7 +34673,6 @@
       "equate nicotine",
       "active ingredient nicotine polacrilex",
       "nicorette fruit chill nicotine polacrilex",
-      "topcare nicotine polacrilex",
       "exchange select nicotine",
       "basic care nicotine",
       "topcare nicotine",
@@ -35086,13 +34988,10 @@
     "atc": "N07XX23"
   },
   {
-    "slug": "delsym",
-    "canonical": "delsym",
+    "slug": "dextromethorphan",
+    "canonical": "dextromethorphan",
     "names": [
-      "dextromethorphan",
-      "delsym",
-      "active ingredient dextromethorphan polistirex equivalent to 30 mg dextromethorphan hydrobromide",
-      "purpose cough suppressant"
+      "dextromethorphan"
     ],
     "atc": "N07XX59"
   },
@@ -42173,14 +42072,6 @@
     "atc": "V10XX"
   },
   {
-    "slug": "na-phosphate",
-    "canonical": "na phosphate",
-    "names": [
-      "na phosphate"
-    ],
-    "atc": "V10XX01"
-  },
-  {
     "slug": "ibritumomab-tiuxetan",
     "canonical": "ibritumomab tiuxetan",
     "names": [
@@ -42291,6 +42182,15 @@
     "atc": null
   },
   {
+    "slug": "active-ingredient-sulfur-3-purpose-acne-treatment",
+    "canonical": "active ingredient sulfur 3 purpose acne treatment",
+    "names": [
+      "active ingredient sulfur 3 purpose acne treatment",
+      "purpose acne treatment"
+    ],
+    "atc": null
+  },
+  {
     "slug": "benzalkonium-cl",
     "canonical": "benzalkonium cl",
     "names": [
@@ -42307,11 +42207,9 @@
       "purpose topical antiseptic",
       "ps 2205 bzk antiseptic towelettes",
       "purpose first aid antiseptic",
-      "biopure shield",
-      "purpose antiseptic",
-      "antimicrobial",
       "callington anti bacterial hand sanitizer wipe",
       "active ingredient benzalkonium cl 0 05",
+      "purpose antiseptic",
       "maxsaver sanitizing wipes",
       "purpose antimicrobal",
       "kroger antibacterial",
@@ -42327,16 +42225,13 @@
       "purpose antimicrobial",
       "simplify antibacterial hand wipes",
       "ecolab",
-      "purpose antiseptic handwash",
       "active ingredient benzalkonium cl",
       "0 55",
+      "purpose antiseptic handwash",
       "al shields disposable antibacterial hand wipes with clean lemon scent",
       "active ingredient benzalkonium cl 0 1 purpose antibacterial",
-      "biopure 1600ct antibacterial hand wipes",
-      "active ingredient 0 12 benzalkonium cl",
       "swisher",
-      "active ingredient benzalkonium cl 0 5",
-      "magicshine antibacterial foaming hand"
+      "active ingredient benzalkonium cl 0 5"
     ],
     "atc": null
   },
@@ -42424,9 +42319,6 @@
       "active ingredients purposes acetaminophen 325 mg pain reliever",
       "fever reducer diphenhydramine hcl 12 5 mg antihistamine",
       "cough suppressant phenylephrine hcl 5 mg nasal decongestant",
-      "topcare childrens pain",
-      "fever",
-      "active ingredient acetaminophen 160 mg",
       "codeine phosphate",
       "active ingredient acetaminophen usp",
       "650 mg",
@@ -42488,18 +42380,9 @@
       "drug facts active ingredients acetaminophen 325 mg dextromethorphan hbr 15 mg doxylamine succinate 6 25 mg",
       "purpose acetaminophen pain reliever",
       "fever reducer dextromethorphan hbr cough suppressant doxylamine succinate antihistamine",
-      "phenylephrine",
-      "flu cherry",
-      "uses temporarily relieves common cold",
-      "flu symptoms cough due to minor throat bronchial irritation sore throat headache minor aches pains fever runny nose",
-      "sneezing",
-      "dg health pain relief",
       "aspirin",
       "kirkland signature migraine headache relief",
       "active ingredients acetaminophen 250 mg aspirin 250 mg caffeine 65 mg nonsteroidal anti inflammatory drug",
-      "dextromethorphan",
-      "active ingredients purpose acetaminophen 650 mg pain reliever",
-      "fever reducer dextromethorphan hbr 30 mg cough suppressant doxylamine succinate 12 5 mg antihistamine",
       "severe cold",
       "active ingredients acetaminophen 650 mg dextromethorphan hbr 20 mg doxylamine succinate 12 5 mg phenylephrine hcl 10 mg",
       "fever reducer cough suppressant antihistamine nasal decongestant",
@@ -42509,27 +42392,27 @@
       "coated",
       "active ingredients active ingredients acetaminophen 250 mg ibuprofen 125 mg nonsteroidal anti inflammatory drug",
       "purposes purposes pain reliever pain reliever",
-      "xl 3 night time",
-      "acetaminophen 325 mg dextromethorphan hbr 10 mg doxylamine succinate 12 5 mg",
-      "pain reliever",
       "theraflu flu relief max strength daytime",
       "active ingredients acetaminophen 1000 mg dextromethorphan hbr 30 mg",
       "fever reducer cough suppressant",
       "flu severe",
       "caseys 4goog",
       "caseys 4good",
+      "phenylephrine",
       "active ingredients active ingredients acetaminophen 325 mg dextromethorphan hbr 10 mg guaifenesin 200 mg phenylephrine hcl 5 mg",
       "purpose purpose pain reliever",
       "sinus relief",
       "phenylephrine hcl caplet",
       "active ingredient active ingredients acetaminophen 325 mg guaifenesin 200 mg phenylephrine hcl 5 mg",
       "childrens pain",
+      "fever",
+      "active ingredient acetaminophen 160 mg",
       "butalbital",
       "tylenol 8 hr muscle aches",
       "pain",
       "active ingredient acetaminophen 650 mg",
       "tylenol 8 hr arthritis pain",
-      "extra strength pain releif",
+      "pain reliever",
       "acetaminophen 500 mg",
       "active ingredient active ingredient acetaminophen 500 mg",
       "pain reliever pm extra strength",
@@ -42581,8 +42464,6 @@
       "body pain",
       "asprin",
       "active ingredients acetaminophen 325 mg aspirin 500 mg nonsteroidal anti inflammatory drug",
-      "multi symptom daytime",
-      "fever reducer dextromethorphan hydrobromide 10 mg cough suppressant phenylephrine hcl 5 mg nasal decongestant",
       "maximum strength nighttime cold",
       "active ingredients purposes acetaminophen 650 mg pain reliever",
       "fever reducer diphenhydramine hcl 25 mg antihistamine",
@@ -42595,6 +42476,16 @@
       "active ingredients purpose active ingredients purpose acetaminophen 500 mg pain reliever",
       "fever reducer dextromethorphan hbr 26 66 mg cough suppressant guaifenesin 400 mg expectorant phenylephrine hcl 10 mg nasal descongestant",
       "purpose active ingredients purpose acetaminophen 500 mg pain reliever"
+    ],
+    "atc": null
+  },
+  {
+    "slug": "acetaminophen-325-mg-dextromethorphan-hbr-10-mg-doxylamine-succinate-12-5-mg",
+    "canonical": "acetaminophen 325 mg dextromethorphan hbr 10 mg doxylamine succinate 12 5 mg",
+    "names": [
+      "acetaminophen 325 mg dextromethorphan hbr 10 mg doxylamine succinate 12 5 mg",
+      "pain reliever",
+      "fever reducer cough suppressant antihistamine"
     ],
     "atc": null
   },
@@ -42909,6 +42800,14 @@
     "atc": null
   },
   {
+    "slug": "otc-purpose",
+    "canonical": "otc purpose",
+    "names": [
+      "otc purpose"
+    ],
+    "atc": null
+  },
+  {
     "slug": "otc-active-ingredient-octinoxate-4-00-sunscreen-titanium-dioxide-1-26-sunscreen",
     "canonical": "otc active ingredient octinoxate 4 00 sunscreen titanium dioxide 1 26 sunscreen",
     "names": [
@@ -43109,11 +43008,6 @@
       "unscented",
       "active ingredient aluminum chlorohydrate 10 purpose antiperspirant",
       "purpose antiperspirant",
-      "roll on anti perspirant",
-      "active ingredient aluminum chlorohydrate 10 basis",
-      "toms of maine for men charcoal antiperspirant",
-      "deodorant",
-      "active ingredient aluminum chlorohydrate",
       "dove",
       "advanced care lavender fresh dry 48h antiperspirant deodorant",
       "drug facts active ingredient aluminum chlorohydrate",
@@ -43128,14 +43022,7 @@
       "advanced care sheer fresh dry 48h antiperspirant deodorant",
       "odorono antiperspirant",
       "deodorant roll on original",
-      "active ingredients aluminum chlorohydrate 16",
-      "dry idea antiperspirant",
-      "deodorant fragrance free",
-      "otc active ingredient",
-      "otc purpose",
-      "right guard x antiperspirant",
-      "deodorant dryspray fragrance free",
-      "deodorant dryspray fresh blast"
+      "active ingredients aluminum chlorohydrate 16"
     ],
     "atc": null
   },
@@ -43305,9 +43192,7 @@
       "aluminum zirconium octachlorohydrex gly",
       "secret clinical clear clean lavender",
       "active ingredient aluminum zirconium octachlorohydrex gly 20",
-      "purpose antiperspirant",
-      "secret nurturing coconut clear",
-      "active ingredient aluminum zirconium octachlorohydrex gly 17"
+      "purpose antiperspirant"
     ],
     "atc": null
   },
@@ -43391,22 +43276,6 @@
     "atc": null
   },
   {
-    "slug": "lanolin",
-    "canonical": "lanolin",
-    "names": [
-      "lanolin",
-      "petrolatum",
-      "veradex e",
-      "active ingredients petrolatum usp 58 95 lanolin usp 35",
-      "purpose petrolatum usp 58 95 protectant lanolin usp 35 protectant",
-      "careall vitamin a",
-      "d",
-      "lanolin 1 white petrolatum 97",
-      "skin protectant"
-    ],
-    "atc": null
-  },
-  {
     "slug": "sertraline-hcl",
     "canonical": "sertraline hcl",
     "names": [
@@ -43434,184 +43303,6 @@
       "esomeprazole magnesium",
       "drug facts active ingredient esomeprazole 20 mg",
       "purpose acid reducer"
-    ],
-    "atc": null
-  },
-  {
-    "slug": "avobenzone",
-    "canonical": "avobenzone",
-    "names": [
-      "avobenzone",
-      "homosalate",
-      "octisalate",
-      "titanium dioxide",
-      "daydream cushion gentle light",
-      "active ingredients avobenzone 1 5 homosalate 8 0 octisalate 3 0 titanium dioxide 11 8 purpose sunscreen",
-      "purpose sunscreen",
-      "octocrylene",
-      "olay regenerist regenerating with sunscreen broad spectrum spf 15",
-      "active ingredients purpose avobenzone 3 0 sunscreen homosalate 4 0 sunscreen octisalate 4 5 sunscreen octocrylene 2 6 sunscreen",
-      "octinoxate",
-      "medichoice moisturizing lip balm spf15",
-      "active ingredients avobenzone 3 0 octinoxate 6 5 octisalate 5 0 octocrylene 1 5 purpose sunscreen",
-      "triple prep spf 40",
-      "active ingredients avobenzone 3",
-      "homosalate 7",
-      "octisalate 5",
-      "octocrylene 6",
-      "helps prevent sunburn if used as directed with other sun protection measures",
-      "decreases the risk of skin cancer",
-      "early skin aging caused by the sun",
-      "kizo lab uv defense clear sunscren spf50",
-      "active ingredients drug facts active ingredients purpose avobenzone 3 0 sunscreen homosalate 8 0 sunscreen octisalate 5 0 sunscreen octocrylene 4 0 sunscreen",
-      "uses helps prevent sunburn if used as directed",
-      "with other sun protection measures",
-      "reef kids spf 30 oxybenzone free",
-      "active ingredients octocrylene 5 0 octisalate 3 0 avobenzone 2 5",
-      "oxybenzone",
-      "equate beauty daily moisturizer spf 30 sunscreen",
-      "active ingredients purpose avobenzone 3 sunscreen homosalate 15 sunscreen octisalate 5 sunscreen octocrylene 3 sunscreen oxybenzone 6 sunscreen",
-      "naturium dew glow moisturizer spf 50",
-      "active ingredients avobenzone 3 homosalate 10 octisalate 5",
-      "h e b solutions sunscreen",
-      "sport spf 70",
-      "active ingredients avobenzone 3 0",
-      "homosalate 10 0",
-      "octisalate 3 0",
-      "octocrylene 7 0",
-      "oxybenzone 6 0",
-      "aloe up sunscreen spf 50",
-      "active ingredients avobenzone homosalate octinoxate octisalate octocrylene",
-      "shiseido ultimate sun protector",
-      "active ingredients purpose avobenzone 2 3 sunscreen homosalate 10 0 sunscreen octisalate 5 0 sunscreen octocrylene 5 0 sunscreen",
-      "sunscreen",
-      "active ingredients avobenzone 3 homosalate 15 octisalate 5 octocrylene 10",
-      "mary kay timewise daytime defender sunscreen broad spectrum spf 30",
-      "active ingredients avobenzone 3 w",
-      "w octisalate 4 5 w",
-      "w octocrylene 9 w",
-      "w",
-      "clear glow broad spectrum suncreen spf 50",
-      "homosalate octisalate",
-      "active ingredients avobenzone 3 homosalate 10 octilsalate 5 octocrylene 8 purpose sunscreen",
-      "american crew all in one face balm broad spectrum spf 15",
-      "active ingredients octisalate 5 0 homosalate 5 0 avobenzone 2 0 octocrylene 2 0",
-      "isa knox anew solaire everyday face protection broad spectrum spf 50 sunscreen",
-      "active ingredients avobenzone 2 7 homosalate 9 0 octisalate 4 5 octocrylene 9 0",
-      "sun bum spf 15 premium moisturizing sunscreen",
-      "active ingredients avobenzone 3 00",
-      "homosalate 6 00",
-      "octisalate 5 00",
-      "octocrylene 2 00 purpose sunscreen",
-      "lancome paris renergie hpn 300 peptide broad spectrum spf 25 sunscreen",
-      "active ingredients avobenzone 3 octisalate 5 octocrylene 7",
-      "restorative day moisture spf 15",
-      "active ingredients purpose octinoxate 5 sunscreen avobenzone 3 sunscreen",
-      "use helps prevent sunburn",
-      "lancome paris uv expert aquagel defense 50 plus sunscreen broad spectrum spf 50 plus primer",
-      "moisturizer with antioxidant vitamin e",
-      "active ingredients avobenzone 3 homosalate 15 octisalate 5 octocrylene 7",
-      "roc barrier renew am moisturizer spf 30",
-      "active ingredients active ingredients purpose avobenzone 2 0",
-      "homosalate 5 5",
-      "octisalate 4 5",
-      "octocrylene 4 0 sunscreen",
-      "uses uses helps prevent sunburn if used as directed with other sun protection measures",
-      "early signs of aging caused by the sun",
-      "mario badescu collagen spf 15",
-      "2000dl cl30v",
-      "spf30 bs vanilla",
-      "active ingredients avobenzone 3 octocrylene 8",
-      "gr lip butter cookie spf 15",
-      "active ingredient avobenzone 2 7 w",
-      "w octinoxate 6 w",
-      "2000dl cl30t",
-      "spf30 bs tropical",
-      "belif the true aqua bomb sunscreen broad spectrum spf 50",
-      "active ingredients avobenzone 2 7 homosalate 9 octisalate 4 5 octocrylene 9",
-      "dr jart every sun day sun fluid",
-      "active ingredients avobenzone 2 9 homosalate 9 0 octinoxate 6 8 octisalate 4 5 octocrylene 4 0",
-      "alba botanica maximum sunscreen spf 70",
-      "avobenzone 2 9 homosalate 14 7 octisalate 4 9 octocrylene 9 5",
-      "sunscreen helps prevent sunburn",
-      "lancome paris high resolution refill 3x triple action renewal anti wrinkle broad spectrum spf 15 sunscreen",
-      "active ingredients avobenzone 3 octisalate 5 octocrylene 3",
-      "powerbright moisturizer spf 50",
-      "active ingredient octocrylene 8 0 homosalate 5 0 avobenzone 3 0 octisalate 3 0",
-      "loreal paris revitalift derm intensives invisible uv fluid broad spectrum spf 50 sunscreen",
-      "homosalate 9 00 octinoxate 6 80 octisalate 4 50 octocrylene 4 00 avobenzone 2 90",
-      "future youth daily turnaround hydrating moisturizer spf 50",
-      "active ingredients active ingredients purpose avobenzone 3 sunscreen homosalate 15 sunscreen octisalate 5 sunscreen",
-      "decreases the risk of skin cancer early skin aging caused by the sun",
-      "bobbi brown primer plus protection broad spectrum spf50",
-      "and oxybenzone",
-      "active ingredients avobenzone 3 00 homosalate 5 00 octisalate 5 00 octocrylene 2 70 oxybenzone 3 00",
-      "la roche posay laboratoire dermatologique anthelios 60 face light fluid sunscreen broad spectrum spf 60 water resistant 80 minutes",
-      "active ingredients avobenzone 3 homosalate 10 octisalate 5 octocrylene 7",
-      "bali body watermelon tanning oil spf 6",
-      "active ingredients octisalate 5 octocrylene 3 avobenzone 1",
-      "bali body cacao tanning oil spf 15",
-      "active ingredients octocrylene 9 octisalate 5 avobenzone 3",
-      "sheer touch sunscreen spf 55",
-      "active ingredients avobenzone 3 homosalate 12 octisalate 5",
-      "broad spectrum spf50 spf 50",
-      "active ingredients avobenzone 3 homosalate 10 octilsalate 5 purpose sunscreen",
-      "farmasi bb",
-      "active ingredient butyl methoxydibenzoylmethane 2 95 ethylhexyl methoxycinnamate 7 35 homosalate 9 79 octocrylene 6 15 purpose sunscreen",
-      "play everyday face spf 50",
-      "active ingredients purpose avobenzone 3 sunscreen homosalate 10 sunscreen octisalate 5 sunscreen octocrylene 7 5 sunscreen",
-      "uses helps prevent sunburn if used as directed with other sun protection measures",
-      "hydrating sunscreen moisturizer broad spectrum spf50 spf 50",
-      "hawaiian tropic",
-      "active ingredient avobenzone 2 7",
-      "homosalate 8 0",
-      "octocrylene 6 0",
-      "rubber ducky spf 50 unfragranced sunscreen",
-      "avobenzone 3",
-      "homosalate 10",
-      "fresh coast spf 50 sunscreen",
-      "homosalate 15",
-      "octocrylene 10",
-      "neutrogena beach defense water plus sun protection sunscreen broad spectrum spf 50",
-      "active ingredients purpose avobenzone 3 sunscreen homosalate 10 sunscreen octisalate 5 sunscreen octocrylene 10 sunscreen",
-      "broad spectrum spf15 very water resistant sunscreen",
-      "active ingredients avobenzone 3 homosalate 7 34 octocrylene 5 octyl salicylate 5 purpose sunscreen",
-      "coppertone everytone face sunscreen spf 55",
-      "coppertone sport face spf 60 plus sunscreen",
-      "men scented sunscreen spf 50 woodsman slam",
-      "avabenzone 3 homosalate 10 octisalate 5",
-      "active ingredients purpose avobenzone 3 00 sunscreen homosalate 10 00 sunscreen octisalate 5 00 sunscreen",
-      "coppertone everytone sunscreen spf 50",
-      "homosalate 9",
-      "octocrylene 9",
-      "kiehls since 1851 activated sun protector broad spectrum spf 50 sunscreen water resistant 80 minutes",
-      "active ingredient avobenzone 3 homosalate 10 72 octisalate 3 21 octocrylene 6 oxybenzone 3 86",
-      "neutrogena age shield face oil free sunscreen broad spectrum spf 70",
-      "active ingredients purpose avobenzone 3 sunscreen homosalate 15 sunscreen octisalate 5 sunscreen octocrylene 10 sunscreen",
-      "bee bald smooth plus daily moisturizer spf 30 sunscreen",
-      "octocrylene 2 7",
-      "oxybenzone 6",
-      "active ingredients avobenzone 2 7 homosalate 8 0 octocrylene 6 0",
-      "purpose sunscreen agent",
-      "dermalogica dynamic skin recovery spf 50",
-      "active ingredients avobenzone homosalate octisalate octocrylene",
-      "drs pharmacy sunscreen spf 30",
-      "sunscreen spf 30",
-      "active ingredients avobenzone 2 7",
-      "octocrylene 5 2",
-      "active ingredients avobenzone 2 0",
-      "homosalate 3 5",
-      "octisalate 2 0",
-      "octocrylene 4 0",
-      "neutrogena sport active defense spf 70",
-      "active ingredients purpose avobenzone",
-      "sunscreen homosalate",
-      "sunscreen octisalate",
-      "sunscreen octocrylene sunscreen",
-      "neutrogena sport active defense spf 30",
-      "trader joes face",
-      "body sunscreen spf 30",
-      "active ingredient avobenzone 3 homosalate 10 octisalate 5 octocrylene 7"
     ],
     "atc": null
   },
@@ -43702,10 +43393,6 @@
       "alcohol prep pad",
       "alcohol prep pad 70 isoprppyl alcohol",
       "antispectic for preparation of skin prior of",
-      "alcohol",
-      "active ingredient purpose isopropyl alcohol 70 v",
-      "v antiseptic",
-      "uses alcohol antiseptic cleanser",
       "first aid only hand sanitizing wipe",
       "active ingredient isopropyl alcohol 70",
       "purpose antibacterial",
@@ -43715,8 +43402,7 @@
       "active ingredient isopropyl alcohol 91",
       "alcohol wipes",
       "isopropyl alcohol 70",
-      "first aid antiseptic",
-      "isopropyl rubbing alcohol"
+      "first aid antiseptic"
     ],
     "atc": null
   },
@@ -43979,18 +43665,6 @@
     "atc": null
   },
   {
-    "slug": "apis-mellifera-venom",
-    "canonical": "apis mellifera venom",
-    "names": [
-      "apis mellifera venom",
-      "mentha piperita leaf",
-      "south moon bee venom psoriasis treatment",
-      "active ingredient apis mellifera venom mentha piperita leaf",
-      "purpose quickly relieve psoriasis symptoms"
-    ],
-    "atc": null
-  },
-  {
     "slug": "bellis-perennis",
     "canonical": "bellis perennis",
     "names": [
@@ -44064,6 +43738,160 @@
     "atc": null
   },
   {
+    "slug": "avobenzone",
+    "canonical": "avobenzone",
+    "names": [
+      "avobenzone",
+      "homosalate",
+      "octisalate",
+      "octocrylene",
+      "olay regenerist regenerating with sunscreen broad spectrum spf 15",
+      "active ingredients purpose avobenzone 3 0 sunscreen homosalate 4 0 sunscreen octisalate 4 5 sunscreen octocrylene 2 6 sunscreen",
+      "octinoxate",
+      "medichoice moisturizing lip balm spf15",
+      "active ingredients avobenzone 3 0 octinoxate 6 5 octisalate 5 0 octocrylene 1 5 purpose sunscreen",
+      "purpose sunscreen",
+      "reef kids spf 30 oxybenzone free",
+      "active ingredients octocrylene 5 0 octisalate 3 0 avobenzone 2 5",
+      "oxybenzone",
+      "equate beauty daily moisturizer spf 30 sunscreen",
+      "active ingredients purpose avobenzone 3 sunscreen homosalate 15 sunscreen octisalate 5 sunscreen octocrylene 3 sunscreen oxybenzone 6 sunscreen",
+      "h e b solutions sunscreen",
+      "sport spf 70",
+      "active ingredients avobenzone 3 0",
+      "homosalate 10 0",
+      "octisalate 3 0",
+      "octocrylene 7 0",
+      "oxybenzone 6 0",
+      "shiseido ultimate sun protector",
+      "active ingredients purpose avobenzone 2 3 sunscreen homosalate 10 0 sunscreen octisalate 5 0 sunscreen octocrylene 5 0 sunscreen",
+      "sunscreen",
+      "active ingredients avobenzone 3 homosalate 15 octisalate 5 octocrylene 10",
+      "mary kay timewise daytime defender sunscreen broad spectrum spf 30",
+      "active ingredients avobenzone 3 w",
+      "w octisalate 4 5 w",
+      "w octocrylene 9 w",
+      "w",
+      "clear glow broad spectrum suncreen spf 50",
+      "homosalate octisalate",
+      "active ingredients avobenzone 3 homosalate 10 octilsalate 5 octocrylene 8 purpose sunscreen",
+      "american crew all in one face balm broad spectrum spf 15",
+      "active ingredients octisalate 5 0 homosalate 5 0 avobenzone 2 0 octocrylene 2 0",
+      "isa knox anew solaire everyday face protection broad spectrum spf 50 sunscreen",
+      "active ingredients avobenzone 2 7 homosalate 9 0 octisalate 4 5 octocrylene 9 0",
+      "sun bum spf 15 premium moisturizing sunscreen",
+      "active ingredients avobenzone 3 00",
+      "homosalate 6 00",
+      "octisalate 5 00",
+      "octocrylene 2 00 purpose sunscreen",
+      "lancome paris renergie hpn 300 peptide broad spectrum spf 25 sunscreen",
+      "active ingredients avobenzone 3 octisalate 5 octocrylene 7",
+      "restorative day moisture spf 15",
+      "active ingredients purpose octinoxate 5 sunscreen avobenzone 3 sunscreen",
+      "use helps prevent sunburn",
+      "lancome paris uv expert aquagel defense 50 plus sunscreen broad spectrum spf 50 plus primer",
+      "moisturizer with antioxidant vitamin e",
+      "active ingredients avobenzone 3 homosalate 15 octisalate 5 octocrylene 7",
+      "roc barrier renew am moisturizer spf 30",
+      "active ingredients active ingredients purpose avobenzone 2 0",
+      "homosalate 5 5",
+      "octisalate 4 5",
+      "octocrylene 4 0 sunscreen",
+      "uses uses helps prevent sunburn if used as directed with other sun protection measures",
+      "decreases the risk of skin cancer",
+      "early signs of aging caused by the sun",
+      "mario badescu collagen spf 15",
+      "gr lip butter cookie spf 15",
+      "active ingredient avobenzone 2 7 w",
+      "w octinoxate 6 w",
+      "belif the true aqua bomb sunscreen broad spectrum spf 50",
+      "active ingredients avobenzone 2 7 homosalate 9 octisalate 4 5 octocrylene 9",
+      "dr jart every sun day sun fluid",
+      "active ingredients avobenzone 2 9 homosalate 9 0 octinoxate 6 8 octisalate 4 5 octocrylene 4 0",
+      "alba botanica maximum sunscreen spf 70",
+      "avobenzone 2 9 homosalate 14 7 octisalate 4 9 octocrylene 9 5",
+      "sunscreen helps prevent sunburn",
+      "lancome paris high resolution refill 3x triple action renewal anti wrinkle broad spectrum spf 15 sunscreen",
+      "active ingredients avobenzone 3 octisalate 5 octocrylene 3",
+      "powerbright moisturizer spf 50",
+      "active ingredient octocrylene 8 0 homosalate 5 0 avobenzone 3 0 octisalate 3 0",
+      "loreal paris revitalift derm intensives invisible uv fluid broad spectrum spf 50 sunscreen",
+      "future youth daily turnaround hydrating moisturizer spf 50",
+      "active ingredients active ingredients purpose avobenzone 3 sunscreen homosalate 15 sunscreen octisalate 5 sunscreen",
+      "decreases the risk of skin cancer early skin aging caused by the sun",
+      "bobbi brown primer plus protection broad spectrum spf50",
+      "and oxybenzone",
+      "active ingredients avobenzone 3 00 homosalate 5 00 octisalate 5 00 octocrylene 2 70 oxybenzone 3 00",
+      "la roche posay laboratoire dermatologique anthelios 60 face light fluid sunscreen broad spectrum spf 60 water resistant 80 minutes",
+      "active ingredients avobenzone 3 homosalate 10 octisalate 5 octocrylene 7",
+      "bali body watermelon tanning oil spf 6",
+      "active ingredients octisalate 5 octocrylene 3 avobenzone 1",
+      "gold dynamics skin boosting moisturizer broad spectrum spf 15 sunscreen",
+      "active ingredients avobenzone 3 homosalate 7 octisalate 5 octocrylene 10",
+      "bali body cacao tanning oil spf 15",
+      "active ingredients octocrylene 9 octisalate 5 avobenzone 3",
+      "sheer touch sunscreen spf 55",
+      "active ingredients avobenzone 3 homosalate 12 octisalate 5",
+      "broad spectrum spf50 spf 50",
+      "active ingredients avobenzone 3 homosalate 10 octilsalate 5 purpose sunscreen",
+      "farmasi bb",
+      "active ingredient butyl methoxydibenzoylmethane 2 95 ethylhexyl methoxycinnamate 7 35 homosalate 9 79 octocrylene 6 15 purpose sunscreen",
+      "hydrating sunscreen moisturizer broad spectrum spf50 spf 50",
+      "hawaiian tropic",
+      "active ingredient avobenzone 2 7",
+      "homosalate 8 0",
+      "octocrylene 6 0",
+      "rubber ducky spf 50 unfragranced sunscreen",
+      "avobenzone 3",
+      "homosalate 10",
+      "octocrylene 6",
+      "active ingredients avobenzone 3",
+      "fresh coast spf 50 sunscreen",
+      "homosalate 15",
+      "octisalate 5",
+      "octocrylene 10",
+      "neutrogena beach defense water plus sun protection sunscreen broad spectrum spf 50",
+      "active ingredients purpose avobenzone 3 sunscreen homosalate 10 sunscreen octisalate 5 sunscreen octocrylene 10 sunscreen",
+      "coppertone everytone face sunscreen spf 55",
+      "coppertone sport face spf 60 plus sunscreen",
+      "men scented sunscreen spf 50 woodsman slam",
+      "avabenzone 3 homosalate 10 octisalate 5",
+      "active ingredients purpose avobenzone 3 00 sunscreen homosalate 10 00 sunscreen octisalate 5 00 sunscreen",
+      "coppertone everytone sunscreen spf 50",
+      "homosalate 9",
+      "octocrylene 9",
+      "kiehls since 1851 activated sun protector broad spectrum spf 50 sunscreen water resistant 80 minutes",
+      "active ingredient avobenzone 3 homosalate 10 72 octisalate 3 21 octocrylene 6 oxybenzone 3 86",
+      "neutrogena age shield face oil free sunscreen broad spectrum spf 70",
+      "active ingredients purpose avobenzone 3 sunscreen homosalate 15 sunscreen octisalate 5 sunscreen octocrylene 10 sunscreen",
+      "bee bald smooth plus daily moisturizer spf 30 sunscreen",
+      "octocrylene 2 7",
+      "oxybenzone 6",
+      "active ingredients avobenzone 2 7 homosalate 8 0 octocrylene 6 0",
+      "purpose sunscreen agent",
+      "dermalogica dynamic skin recovery spf 50",
+      "active ingredients avobenzone homosalate octisalate octocrylene",
+      "drs pharmacy sunscreen spf 30",
+      "sunscreen spf 30",
+      "active ingredients avobenzone 2 7",
+      "octocrylene 5 2",
+      "active ingredients avobenzone 2 0",
+      "homosalate 3 5",
+      "octisalate 2 0",
+      "octocrylene 4 0",
+      "neutrogena sport active defense spf 70",
+      "active ingredients purpose avobenzone",
+      "sunscreen homosalate",
+      "sunscreen octisalate",
+      "sunscreen octocrylene sunscreen",
+      "neutrogena sport active defense spf 30",
+      "trader joes face",
+      "body sunscreen spf 30",
+      "active ingredient avobenzone 3 homosalate 10 octisalate 5 octocrylene 7"
+    ],
+    "atc": null
+  },
+  {
     "slug": "zinc-oxide",
     "canonical": "zinc oxide",
     "names": [
@@ -44095,8 +43923,6 @@
       "protect active ingredients",
       "protect purpose",
       "ciele tint",
-      "maui vera mineral sunscreen spf 50 unscented",
-      "active ingredient uncoated zinc oxide 23 purpose sunscreen",
       "isa knox anew solaire everyday mineral face protection broad spectrum spf 50 sunscreen",
       "active ingredients zinc oxide 15 52",
       "baby mineral sunscreen spf55",
@@ -44143,12 +43969,6 @@
       "active ingredient zinc oxide 13",
       "clearspf sheer sunscreen",
       "active ingredient zinc oxide 20",
-      "hale",
-      "hush broad spectrum spf 30 spf 30",
-      "zinc oxide 13 50",
-      "daily supergoop dose bioretinol mineral spf 40",
-      "daily dose bioretinol mineral spf 40",
-      "active ingredients zinc oxide 16 5",
       "everyday sun defense",
       "active ingredient zinc oxide 9 4",
       "otc purpose sunscreen"
@@ -44161,6 +43981,15 @@
     "names": [
       "zinc oxide 22 sunscreen",
       "sunscreen"
+    ],
+    "atc": null
+  },
+  {
+    "slug": "zinc-pyrithione-1",
+    "canonical": "zinc pyrithione 1",
+    "names": [
+      "zinc pyrithione 1",
+      "anti dandruff"
     ],
     "atc": null
   },
@@ -44198,6 +44027,15 @@
     "names": [
       "zinc oxide 20 sunscreen",
       "purpose zinc oxide 20 sunscreen"
+    ],
+    "atc": null
+  },
+  {
+    "slug": "zinc-oxide-13-50",
+    "canonical": "zinc oxide 13 50",
+    "names": [
+      "zinc oxide 13 50",
+      "sunscreen"
     ],
     "atc": null
   },
@@ -44281,22 +44119,13 @@
       "joints associated with simple backache",
       "arthritis",
       "strainsand sprains",
-      "therapain plus",
-      "menthol roll on",
-      "active ingredient natural l menthol 2",
-      "purpose topical analgesic",
-      "arnicool",
-      "active ingredient menthol 4 purpose cooling pain relief",
       "smooth gator head ezz analgesic",
       "active ingredients menthol 3 00 purpose topical analgesic",
+      "purpose topical analgesic",
       "motion sickness",
       "motion sickness patch",
       "active ingredient menthol 2",
       "purpose refreshing",
-      "fortify",
-      "drug facts active ingredient menthol 2 7",
-      "purpose antitussive uses temporarily calms cough due to minor throat",
-      "bronchial irritation associated with a cold or inhaled irritants relieves the impulse to cough to help you rest",
       "kroger hot",
       "cold medicated patch",
       "active ingredient active ingredient purpose menthol 5 topical analgesic",
@@ -44319,8 +44148,6 @@
       "health smart medicated body",
       "active ingredients menthol 0 15 zinc oxide 1 0",
       "purpose external analgesic skin protectant",
-      "natural 17 herbal splash",
-      "menthol 2",
       "medterra pain relief menthol roll on",
       "active ingredient active ingredient menthol 4",
       "purpose cooling pain reliever"
@@ -44353,6 +44180,15 @@
     "canonical": "menthol usp 5",
     "names": [
       "menthol usp 5",
+      "topical analgesic"
+    ],
+    "atc": null
+  },
+  {
+    "slug": "menthol-2",
+    "canonical": "menthol 2",
+    "names": [
+      "menthol 2",
       "topical analgesic"
     ],
     "atc": null
@@ -44400,9 +44236,6 @@
       "ay bendito cbd",
       "camphor 6 menthol 4",
       "topical analgesic",
-      "lidocaine hcl",
-      "alflexil zero pain",
-      "camphor 0 5 lidocaine 4 menthol 1",
       "vicks vaposteam lavender",
       "active ingredient camphor 6 2",
       "purpose cough suppressant",
@@ -44435,6 +44268,15 @@
     "atc": null
   },
   {
+    "slug": "camphor-0-5-lidocaine-4-menthol-1",
+    "canonical": "camphor 0 5 lidocaine 4 menthol 1",
+    "names": [
+      "camphor 0 5 lidocaine 4 menthol 1",
+      "topical analgesic"
+    ],
+    "atc": null
+  },
+  {
     "slug": "tetrahydrozoline-hcl",
     "canonical": "tetrahydrozoline hcl",
     "names": [
@@ -44443,35 +44285,6 @@
       "thrive original formula eye",
       "active ingredient tetrahydrozoline hcl 0 05",
       "purpose redness reliever"
-    ],
-    "atc": null
-  },
-  {
-    "slug": "angelica-archangelica-root",
-    "canonical": "angelica archangelica root",
-    "names": [
-      "angelica archangelica root",
-      "arabica coffee bean",
-      "avena sativa flowering top",
-      "garlic",
-      "holy basil leaf",
-      "macropiper methysticum root",
-      "passiflora edulis flower",
-      "scutellaria lateriflora whole",
-      "verbena hastata top",
-      "calm mood",
-      "active ingredients purpose allium sativum usda certified organic 89c remedy for nervousness",
-      "restlessness avena sativa 30x for nervous exhaustion angelica 89c for difficulty concentrating",
-      "unable to focus coffea cruda 30c to calm the system",
-      "nervousness ocimum 89c for anxiety passiflora 30c quieting effect on the nervous system scutellaria lateriflora 12c restlessness",
-      "nervousness verbena 6c eases nervous system",
-      "helps mood swings piper methysticum 30c for impaired thinking",
-      "sluggish emotion",
-      "eucalyptus oil",
-      "archangelica eucalyptus",
-      "active ingredient 100 gm contains 10 gm archangelica 1x",
-      "30 gm oleum eucalypti 1x",
-      "use temporary relief of cough"
     ],
     "atc": null
   },
@@ -44512,8 +44325,6 @@
       "protect",
       "protect active ingredients",
       "protect purpose",
-      "chantecaille just skin tinted moisturizer sunscreen broad spectrum spf 15 shade aura",
-      "active ingredients titanium dioxide 10 622 purpose sunscreen",
       "skin protectant",
       "sun screen",
       "quench",
@@ -44663,36 +44474,6 @@
       "active ingredients diphenhydramine citrate 38 mg ibuprofen 200 mg nonsteroidal anti inflammatory drug",
       "purposes nighttime sleep aid pain reliever",
       "good sense ibuprofen pm"
-    ],
-    "atc": null
-  },
-  {
-    "slug": "aspirin",
-    "canonical": "aspirin",
-    "names": [
-      "aspirin",
-      "low dose aspirin enteric safety coated",
-      "active ingredient aspirin 81 mg nonsteroidal anti inflammatory drug",
-      "purpose pain reliever",
-      "low dose aspirin",
-      "rapidol aspirin",
-      "active ingredient",
-      "purpose active ingredient purpose aspirin 325 mg nonsteroidal anti in ammatory drug pain reliever",
-      "active ingredient purpose aspirin 325 mg nonsteroidal anti in ammatory drug pain reliever",
-      "aspirin low dose",
-      "heb effervescent pain relief",
-      "active ingredient buffered aspirin 325 mg nonsteroidal anti inflammatory drug",
-      "purpose buffered aspirin 325 mg pain reliever",
-      "fever reducer nonsteroidal anti inflammatory drug",
-      "enteric coated aspirin",
-      "active ingredient aspirin 325 mg",
-      "aspirin enteric coated",
-      "aspirin 81 mg",
-      "active ingredient aspirin 81mg nonsteroidal anti inflammatory drug",
-      "active ingredient aspirin 325 mg nonsteroidal anti inflammatory drug",
-      "fever reducer",
-      "adult low dose enteric coated aspirin",
-      "methocarbamol"
     ],
     "atc": null
   },
@@ -44946,14 +44727,6 @@
       "alocane botanicals",
       "active ingredient lidocaine hcl 4",
       "purpose topical pain relief",
-      "menthol",
-      "lidozen",
-      "active ingredients lidocaine hcl 4 00 menthol 1 00 toplcal anesthetic external analgesic",
-      "toplcal anesthetic external analgesic",
-      "phenolate na",
-      "ko pink pain relief",
-      "active ingredients lidocaine hcl 4 0 phenolate na 0 5",
-      "purpose for the relief of minor pain",
       "aspercreme lidocaine with eucalyptus essential oil",
       "active i ngredient lidocaine hcl 4",
       "purpose topical anesthetic"
@@ -45087,18 +44860,11 @@
       "purpose antimicrobial",
       "justice berry scented anti bacterial hand sanitizer bff",
       "active ingredient alcohol 62 purpose antiseptic",
-      "avagard d",
-      "active ingredient ethyl alcohol",
-      "61 w",
-      "w",
       "hand sanitizer to help reduce bacteria that potentially can cause disease for use when soap",
       "water are not available",
       "antiseptic hand sanitizer ethyl alcohol",
       "active ingredient ethyl alcohol 62 v",
       "v purpose antiseptic",
-      "miaoyue instant hand sanitizer",
-      "ethyl alcohol 65 v",
-      "v",
       "sierra soft alcohol hand sanitizer",
       "active ingredient ethyl alcohol 70 purpose antibacterial",
       "purpose antibacterial",
@@ -45112,6 +44878,7 @@
       "purpose antiseptic handwash",
       "amcon labs hand sanitizer light cleansing",
       "active ingredient ethyl alcohol 60 v",
+      "v",
       "purpose skin sanitizer",
       "amcon labs hand sanitizer instant foam sanitizer with alcohol",
       "amcon labs hand sanitizer fragrance free sanitizer",
@@ -45140,8 +44907,6 @@
       "ethanol",
       "lavender hand sanitizing wipes",
       "alcohol pad 01",
-      "hylanson alcohol wipes 13cmx19cm",
-      "active ingredient alcohol 75 purpose antimicrobial",
       "hand sanitizer 8oz with vitamin e",
       "ethyl alcohol 70",
       "active ingredient ethyl alcohol 70 0 v",
@@ -45150,6 +44915,7 @@
       "ben e keith hand cleaner",
       "purpose antibacterial agent",
       "b pure moisturizing hand sanitizer honey crisp apple scented",
+      "active ingredient ethyl alcohol",
       "70 v",
       "v purpose antimicrobial",
       "hand sanitizing wipes",
@@ -45164,7 +44930,9 @@
       "hand sanitizer 2oz 2pk lavender",
       "color element advanced hand sanitizer with moisturizers",
       "hand sanitizer cucumber aloe",
-      "organic ethyl alcohol"
+      "organic ethyl alcohol",
+      "kay actigel hand sanitizer",
+      "active ingredient ethanol 60 by volume"
     ],
     "atc": null
   },
@@ -45179,14 +44947,6 @@
       "active ingredients purpose dextromethorphan hydrobromide 5 mg cough suppressant guaifenesin 50 mg expectorant",
       "purpose cough suppressant expectorant",
       "phenylephrine hcl",
-      "mucus relief severe congestion",
-      "cough maximum strength",
-      "active ingredients dextromethorphan hbr 20 mg guaifenesin 400 mg phenylephrine hcl 10 mg",
-      "purposes cough suppressant expectorant nasal decongestant",
-      "doxylamine succinate",
-      "night time cough",
-      "active ingredients dextromethorphan hbr 30 mg doxylamine succinate 12 5 mg",
-      "purpose cough suppressant antihistamine",
       "maximum strength severe congestion",
       "cough",
       "active ingredients purposes dextromethorphan hbr 20 mg cough suppressant guaifenesin 400 mg expectorant phenylephrine hcl 10 mg nasal decongestant",
@@ -45195,6 +44955,7 @@
       "30 mg guaifenesin",
       "200 mg phenylephrine hcl",
       "10 mg",
+      "purposes cough suppressant expectorant nasal decongestant",
       "good neighbor sugar free adult tussin dm cough",
       "chest congestion",
       "usp 20 mg guaifenesin",
@@ -45207,8 +44968,6 @@
       "active ingredients dextromethorphan hydrobromide usp 30 mg guaifenesin usp 600 mg",
       "walgreen adult cough plus chest congestion dm",
       "usp 200 mg purposes cough suppressant expectorant",
-      "mucinex dm",
-      "active ingredients purposes dextromethorphan hbr 30 mg cough suppressant guaifenesin 600 mg expectorant",
       "active ingredients dextromethorphan hydrobromide usp 60 mg guaifenesin usp 1200 mg",
       "mucus relief dm",
       "active ingredients dextromethorphan hbr 30 mg guaifenesin 600 mg",
@@ -45527,6 +45286,34 @@
     "atc": null
   },
   {
+    "slug": "aspirin",
+    "canonical": "aspirin",
+    "names": [
+      "aspirin",
+      "low dose aspirin",
+      "active ingredient aspirin 81 mg nonsteroidal anti inflammatory drug",
+      "purpose pain reliever",
+      "rapidol aspirin",
+      "active ingredient",
+      "purpose active ingredient purpose aspirin 325 mg nonsteroidal anti in ammatory drug pain reliever",
+      "active ingredient purpose aspirin 325 mg nonsteroidal anti in ammatory drug pain reliever",
+      "aspirin low dose",
+      "heb effervescent pain relief",
+      "active ingredient buffered aspirin 325 mg nonsteroidal anti inflammatory drug",
+      "purpose buffered aspirin 325 mg pain reliever",
+      "fever reducer nonsteroidal anti inflammatory drug",
+      "enteric coated aspirin",
+      "active ingredient aspirin 325 mg",
+      "aspirin enteric coated",
+      "aspirin 81 mg",
+      "active ingredient aspirin 81mg nonsteroidal anti inflammatory drug",
+      "active ingredient aspirin 325 mg nonsteroidal anti inflammatory drug",
+      "fever reducer",
+      "adult low dose enteric coated aspirin"
+    ],
+    "atc": null
+  },
+  {
     "slug": "oseltamivir-phosphate",
     "canonical": "oseltamivir phosphate",
     "names": [
@@ -45652,21 +45439,6 @@
     "canonical": "pramipexole dihydrochloride",
     "names": [
       "pramipexole dihydrochloride"
-    ],
-    "atc": null
-  },
-  {
-    "slug": "atropa-belladonna",
-    "canonical": "atropa belladonna",
-    "names": [
-      "atropa belladonna",
-      "silicon dioxide",
-      "silver",
-      "silicea belladonna special order",
-      "active ingredients argentum nitricum 20x",
-      "atropa belladonna 20x",
-      "silicea 20x",
-      "use temporary relief of flu symptoms"
     ],
     "atc": null
   },
@@ -45891,6 +45663,15 @@
     "atc": null
   },
   {
+    "slug": "carton-active-ingredients-section-active-ingredients-octinoxate-6-5-titanium-dioxide-4-25-octisalate-5-purpose-sunscreen",
+    "canonical": "carton active ingredients section active ingredients octinoxate 6 5 titanium dioxide 4 25 octisalate 5 purpose sunscreen",
+    "names": [
+      "carton active ingredients section active ingredients octinoxate 6 5 titanium dioxide 4 25 octisalate 5 purpose sunscreen",
+      "uses uses helps prevent sunburn"
+    ],
+    "atc": null
+  },
+  {
     "slug": "carton-active-ingredients-section-active-ingredients-avobenzone-3-octisalate-5-octocrylene-7-50",
     "canonical": "carton active ingredients section active ingredients avobenzone 3 octisalate 5 octocrylene 7 50",
     "names": [
@@ -45905,15 +45686,6 @@
     "names": [
       "paroxetine hcl hemihydrate",
       "paroxetine"
-    ],
-    "atc": null
-  },
-  {
-    "slug": "prednisolone-acetate",
-    "canonical": "prednisolone acetate",
-    "names": [
-      "prednisolone acetate",
-      "pred forte"
     ],
     "atc": null
   },
@@ -46057,14 +45829,6 @@
       "guanfacine hcl",
       "guanfacine",
       "gaunfacine"
-    ],
-    "atc": null
-  },
-  {
-    "slug": "ursodiol",
-    "canonical": "ursodiol",
-    "names": [
-      "ursodiol"
     ],
     "atc": null
   },
@@ -46594,6 +46358,60 @@
     "atc": null
   },
   {
+    "slug": "calcium-sulphate",
+    "canonical": "calcium sulphate",
+    "names": [
+      "calcium sulphate",
+      "carpinus betulus flowering top",
+      "dibasic k phosphate",
+      "ferrosoferric phosphate",
+      "ilex aquifolium flowering top",
+      "impatiens glandulifera flower",
+      "magnesium phosphate",
+      "dibasic trihydrate",
+      "na cl",
+      "na sulphate",
+      "tribasic calcium phosphate",
+      "mood",
+      "patience",
+      "calc phos",
+      "calc sulph",
+      "carpinus betulus flos",
+      "fer phos",
+      "ilex aquifolium flos",
+      "impatiens glandulifera flos",
+      "kali phos",
+      "mag phos",
+      "nat mur",
+      "nat sulph",
+      "active ingredient each dose contains equal parts of calc phos 12x hpus calc sulph 6x hpus carpinus betulus",
+      "flos 5x hpus fer phos 12x hpus ilex aquifolium",
+      "flos 5x hpus impatiens glandulifera",
+      "flos 5x hpus kali phos 6x hpus mag phos 12x hpus nat mur 6x hpus nat sulph 6x hpus",
+      "purpose each dose contains equal parts of calc phos 12x hpus always wants to go somewhere",
+      "peevish",
+      "fretful calc sulph 6x hpus quarrelsome",
+      "does not feel appreciated carpinus betulus",
+      "flos 5x hpus critical",
+      "prejudiced",
+      "intolerant fer phos 12x hpus unable to concentrate",
+      "suddently changing from pleasant to unpleasant ilex aquifolium",
+      "flos 5x hpus anger",
+      "envy",
+      "jealousy impatiens glandulifera",
+      "flos 5x hpus irritable",
+      "quick to react kali phos 6x hpus gloomy moods",
+      "depressed spirits",
+      "impatient",
+      "irritable mag phos 12x hpus lamenting all of the time nat mur 6x hpus hurried",
+      "anxious",
+      "oversensitive to all influences nat sulph 6x hpus ill humor",
+      "irritability",
+      "worse in the morning"
+    ],
+    "atc": null
+  },
+  {
     "slug": "cefazolin-na",
     "canonical": "cefazolin na",
     "names": [
@@ -46708,8 +46526,6 @@
       "active ingredient fexofenadine hcl usp",
       "180 mg",
       "purpose antihistamine",
-      "allergy active ingredient fexofenadine hcl usp",
-      "60mg",
       "pseudoephedrine hcl",
       "active ingredient fexofenadine hcl",
       "usp 60 mg pseudoephedrine hcl",
@@ -46811,21 +46627,6 @@
     "atc": null
   },
   {
-    "slug": "berberis-vulgaris-root-bark",
-    "canonical": "berberis vulgaris root bark",
-    "names": [
-      "berberis vulgaris root bark",
-      "bos taurus nasal mucosa",
-      "silicon dioxide",
-      "berberis quartz",
-      "active ingredients berberis 3x",
-      "tunica mucosa nasi 7x",
-      "quartz 20x",
-      "use temporary relief of sinus congestion"
-    ],
-    "atc": null
-  },
-  {
     "slug": "chlorthalidone",
     "canonical": "chlorthalidone",
     "names": [
@@ -46917,6 +46718,57 @@
       "dextran",
       "active ingredients dextran 70 0 1 polyethylene glycol 400 1 povidone 1 tetrahydrozoline hcl 0 05",
       "purposes dextran 70 lubricant polyethylene glycol 400 lubricant povidone lubricant tetrahydrozoline hcl redness reliever"
+    ],
+    "atc": null
+  },
+  {
+    "slug": "ethyl-alcohol-65-v",
+    "canonical": "ethyl alcohol 65 v",
+    "names": [
+      "ethyl alcohol 65 v",
+      "v",
+      "purpose antiseptic"
+    ],
+    "atc": null
+  },
+  {
+    "slug": "ethyl-alcohol-62-v",
+    "canonical": "ethyl alcohol 62 v",
+    "names": [
+      "ethyl alcohol 62 v",
+      "v purpose antibacterial",
+      "purpose antibacterial"
+    ],
+    "atc": null
+  },
+  {
+    "slug": "ethyl-alcohol-for-external-use-only-for-external-use-only-flammable-keep-away-from-heat-or-flames-flammable-keep-away-from-heat-or-flames-stop-use",
+    "canonical": "ethyl alcohol for external use only for external use only flammable keep away from heat or flames flammable keep away from heat or flames stop use",
+    "names": [
+      "ethyl alcohol for external use only for external use only flammable keep away from heat or flames flammable keep away from heat or flames stop use",
+      "ask a doctor if irritation or redness develop",
+      "condition persists for more then 72 hours stop use",
+      "condition persists for more then 72 hours if swallowed",
+      "get medical help or contact a poison control center right away keep out of reach of children if swallowed",
+      "get medical help or contact a poison control center right away antiseptic handwash antiseptic handwash for hand washing to decrease bacteria on the skin for handwashing to decrease bacteria on the skin directions for use place a pumpful of product in one hand",
+      "wet hands thoroughly with product",
+      "allow to dry without wiping place a pumpful of product in one hand",
+      "allow to dry without wiping water",
+      "glycerin",
+      "isopropyl myristate",
+      "tocopheryl acetate",
+      "aminomethyl propanol",
+      "carbomer inactive ingredients water",
+      "carbomer",
+      "antiseptic handwash antiseptic handwash"
+    ],
+    "atc": null
+  },
+  {
+    "slug": "ursodiol",
+    "canonical": "ursodiol",
+    "names": [
+      "ursodiol"
     ],
     "atc": null
   },
@@ -47162,14 +47014,6 @@
     "atc": null
   },
   {
-    "slug": "pravastatin-na",
-    "canonical": "pravastatin na",
-    "names": [
-      "pravastatin na"
-    ],
-    "atc": null
-  },
-  {
     "slug": "biotin-5-panax-ginseng-root-extract-2-zingiber-officinale-root-extract-2-oriental-arborvitae-leafytwigs-extract-0-5-pinus-palustris-extract-0-4",
     "canonical": "biotin 5 panax ginseng root extract 2 zingiber officinale root extract 2 oriental arborvitae leafytwigs extract 0 5 pinus palustris extract 0 4",
     "names": [
@@ -47206,33 +47050,6 @@
       "active ingredient bismuth subsalicylate 262 mg purpose upset stomach reliever",
       "pepto bismol fast melts fresh berry flavored",
       "pocket pepto pepto bismol"
-    ],
-    "atc": null
-  },
-  {
-    "slug": "viscum-album-fruiting-top",
-    "canonical": "viscum album fruiting top",
-    "names": [
-      "viscum album fruiting top",
-      "viscum abietis",
-      "active ingredient viscum album abietis 1 gm contains a 13x 93 7 b 10x 37 5 c 7x 15 6 d 6x 31 2 e 5x 62 5 f 3x 12 5 g 2x 25",
-      "use temporary relief of headache",
-      "viscum pini",
-      "active ingredient viscum album 1 gm contains a 13x 93 7 b 10x 37 5 c 7x 15 6 d 6x 31 2 e 5x 62 5 f 3x 12 5 g 2x 25"
-    ],
-    "atc": null
-  },
-  {
-    "slug": "viscum-album-whole",
-    "canonical": "viscum album whole",
-    "names": [
-      "viscum album whole",
-      "viscum tilia rk 30x",
-      "viscum album 30x",
-      "hpus the letters hpus indicate that these ingredients are officially included in the homeopathic pharmacopoeia of the united states",
-      "for contitutional treatments based on homeopathic",
-      "anthroposophic indications or as directed by your physician",
-      "viscum acer rk 30x"
     ],
     "atc": null
   },
@@ -47336,87 +47153,7 @@
       "thighs",
       "at night nux vomica 6c hpus relieves cramps in the legs",
       "toes",
-      "at night passiflora incarnata 3x hpus helps to fall back asleep secale cornutum 9c hpus relieves leg cramps at night",
-      "rapidol arnica",
-      "active ingredients active ingredient purposes arnica montana 30c hpus muscle aches",
-      "pains",
-      "bruises",
-      "swelling from injuries the letters hpus indicate that the components in this product are officially included in the homeopathic pharmacopoeia of the united states",
-      "active ingredient purposes arnica montana 30c hpus muscle aches",
-      "bos taurus bone",
-      "bos taurus tendon",
-      "comfrey root",
-      "onion",
-      "ruta graveolens flowering top",
-      "tin",
-      "arnica stannum",
-      "active ingredients allium cepa 6x",
-      "arnica 6x",
-      "ruta 6x",
-      "symphytum 6x",
-      "periosteum 17x",
-      "stannum met 17x",
-      "tendo 17x",
-      "vaginae synov tend bovine tendon sheaths of the fingers",
-      "toes 17",
-      "use temporary relief of sore muscles"
-    ],
-    "atc": null
-  },
-  {
-    "slug": "arnica-montana-whole",
-    "canonical": "arnica montana whole",
-    "names": [
-      "arnica montana whole",
-      "barium cl dihydrate",
-      "cholesterol",
-      "gold",
-      "hamamelis virginiana root bark",
-      "stem bark",
-      "lecithin",
-      "soybean",
-      "magnesium cl",
-      "oxalic acid",
-      "phosphorus",
-      "pork heart",
-      "selenicereus grandiflorus stem",
-      "sus scrofa artery",
-      "valerian",
-      "vascu pro t009",
-      "cactus grandiflorus",
-      "hamamelis virginiana",
-      "valeriana officinalis",
-      "arteria suis",
-      "heart",
-      "arnica montana",
-      "aurum metallicum",
-      "baryta muriatica",
-      "cholesterinum",
-      "magnesia muriatica",
-      "oxalicum acidum",
-      "active ingredients cactus grandiflorus 3x",
-      "hamamelis virginiana 3x",
-      "valeriana officinalis 3x",
-      "arteria suis 6x",
-      "heart 6x",
-      "arnica montana 12x",
-      "aurum metallicum 12x",
-      "baryta muriatica 12x",
-      "cholesterinum 12x",
-      "lecithin 12x",
-      "magnesia muriatica 12x",
-      "oxalicum acidum 12x",
-      "phosphorus 12x",
-      "indications may temporarily relieve cold clammy feet",
-      "numbness of limbs",
-      "painful calves upon walking",
-      "muscular weakness of the lower extremities",
-      "rapidol arnica",
-      "active ingredient purposes active ingredient purposes arnica montana 1 x hpus muscle aches",
-      "pains",
-      "bruises",
-      "swelling from injuries the letters hpus indicate that the components in this product are officially included in the homeopathic pharmacopoeia of the united states",
-      "active ingredient purposes arnica montana 1 x hpus muscle aches"
+      "at night passiflora incarnata 3x hpus helps to fall back asleep secale cornutum 9c hpus relieves leg cramps at night"
     ],
     "atc": null
   },
@@ -47822,17 +47559,6 @@
     "atc": null
   },
   {
-    "slug": "na-sulfide",
-    "canonical": "na sulfide",
-    "names": [
-      "na sulfide",
-      "scholls wellness company llc ingrown toenail",
-      "active ingredient purpose na sulfide 1 ingrown toenail reliever",
-      "purpose ingrown toenail reliever"
-    ],
-    "atc": null
-  },
-  {
     "slug": "na-niobium-oxide",
     "canonical": "na niobium oxide",
     "names": [
@@ -47874,6 +47600,15 @@
       "na fluoride 0 05 02 w",
       "v fluoride ion",
       "purpose anticavity"
+    ],
+    "atc": null
+  },
+  {
+    "slug": "lanolin-1-white-petrolatum-97",
+    "canonical": "lanolin 1 white petrolatum 97",
+    "names": [
+      "lanolin 1 white petrolatum 97",
+      "skin protectant"
     ],
     "atc": null
   },
@@ -47983,8 +47718,6 @@
       "usp 2 mg dextromethorphan hbr",
       "usp 15 mg",
       "purposes antihistamine cough suppressant",
-      "allergy",
-      "active ingredient chlorpheniramine maleate 4 mg",
       "cvs childrens cough",
       "cold",
       "dextrometrorphan hbr",
@@ -47994,15 +47727,8 @@
       "hydrocodone bitartrate",
       "hydrocodone polistirex",
       "chlorpheniramine polistirex",
-      "aller chlor"
-    ],
-    "atc": null
-  },
-  {
-    "slug": "benazepril-hcl",
-    "canonical": "benazepril hcl",
-    "names": [
-      "benazepril hcl"
+      "aller chlor",
+      "active ingredient chlorpheniramine maleate 4 mg"
     ],
     "atc": null
   },
@@ -48070,6 +47796,14 @@
     "atc": null
   },
   {
+    "slug": "pravastatin-na",
+    "canonical": "pravastatin na",
+    "names": [
+      "pravastatin na"
+    ],
+    "atc": null
+  },
+  {
     "slug": "cocoa-butter",
     "canonical": "cocoa butter",
     "names": [
@@ -48104,6 +47838,16 @@
       "purposes pain reliever",
       "fever reducer cough suppressant",
       "fever reducer antihistamine cough suppressant"
+    ],
+    "atc": null
+  },
+  {
+    "slug": "allergy-active-ingredient-fexofenadine-hcl-usp",
+    "canonical": "allergy active ingredient fexofenadine hcl usp",
+    "names": [
+      "allergy active ingredient fexofenadine hcl usp",
+      "60mg",
+      "purpose antihistamine"
     ],
     "atc": null
   },
@@ -48387,17 +48131,6 @@
     "names": [
       "semecarpus anacardium juice",
       "anacardium orientale"
-    ],
-    "atc": null
-  },
-  {
-    "slug": "phosphorus",
-    "canonical": "phosphorus",
-    "names": [
-      "phosphorus",
-      "phosphorus 30",
-      "active ingredient phosphorus 30x",
-      "use temporary relief of headache"
     ],
     "atc": null
   },
@@ -49222,21 +48955,31 @@
     "atc": null
   },
   {
+    "slug": "uses-temporarily-relieves-common-cold",
+    "canonical": "uses temporarily relieves common cold",
+    "names": [
+      "uses temporarily relieves common cold",
+      "flu symptoms cough due to minor throat bronchial irritation sore throat headache minor aches pains fever runny nose",
+      "sneezing"
+    ],
+    "atc": null
+  },
+  {
+    "slug": "uses-helps-prevent-sunburn-if-used-as-directed-with-other-sun-protection-measures",
+    "canonical": "uses helps prevent sunburn if used as directed with other sun protection measures",
+    "names": [
+      "uses helps prevent sunburn if used as directed with other sun protection measures",
+      "decreases the risk of skin cancer",
+      "early skin aging caused by the sun"
+    ],
+    "atc": null
+  },
+  {
     "slug": "cefepime-hcl",
     "canonical": "cefepime hcl",
     "names": [
       "cefepime hcl",
       "cefepime"
-    ],
-    "atc": null
-  },
-  {
-    "slug": "sulfacetamide-na",
-    "canonical": "sulfacetamide na",
-    "names": [
-      "sulfacetamide na",
-      "sulfur",
-      "na sulfacetamide"
     ],
     "atc": null
   },
@@ -49562,6 +49305,15 @@
     "atc": null
   },
   {
+    "slug": "tazarodex-plaque-psoriasis-acne-active-ingredient-tazarotene-0-1",
+    "canonical": "tazarodex plaque psoriasis acne active ingredient tazarotene 0 1",
+    "names": [
+      "tazarodex plaque psoriasis acne active ingredient tazarotene 0 1",
+      "tazarodex plaque psoriasis acne purpose plaque psoriasis acne"
+    ],
+    "atc": null
+  },
+  {
     "slug": "sarracenia-purpurea",
     "canonical": "sarracenia purpurea",
     "names": [
@@ -49631,6 +49383,14 @@
     "atc": null
   },
   {
+    "slug": "prednisolone-acetate",
+    "canonical": "prednisolone acetate",
+    "names": [
+      "prednisolone acetate"
+    ],
+    "atc": null
+  },
+  {
     "slug": "oxybutynin-cl",
     "canonical": "oxybutynin cl",
     "names": [
@@ -49674,6 +49434,31 @@
       "norethindrone acetate",
       "ethinyl estradiol",
       "ferrous fumarate"
+    ],
+    "atc": null
+  },
+  {
+    "slug": "homosalate-9-00-octinoxate-6-80-octisalate-4-50-octocrylene-4-00-avobenzone-2-90",
+    "canonical": "homosalate 9 00 octinoxate 6 80 octisalate 4 50 octocrylene 4 00 avobenzone 2 90",
+    "names": [
+      "homosalate 9 00 octinoxate 6 80 octisalate 4 50 octocrylene 4 00 avobenzone 2 90",
+      "sunscreen"
+    ],
+    "atc": null
+  },
+  {
+    "slug": "homosalate",
+    "canonical": "homosalate",
+    "names": [
+      "homosalate",
+      "octisalate",
+      "octocrylene",
+      "titanium dioxide",
+      "zinc oxide",
+      "hydrating camo cc spf30 deep 560 c",
+      "active ingredients zinc oxide 6 3 titanium dioxide 6 homosalate 5 octisalate 4 5 octocrylene 3 purpose sunscreen",
+      "purpose sunscreen",
+      "e l f camo semi matte cc spf 30 light 205 n"
     ],
     "atc": null
   },
@@ -49772,6 +49557,15 @@
     "atc": null
   },
   {
+    "slug": "pso-thera-scalp-psoriasis-shampoo-active-ingredient-tazarotene-0-05",
+    "canonical": "pso thera scalp psoriasis shampoo active ingredient tazarotene 0 05",
+    "names": [
+      "pso thera scalp psoriasis shampoo active ingredient tazarotene 0 05",
+      "pso thera scalp psoriasis shampoo purpose controls symptoms of scalp psoriasis"
+    ],
+    "atc": null
+  },
+  {
     "slug": "teucrium-marum",
     "canonical": "teucrium marum",
     "names": [
@@ -49806,6 +49600,15 @@
     "names": [
       "enter section text here active ingredient salicylic acid 2",
       "enter section text here purpose acne treatment"
+    ],
+    "atc": null
+  },
+  {
+    "slug": "rosacea-therapy-moisturizing-active-ingredient-azelaic-acid-5-tranexamic-acid-1",
+    "canonical": "rosacea therapy moisturizing active ingredient azelaic acid 5 tranexamic acid 1",
+    "names": [
+      "rosacea therapy moisturizing active ingredient azelaic acid 5 tranexamic acid 1",
+      "rosacea therapy moisturizing purpose rosacea treatment"
     ],
     "atc": null
   },
@@ -49860,6 +49663,14 @@
     "names": [
       "podofilox",
       "condylox"
+    ],
+    "atc": null
+  },
+  {
+    "slug": "benazepril-hcl",
+    "canonical": "benazepril hcl",
+    "names": [
+      "benazepril hcl"
     ],
     "atc": null
   },
@@ -50102,25 +49913,6 @@
     "names": [
       "indigofera tinctoria leaf",
       "hair dye"
-    ],
-    "atc": null
-  },
-  {
-    "slug": "kids-cough-daytime-nighttime-combo",
-    "canonical": "kids cough daytime nighttime combo",
-    "names": [
-      "kids cough daytime nighttime combo",
-      "dextromethorphan hbr",
-      "guaifenesin",
-      "chlorpheniramine maleate",
-      "active ingredients dextromethorphan hbr",
-      "5 mg guaifenesin",
-      "usp 100 mg",
-      "active ingredients chlorpheniramine maleate",
-      "usp 2 mg dextromethorphan hbr",
-      "usp 15 mg",
-      "purposes cough suppressant expectorant",
-      "purposes antihistamine cough suppressant"
     ],
     "atc": null
   },
@@ -50549,39 +50341,6 @@
     "atc": null
   },
   {
-    "slug": "ethyl-alcohol-62-v",
-    "canonical": "ethyl alcohol 62 v",
-    "names": [
-      "ethyl alcohol 62 v",
-      "v purpose antibacterial",
-      "purpose antibacterial"
-    ],
-    "atc": null
-  },
-  {
-    "slug": "ethyl-alcohol-for-external-use-only-for-external-use-only-flammable-keep-away-from-heat-or-flames-flammable-keep-away-from-heat-or-flames-stop-use",
-    "canonical": "ethyl alcohol for external use only for external use only flammable keep away from heat or flames flammable keep away from heat or flames stop use",
-    "names": [
-      "ethyl alcohol for external use only for external use only flammable keep away from heat or flames flammable keep away from heat or flames stop use",
-      "ask a doctor if irritation or redness develop",
-      "condition persists for more then 72 hours stop use",
-      "condition persists for more then 72 hours if swallowed",
-      "get medical help or contact a poison control center right away keep out of reach of children if swallowed",
-      "get medical help or contact a poison control center right away antiseptic handwash antiseptic handwash for hand washing to decrease bacteria on the skin for handwashing to decrease bacteria on the skin directions for use place a pumpful of product in one hand",
-      "wet hands thoroughly with product",
-      "allow to dry without wiping place a pumpful of product in one hand",
-      "allow to dry without wiping water",
-      "glycerin",
-      "isopropyl myristate",
-      "tocopheryl acetate",
-      "aminomethyl propanol",
-      "carbomer inactive ingredients water",
-      "carbomer",
-      "antiseptic handwash antiseptic handwash"
-    ],
-    "atc": null
-  },
-  {
     "slug": "chapstick-12-days-of-christmas",
     "canonical": "chapstick 12 days of christmas",
     "names": [
@@ -50685,33 +50444,6 @@
     "atc": null
   },
   {
-    "slug": "arctostaphylos-uva-ursi-leaf",
-    "canonical": "arctostaphylos uva ursi leaf",
-    "names": [
-      "arctostaphylos uva ursi leaf",
-      "clematis recta flowering top",
-      "delphinium staphisagria seed",
-      "echinacea angustifolia",
-      "lytta vesicatoria",
-      "piper cubeba fruit",
-      "ranunculus bulbosus",
-      "saw palmetto",
-      "urodel",
-      "cantharis",
-      "clematis",
-      "cubeba",
-      "echinacea",
-      "sabal serrulata",
-      "staphysagria",
-      "uva ursi",
-      "active ingredients purposes active ingredients purposes cantharis vesicatoria 6x sharp burning pain during urination clematis erecta 6x burning sensation cubeba officinalis 6x frequent urination",
-      "yellow discharge echinacea angustifolia 6x bladder inflammation ranunculus bulbosus 6x frequent urging to urinate sabal serrulata 6x painful urination staphysagria 6x pressure on the bladder uva ursi 6x constant urination",
-      "straining the letters hpus indicate that this ingredient is officially included in the homeopathic pharmacopeia of the united states",
-      "active ingredients purposes cantharis vesicatoria 6x sharp burning pain during urination clematis erecta 6x burning sensation cubeba officinalis 6x frequent urination"
-    ],
-    "atc": null
-  },
-  {
     "slug": "united-asutra-tc-kit-colgate",
     "canonical": "united asutra tc kit colgate",
     "names": [
@@ -50735,29 +50467,6 @@
     "atc": null
   },
   {
-    "slug": "amber",
-    "canonical": "amber",
-    "names": [
-      "amber",
-      "cupric sulphate",
-      "phosphorus",
-      "rosmarinus officinalis flowering top",
-      "silicon dioxide",
-      "silver",
-      "sus scrofa pancreas",
-      "phosphorus comp",
-      "active ingredients cuprum sulf 4x",
-      "pancreas 6x",
-      "phosphorus 6x",
-      "rosmarinus 6x",
-      "succinum 6x",
-      "quartz 12x",
-      "argentum met 30x",
-      "use temporary relief of headache"
-    ],
-    "atc": null
-  },
-  {
     "slug": "frankincense",
     "canonical": "frankincense",
     "names": [
@@ -50773,6 +50482,20 @@
     "canonical": "ropivacaine hcl",
     "names": [
       "ropivacaine hcl"
+    ],
+    "atc": null
+  },
+  {
+    "slug": "viscum-album-whole",
+    "canonical": "viscum album whole",
+    "names": [
+      "viscum album whole",
+      "viscum tilia rk 30x",
+      "viscum album 30x",
+      "hpus the letters hpus indicate that these ingredients are officially included in the homeopathic pharmacopoeia of the united states",
+      "for contitutional treatments based on homeopathic",
+      "anthroposophic indications or as directed by your physician",
+      "viscum acer rk 30x"
     ],
     "atc": null
   },
@@ -50795,8 +50518,6 @@
       "brightening",
       "wrinkle care",
       "antioxidant",
-      "the zoeun skin sturgeon",
-      "active ingredients sturgeon extract",
       "the zoeun skin total conditioner",
       "active ingredients sturgeon extract 98 4"
     ],
@@ -50912,16 +50633,6 @@
     "atc": null
   },
   {
-    "slug": "uses-helps-prevent-sunburn-if-used-as-directed-with-other-sun-protection-measures",
-    "canonical": "uses helps prevent sunburn if used as directed with other sun protection measures",
-    "names": [
-      "uses helps prevent sunburn if used as directed with other sun protection measures",
-      "decreases the risk of skin cancer",
-      "early skin aging caused by the sun"
-    ],
-    "atc": null
-  },
-  {
     "slug": "bictegravir-na",
     "canonical": "bictegravir na",
     "names": [
@@ -50995,30 +50706,6 @@
     "canonical": "trospium cl",
     "names": [
       "trospium cl"
-    ],
-    "atc": null
-  },
-  {
-    "slug": "fludeoxyglucose-f-18",
-    "canonical": "fludeoxyglucose f 18",
-    "names": [
-      "fludeoxyglucose f 18"
-    ],
-    "atc": null
-  },
-  {
-    "slug": "homosalate",
-    "canonical": "homosalate",
-    "names": [
-      "homosalate",
-      "octisalate",
-      "octocrylene",
-      "titanium dioxide",
-      "zinc oxide",
-      "hydrating camo cc spf30 deep 560 c",
-      "active ingredients zinc oxide 6 3 titanium dioxide 6 homosalate 5 octisalate 4 5 octocrylene 3 purpose sunscreen",
-      "purpose sunscreen",
-      "e l f camo semi matte cc spf 30 light 205 n"
     ],
     "atc": null
   },
@@ -51502,27 +51189,6 @@
     "atc": null
   },
   {
-    "slug": "acorus-calamus-root",
-    "canonical": "acorus calamus root",
-    "names": [
-      "acorus calamus root",
-      "berberis vulgaris root bark",
-      "c12 17 alkane",
-      "camphor",
-      "larix decidua resin",
-      "solidago virgaurea flowering top",
-      "juniperus eucalyptus",
-      "active ingredients 100gm contains 30gm berberis 1x",
-      "10gm calamus 3x",
-      "10gm camphora 3x",
-      "10gm iris 3x",
-      "10gm resina laricis 3x",
-      "10gm solidago 3x",
-      "use temporary relief of cold symptoms"
-    ],
-    "atc": null
-  },
-  {
     "slug": "panthenol",
     "canonical": "panthenol",
     "names": [
@@ -51602,41 +51268,6 @@
     "atc": null
   },
   {
-    "slug": "bos-taurus-gallbladder",
-    "canonical": "bos taurus gallbladder",
-    "names": [
-      "bos taurus gallbladder",
-      "chelidonium majus",
-      "cichorium intybus whole",
-      "citrullus colocynthis fruit",
-      "iron",
-      "chelidonium cichorium",
-      "active ingredients 100 gm contains 10 gm chelidonium 4x",
-      "10 gm cichorium 4x",
-      "10 gm colocynthis 4x",
-      "10 gm vesica fellea 6x",
-      "10 gm ferrum met 10x",
-      "use temporary relief of digestive upset"
-    ],
-    "atc": null
-  },
-  {
-    "slug": "bos-taurus-adrenal-gland",
-    "canonical": "bos taurus adrenal gland",
-    "names": [
-      "bos taurus adrenal gland",
-      "bos taurus pituitary gland",
-      "thyroid",
-      "unspecified",
-      "gi suprarenales gi thyreoidea hypophysis 6x6x8x",
-      "active ingredients glandulae suprarenales 6x",
-      "glandula thyreoidea 6x",
-      "hypophysis 8x",
-      "use promotes healthy balance of homologous organs"
-    ],
-    "atc": null
-  },
-  {
     "slug": "norethindrone-acetate",
     "canonical": "norethindrone acetate",
     "names": [
@@ -51659,25 +51290,20 @@
     "atc": null
   },
   {
-    "slug": "echinacea-purpurea",
-    "canonical": "echinacea purpurea",
-    "names": [
-      "echinacea purpurea",
-      "rosa canina fruit",
-      "zinc gluconate",
-      "cold eeze cold remedy",
-      "rosa canina",
-      "active ingredients active ingredients purposes zinc gluconate 1x hpus cold remedy rosa caina 2x hpus promotes immune support echinacea purpurea 1x hpus promotes immune support the letters hpus indicate that the active ingredient is in the official homeopathic pharmacopeia of the united states",
-      "purposes purposes"
-    ],
-    "atc": null
-  },
-  {
     "slug": "nafcillin-na",
     "canonical": "nafcillin na",
     "names": [
       "nafcillin na",
       "nafcillin"
+    ],
+    "atc": null
+  },
+  {
+    "slug": "sulfacetamide-na",
+    "canonical": "sulfacetamide na",
+    "names": [
+      "sulfacetamide na",
+      "na sulfacetamide"
     ],
     "atc": null
   },
@@ -51896,15 +51522,6 @@
       "2013 hemagglutinin antigen",
       "influenzinum",
       "active ingredient influenzinum 12c hpus see product name on front panel"
-    ],
-    "atc": null
-  },
-  {
-    "slug": "loratadine-10mg",
-    "canonical": "loratadine 10mg",
-    "names": [
-      "loratadine 10mg",
-      "antihistamine"
     ],
     "atc": null
   },
