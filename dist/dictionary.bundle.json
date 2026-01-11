@@ -42,10 +42,6 @@
       "crest kids sparklefun bubblegum",
       "active ingredient na fluoride 0 243 0 15 w",
       "purpose anticavity toothpaste",
-      "crest 3d white fresh mint",
-      "crest complete multi benefit whitening plus scope",
-      "crest strawberry",
-      "crest bubblegum",
       "for dental care",
       "antivavity",
       "active ingredient na fluoride 0 02 0 01 w",
@@ -126,17 +122,15 @@
     "atc": "A01AB"
   },
   {
-    "slug": "debriding-agent",
-    "canonical": "debriding agent",
+    "slug": "hydrogen-peroxide",
+    "canonical": "hydrogen peroxide",
     "names": [
       "hydrogen peroxide",
-      "active ingredient hydrogen peroxide",
-      "purpose first aid antiseptic",
-      "debriding agent",
       "active ingredient hydrogen peroxide 3 0",
       "purpose topical antiseptic",
       "walgreens 3 hydrogen peroxide wipes",
-      "active ingredient hydrogen peroxide 3 purpose first aid antiseptic"
+      "active ingredient hydrogen peroxide 3 purpose first aid antiseptic",
+      "purpose first aid antiseptic"
     ],
     "atc": "A01AB02"
   },
@@ -473,17 +467,7 @@
       "aluminum hydroxide",
       "alcohol denat",
       "methylparaben",
-      "propylparaben",
-      "benzethonium cl",
-      "dyclonine hcl",
-      "liquid bandage",
-      "benzethonium cl plus dyclonine hcl",
-      "active ingredients benzethonium cl 0 2 dyclonine hcl 0 75",
-      "purpose first aid antiseptic topical analgesic",
-      "medi first protective coating bandage",
-      "active ingredients benzethonium cl 0 2 w",
-      "w benzocaine 3 2 w",
-      "purpose topical antiseptic topical anesthetic"
+      "propylparaben"
     ],
     "atc": "A01AB18"
   },
@@ -15421,6 +15405,19 @@
       "didecyldimethylammonium cl"
     ],
     "atc": "D08AJ06"
+  },
+  {
+    "slug": "dyclonine-hcl",
+    "canonical": "dyclonine hcl",
+    "names": [
+      "benzethonium cl",
+      "dyclonine hcl",
+      "liquid bandage",
+      "benzethonium cl plus dyclonine hcl",
+      "active ingredients benzethonium cl 0 2 dyclonine hcl 0 75",
+      "purpose first aid antiseptic topical analgesic"
+    ],
+    "atc": "D08AJ08"
   },
   {
     "slug": "decamethoxine",
@@ -42380,9 +42377,8 @@
       "drug facts active ingredients acetaminophen 325 mg dextromethorphan hbr 15 mg doxylamine succinate 6 25 mg",
       "purpose acetaminophen pain reliever",
       "fever reducer dextromethorphan hbr cough suppressant doxylamine succinate antihistamine",
-      "aspirin",
-      "kirkland signature migraine headache relief",
-      "active ingredients acetaminophen 250 mg aspirin 250 mg caffeine 65 mg nonsteroidal anti inflammatory drug",
+      "goodmeds extra strength pain relief pm",
+      "active ingredients acetaminophen 500 mg diphenhydramine hcl 25 mg purpose pain reliever nighttime sleep aid",
       "severe cold",
       "active ingredients acetaminophen 650 mg dextromethorphan hbr 20 mg doxylamine succinate 12 5 mg phenylephrine hcl 10 mg",
       "fever reducer cough suppressant antihistamine nasal decongestant",
@@ -42419,6 +42415,7 @@
       "acetaminophen extra strength",
       "drug facts active ingredient acetaminophen usp 500 mg",
       "members mark acetaminophen",
+      "aspirin",
       "extra strength headache",
       "active ingredients active ingredients acetaminophen 250 mg aspirin 250 mg caffeine 65 mg nonsteroidal anti inflammatory drug",
       "purpose purposes pain reliever pain reliever pain reliever aid",
@@ -42448,6 +42445,7 @@
       "mucus relief cold flu sore throat maximum strength",
       "active ingredients acetaminophen 650 mg dextromethorphan hbr 20 mg guaifenesin 400 mg phenylephrine hcl 10 mg",
       "headache relief extra strength",
+      "active ingredients acetaminophen 250 mg aspirin 250 mg caffeine 65 mg nonsteroidal anti inflammatory drug",
       "purpose pain reliever pain reliever pain reliever aid",
       "drug facts active ingredients acetaminophen 325 mg dextromethorphan hbr 10 mg phenylephrine hcl 5 mg",
       "fever reducer dextromethorphan hbr cough suppressant phenylephrine hcl antihistamine",
@@ -44989,6 +44987,16 @@
     "atc": null
   },
   {
+    "slug": "bupropion-hcl",
+    "canonical": "bupropion hcl",
+    "names": [
+      "bupropion hcl",
+      "bupropion hcl xl",
+      "bupropion hcl sr"
+    ],
+    "atc": null
+  },
+  {
     "slug": "tramadol-hcl",
     "canonical": "tramadol hcl",
     "names": [
@@ -45686,6 +45694,15 @@
     "names": [
       "paroxetine hcl hemihydrate",
       "paroxetine"
+    ],
+    "atc": null
+  },
+  {
+    "slug": "prednisolone-acetate",
+    "canonical": "prednisolone acetate",
+    "names": [
+      "prednisolone acetate",
+      "pred forte"
     ],
     "atc": null
   },
@@ -48371,16 +48388,6 @@
     "atc": null
   },
   {
-    "slug": "bupropion-hcl",
-    "canonical": "bupropion hcl",
-    "names": [
-      "bupropion hcl",
-      "bupropion hcl xl",
-      "bupropion hcl sr"
-    ],
-    "atc": null
-  },
-  {
     "slug": "fluoxetine-hcl",
     "canonical": "fluoxetine hcl",
     "names": [
@@ -49379,14 +49386,6 @@
       "active ingredients acetaminophen 325 mg dextromethorphan hbr 10 mg phenylephrine hci 5 mg purpose pain reliever",
       "fever reducer cough suppressant nasal decongestant",
       "purpose pain reliever"
-    ],
-    "atc": null
-  },
-  {
-    "slug": "prednisolone-acetate",
-    "canonical": "prednisolone acetate",
-    "names": [
-      "prednisolone acetate"
     ],
     "atc": null
   },
