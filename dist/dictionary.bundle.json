@@ -42,6 +42,10 @@
       "crest kids sparklefun bubblegum",
       "active ingredient na fluoride 0 243 0 15 w",
       "purpose anticavity toothpaste",
+      "crest 3d white fresh mint",
+      "crest strawberry",
+      "crest bubblegum",
+      "crest complete multi benefit whitening plus scope",
       "for dental care",
       "antivavity",
       "active ingredient na fluoride 0 02 0 01 w",
@@ -109,7 +113,10 @@
       "0 4",
       "burkhart",
       "active ingredient stannous fluoride 0 4",
-      "purpose fluoride preventive treatment"
+      "purpose fluoride preventive treatment",
+      "enamelon preventive treatment",
+      "active ingredient stannous fluoride 0 40 0 15 w",
+      "sensitivity relief"
     ],
     "atc": "A01AA04"
   },
@@ -122,15 +129,17 @@
     "atc": "A01AB"
   },
   {
-    "slug": "hydrogen-peroxide",
-    "canonical": "hydrogen peroxide",
+    "slug": "debriding-agent",
+    "canonical": "debriding agent",
     "names": [
       "hydrogen peroxide",
+      "active ingredient hydrogen peroxide",
+      "purpose first aid antiseptic",
+      "debriding agent",
       "active ingredient hydrogen peroxide 3 0",
       "purpose topical antiseptic",
       "walgreens 3 hydrogen peroxide wipes",
-      "active ingredient hydrogen peroxide 3 purpose first aid antiseptic",
-      "purpose first aid antiseptic"
+      "active ingredient hydrogen peroxide 3 purpose first aid antiseptic"
     ],
     "atc": "A01AB02"
   },
@@ -267,6 +276,9 @@
       "antifungal 1 clotrimazole",
       "active ingredient active ingredients clotrimazole 1 0",
       "lidocaine",
+      "aspercreme with lidocaine dry",
+      "active i ngredient lidocaine 4",
+      "purpose topical anesthetic",
       "re lieved lidocaine patch",
       "lidocaine patch 4",
       "active ingredients lidocaine 4",
@@ -287,7 +299,6 @@
       "gen7t plus",
       "healthwise pain relief lidocaine patch",
       "active ingredient lidocaine 4 0",
-      "purpose topical anesthetic",
       "active ingredient lidocaine 4 w",
       "pain relieving lidocaine patch",
       "active ingredient lidocaine 4",
@@ -564,6 +575,8 @@
       "active ingredient hydrocortisone usp 1",
       "purpose antipruritic",
       "theracare hydrocortisone",
+      "cortizone 10 fast acting itch relief cooling",
+      "active ingredients hydrocortisone 1",
       "hydrocortisone kit",
       "equate cortisone",
       "hydrocortisone 1",
@@ -2490,8 +2503,7 @@
       "stool softener laxative",
       "active ingredient docusate na usp",
       "100 mg",
-      "purpose stool softener laxative",
-      "active ingredient docusate na 100 mg"
+      "purpose stool softener laxative"
     ],
     "atc": "A06AA02"
   },
@@ -2516,6 +2528,10 @@
     "canonical": "5 mg",
     "names": [
       "bisacodyl",
+      "walgreens gentle laxative",
+      "active ingredient active ingredient purpose bisacodyl 10 mg stimulant laxative",
+      "uses for relief of occasional constipation this product generally produces bowel movement in 1",
+      "4 to 1 hour",
       "dulcolax laxative",
       "active i ngredient bisacodyl 10 mg",
       "purpose stimulant laxative",
@@ -13825,6 +13841,7 @@
       "usp 10",
       "povidone iodine scrub sterile",
       "active ingredient povidone iodine 7 5 purpose antiseptic",
+      "active ingredient povidone iodine 10",
       "medichoice pvp",
       "active ingredient povidone iodine usp",
       "10 w",
@@ -43006,6 +43023,8 @@
       "unscented",
       "active ingredient aluminum chlorohydrate 10 purpose antiperspirant",
       "purpose antiperspirant",
+      "roll on anti perspirant",
+      "active ingredient aluminum chlorohydrate 10 basis",
       "dove",
       "advanced care lavender fresh dry 48h antiperspirant deodorant",
       "drug facts active ingredient aluminum chlorohydrate",
@@ -43391,6 +43410,10 @@
       "alcohol prep pad",
       "alcohol prep pad 70 isoprppyl alcohol",
       "antispectic for preparation of skin prior of",
+      "alcohol",
+      "active ingredient purpose isopropyl alcohol 70 v",
+      "v antiseptic",
+      "uses alcohol antiseptic cleanser",
       "first aid only hand sanitizing wipe",
       "active ingredient isopropyl alcohol 70",
       "purpose antibacterial",
@@ -43400,7 +43423,8 @@
       "active ingredient isopropyl alcohol 91",
       "alcohol wipes",
       "isopropyl alcohol 70",
-      "first aid antiseptic"
+      "first aid antiseptic",
+      "isopropyl rubbing alcohol"
     ],
     "atc": null
   },
@@ -43749,6 +43773,14 @@
       "medichoice moisturizing lip balm spf15",
       "active ingredients avobenzone 3 0 octinoxate 6 5 octisalate 5 0 octocrylene 1 5 purpose sunscreen",
       "purpose sunscreen",
+      "triple prep spf 40",
+      "active ingredients avobenzone 3",
+      "homosalate 7",
+      "octisalate 5",
+      "octocrylene 6",
+      "helps prevent sunburn if used as directed with other sun protection measures",
+      "decreases the risk of skin cancer",
+      "early skin aging caused by the sun",
       "reef kids spf 30 oxybenzone free",
       "active ingredients octocrylene 5 0 octisalate 3 0 avobenzone 2 5",
       "oxybenzone",
@@ -43796,7 +43828,6 @@
       "octisalate 4 5",
       "octocrylene 4 0 sunscreen",
       "uses uses helps prevent sunburn if used as directed with other sun protection measures",
-      "decreases the risk of skin cancer",
       "early signs of aging caused by the sun",
       "mario badescu collagen spf 15",
       "gr lip butter cookie spf 15",
@@ -43834,6 +43865,9 @@
       "active ingredients avobenzone 3 homosalate 10 octilsalate 5 purpose sunscreen",
       "farmasi bb",
       "active ingredient butyl methoxydibenzoylmethane 2 95 ethylhexyl methoxycinnamate 7 35 homosalate 9 79 octocrylene 6 15 purpose sunscreen",
+      "play everyday sunscreen spf 50 with sunflower extract",
+      "active ingredients purpose avobenzone 3 sunscreen homosalate 10 sunscreen octisalate 5 sunscreen octocrylene 7 5 sunscreen",
+      "uses helps prevent sunburn if used as directed with other sun protection measures",
       "hydrating sunscreen moisturizer broad spectrum spf50 spf 50",
       "hawaiian tropic",
       "active ingredient avobenzone 2 7",
@@ -43842,11 +43876,8 @@
       "rubber ducky spf 50 unfragranced sunscreen",
       "avobenzone 3",
       "homosalate 10",
-      "octocrylene 6",
-      "active ingredients avobenzone 3",
       "fresh coast spf 50 sunscreen",
       "homosalate 15",
-      "octisalate 5",
       "octocrylene 10",
       "neutrogena beach defense water plus sun protection sunscreen broad spectrum spf 50",
       "active ingredients purpose avobenzone 3 sunscreen homosalate 10 sunscreen octisalate 5 sunscreen octocrylene 10 sunscreen",
@@ -43967,6 +43998,12 @@
       "active ingredient zinc oxide 13",
       "clearspf sheer sunscreen",
       "active ingredient zinc oxide 20",
+      "hale",
+      "hush broad spectrum spf 30 spf 30",
+      "zinc oxide 13 50",
+      "daily supergoop dose bioretinol mineral spf 40",
+      "daily dose bioretinol mineral spf 40",
+      "active ingredients zinc oxide 16 5",
       "everyday sun defense",
       "active ingredient zinc oxide 9 4",
       "otc purpose sunscreen"
@@ -44025,15 +44062,6 @@
     "names": [
       "zinc oxide 20 sunscreen",
       "purpose zinc oxide 20 sunscreen"
-    ],
-    "atc": null
-  },
-  {
-    "slug": "zinc-oxide-13-50",
-    "canonical": "zinc oxide 13 50",
-    "names": [
-      "zinc oxide 13 50",
-      "sunscreen"
     ],
     "atc": null
   },
@@ -44120,10 +44148,10 @@
       "smooth gator head ezz analgesic",
       "active ingredients menthol 3 00 purpose topical analgesic",
       "purpose topical analgesic",
-      "motion sickness",
-      "motion sickness patch",
-      "active ingredient menthol 2",
-      "purpose refreshing",
+      "fortify",
+      "drug facts active ingredient menthol 2 7",
+      "purpose antitussive uses temporarily calms cough due to minor throat",
+      "bronchial irritation associated with a cold or inhaled irritants relieves the impulse to cough to help you rest",
       "kroger hot",
       "cold medicated patch",
       "active ingredient active ingredient purpose menthol 5 topical analgesic",
@@ -44499,7 +44527,9 @@
       "active ingredients miconazole nitrate 2",
       "antifungal miconazole liquid continuous",
       "antifungal athletes foot",
-      "anti fungal miconazole nitrate"
+      "anti fungal miconazole nitrate",
+      "elixirtripleguard triple antibiotic",
+      "active ingredient miconazole nitrate 2 w"
     ],
     "atc": null
   },
@@ -44565,6 +44595,27 @@
     "canonical": "ketorolac tromethamine",
     "names": [
       "ketorolac tromethamine"
+    ],
+    "atc": null
+  },
+  {
+    "slug": "black-mustard-seed",
+    "canonical": "black mustard seed",
+    "names": [
+      "black mustard seed",
+      "calcium sulfide",
+      "euphorbia resinifera resin",
+      "guaiac",
+      "luffa operculata fruit",
+      "mercuric sulfide",
+      "k dichromate",
+      "pulsatilla montana whole",
+      "silicon dioxide",
+      "sinusitis 2060",
+      "sinusitis",
+      "active ingredients sinapis nigra 3x pulsatilla 4x euphorbium officinarum 6x hepar sulphuris calcareum 6x kali bichromicum 6x luffa operculata 6x silicea 6x guaiacum 8x cinnabaris 12x",
+      "claims based on traditional homeopathic practice",
+      "not accepted medical evidence not fda evaluated"
     ],
     "atc": null
   },
@@ -44858,6 +44909,10 @@
       "purpose antimicrobial",
       "justice berry scented anti bacterial hand sanitizer bff",
       "active ingredient alcohol 62 purpose antiseptic",
+      "avagard d",
+      "active ingredient ethyl alcohol",
+      "61 w",
+      "w",
       "hand sanitizer to help reduce bacteria that potentially can cause disease for use when soap",
       "water are not available",
       "antiseptic hand sanitizer ethyl alcohol",
@@ -44913,13 +44968,13 @@
       "ben e keith hand cleaner",
       "purpose antibacterial agent",
       "b pure moisturizing hand sanitizer honey crisp apple scented",
-      "active ingredient ethyl alcohol",
       "70 v",
       "v purpose antimicrobial",
       "hand sanitizing wipes",
       "everyone hand sanitizer ruby grapefruit",
       "active ingredients ethanol 62",
       "smart care hot wheels hand sanitizer",
+      "fresh feels hand sanitizer mist seashell sunshine scent",
       "footspa pedi",
       "ethyl alcohol 70 v",
       "antimicrobial",
@@ -46170,6 +46225,27 @@
     "atc": null
   },
   {
+    "slug": "aconitum-carmichaeli-lateral-root",
+    "canonical": "aconitum carmichaeli lateral root",
+    "names": [
+      "aconitum carmichaeli lateral root",
+      "astragalus propinquus root",
+      "cinnamomum cassia twig",
+      "crassostrea gigas shell",
+      "crocus sativus flower",
+      "lindera aggregata root",
+      "phellodendron chinensis bark",
+      "viscum album fruiting top",
+      "vitex negundo fruit",
+      "uterine formula 2105",
+      "uterine formula",
+      "active ingredients wu yao 1x zi hua ti ting 1x fu tzu 3x gui zhi 3x hong hua 3x huang bo 3x mu li 3x sang ji sheng 3x huang qi 6x",
+      "claims based on traditional homeopathic practice",
+      "not accepted medical evidence not fda evaluated"
+    ],
+    "atc": null
+  },
+  {
     "slug": "propylhexedrine",
     "canonical": "propylhexedrine",
     "names": [
@@ -46276,6 +46352,19 @@
     "canonical": "calcium sulfide",
     "names": [
       "calcium sulfide",
+      "chimaphila umbellata whole",
+      "saw palmetto",
+      "sabal combination 9243",
+      "sabal combination",
+      "active ingredients sabal serrulata 1x",
+      "10x",
+      "30x chimaphila umbellata 10x",
+      "30x hepar sulphuris calcareum 10x",
+      "15x",
+      "30x",
+      "200x",
+      "claims based on traditional homeopathic practice",
+      "not accepted medical evidence not fda evaluated",
       "graphite",
       "kerosene",
       "sepia officinalis juice",
@@ -46340,45 +46429,35 @@
     "atc": null
   },
   {
-    "slug": "calcium-polycarbophil",
-    "canonical": "calcium polycarbophil",
-    "names": [
-      "calcium polycarbophil",
-      "publix",
-      "drug fats active ingredient calcium polycarbophil 625 mg equivalent to 500 mg polycarbophil",
-      "purpose bulk forming laxative"
-    ],
-    "atc": null
-  },
-  {
-    "slug": "calcium-sulphate-dihydrate",
-    "canonical": "calcium sulphate dihydrate",
-    "names": [
-      "calcium sulphate dihydrate",
-      "k cl",
-      "k sulphate",
-      "silicon dioxide",
-      "schuessler tissue salts comb d skin disorders",
-      "kali muriaticum",
-      "kali sulphuricum",
-      "calcarea sulphurica",
-      "silicea",
-      "active ingredients purpose calcarea sulphurica 6x hpus skin disorders",
-      "acne kali muriaticum 6x hpus minor skin eruptions kali sulphuricum 6x hpus dry",
-      "scaly flaky skin",
-      "minor skin eruptions silicea 6x hpus skin disorders",
-      "minor skin eruptions hpus is the homeopathic pharmacopoeia of the united states",
-      "schuessler tissue salts calc sulph blood cleanser 3",
-      "minor skin eruptions",
-      "slow healing wounds hpus is the homeopathic pharmacopoeia of the united states"
-    ],
-    "atc": null
-  },
-  {
     "slug": "calcium-sulphate",
     "canonical": "calcium sulphate",
     "names": [
       "calcium sulphate",
+      "gold",
+      "graphite",
+      "lycopodium clavatum spore",
+      "mimulus guttatus flowering top",
+      "oyster shell calcium carbonate",
+      "crude",
+      "phosphorus",
+      "pinus sylvestris flowering top",
+      "populus tremula flowering top",
+      "k phosphate",
+      "unspecified form",
+      "sepia officinalis juice",
+      "silver nitrate",
+      "strychnos ignatii seed",
+      "ret kidney 7005",
+      "ret kidney",
+      "active ingredients aspen flower essence 3x mimulus flower essence 3x pine flower essence 3x calcarea sulphurica 3x",
+      "6x",
+      "30x kali phosphoricum 3x",
+      "30x",
+      "all the following at 30x",
+      "100x",
+      "200x argentum nitricum aurum metallicum calcarea carbonica graphites ignatia amara lycopodium clavatum phosphorus sepia",
+      "claims based on traditional homeopathic practice",
+      "not accepted medical evidence not fda evaluated",
       "carpinus betulus flowering top",
       "dibasic k phosphate",
       "ferrosoferric phosphate",
@@ -46425,6 +46504,41 @@
       "oversensitive to all influences nat sulph 6x hpus ill humor",
       "irritability",
       "worse in the morning"
+    ],
+    "atc": null
+  },
+  {
+    "slug": "calcium-polycarbophil",
+    "canonical": "calcium polycarbophil",
+    "names": [
+      "calcium polycarbophil",
+      "publix",
+      "drug fats active ingredient calcium polycarbophil 625 mg equivalent to 500 mg polycarbophil",
+      "purpose bulk forming laxative"
+    ],
+    "atc": null
+  },
+  {
+    "slug": "calcium-sulphate-dihydrate",
+    "canonical": "calcium sulphate dihydrate",
+    "names": [
+      "calcium sulphate dihydrate",
+      "k cl",
+      "k sulphate",
+      "silicon dioxide",
+      "schuessler tissue salts comb d skin disorders",
+      "kali muriaticum",
+      "kali sulphuricum",
+      "calcarea sulphurica",
+      "silicea",
+      "active ingredients purpose calcarea sulphurica 6x hpus skin disorders",
+      "acne kali muriaticum 6x hpus minor skin eruptions kali sulphuricum 6x hpus dry",
+      "scaly flaky skin",
+      "minor skin eruptions silicea 6x hpus skin disorders",
+      "minor skin eruptions hpus is the homeopathic pharmacopoeia of the united states",
+      "schuessler tissue salts calc sulph blood cleanser 3",
+      "minor skin eruptions",
+      "slow healing wounds hpus is the homeopathic pharmacopoeia of the united states"
     ],
     "atc": null
   },
@@ -47175,6 +47289,81 @@
     "atc": null
   },
   {
+    "slug": "arnica-montana-whole",
+    "canonical": "arnica montana whole",
+    "names": [
+      "arnica montana whole",
+      "barium cl dihydrate",
+      "cholesterol",
+      "gold",
+      "hamamelis virginiana root bark",
+      "stem bark",
+      "lecithin",
+      "soybean",
+      "magnesium cl",
+      "oxalic acid",
+      "phosphorus",
+      "pork heart",
+      "selenicereus grandiflorus stem",
+      "sus scrofa artery",
+      "valerian",
+      "vascu pro t009",
+      "cactus grandiflorus",
+      "hamamelis virginiana",
+      "valeriana officinalis",
+      "arteria suis",
+      "heart",
+      "arnica montana",
+      "aurum metallicum",
+      "baryta muriatica",
+      "cholesterinum",
+      "magnesia muriatica",
+      "oxalicum acidum",
+      "active ingredients cactus grandiflorus 3x",
+      "hamamelis virginiana 3x",
+      "valeriana officinalis 3x",
+      "arteria suis 6x",
+      "heart 6x",
+      "arnica montana 12x",
+      "aurum metallicum 12x",
+      "baryta muriatica 12x",
+      "cholesterinum 12x",
+      "lecithin 12x",
+      "magnesia muriatica 12x",
+      "oxalicum acidum 12x",
+      "phosphorus 12x",
+      "indications may temporarily relieve cold clammy feet",
+      "numbness of limbs",
+      "painful calves upon walking",
+      "muscular weakness of the lower extremities",
+      "bellis perennis whole",
+      "berberis vulgaris root bark",
+      "bos taurus bone marrow",
+      "calendula officinalis flowering top",
+      "comfrey root",
+      "echinacea purpurea whole",
+      "hypericum perforatum whole",
+      "rhododendron tomentosum leafy twig",
+      "ruta graveolens flowering top",
+      "silicon dioxide",
+      "toxicodendron pubescens leaf",
+      "injury 2034",
+      "injury",
+      "active ingredients echinacea purpurea 3x arnica montana 3x",
+      "6x",
+      "12x",
+      "100x",
+      "1000x calendula officinalis 3x",
+      "30x",
+      "1000x bellis perennis 6x berberis vulgaris 6x bone marrow 6x ledum palustre 6x phosphorus 6x silicea 6x symphytum officinale 6x hypericum perforatum 6x",
+      "60x ruta graveolens 6x",
+      "30x rhus toxicodendron 12x",
+      "claims based on traditional homeopathic practice",
+      "not accepted medical evidence not fda evaluated"
+    ],
+    "atc": null
+  },
+  {
     "slug": "arnica-montana-3c",
     "canonical": "arnica montana 3c",
     "names": [
@@ -47636,7 +47825,14 @@
       "delphinium staphisagria seed",
       "staphysagria",
       "active ingredient homeopathic dilution of hpus staphysagria 30c",
-      "traditionally use for minor cuts surgical wounds"
+      "traditionally use for minor cuts surgical wounds",
+      "staphysagria 7137",
+      "active ingredients staphysagria 6x",
+      "9x",
+      "12x",
+      "30x",
+      "claims based on traditional homeopathic practice",
+      "not accepted medical evidence not fda evaluated"
     ],
     "atc": null
   },
@@ -47746,6 +47942,39 @@
       "chlorpheniramine polistirex",
       "aller chlor",
       "active ingredient chlorpheniramine maleate 4 mg"
+    ],
+    "atc": null
+  },
+  {
+    "slug": "aniline",
+    "canonical": "aniline",
+    "names": [
+      "aniline",
+      "benzene",
+      "berberis vulgaris root bark",
+      "black cohosh",
+      "chelidonium majus whole",
+      "cyclohexanol",
+      "estradiol benzoate",
+      "gelsemium sempervirens root",
+      "mercuric cation",
+      "musk xylene",
+      "strychnos nux vomica seed",
+      "toluene",
+      "solvent",
+      "small ring combination 9317",
+      "small ring combination",
+      "active ingredients cimicifuga racemosa 3x gelsemium sempervirens 3x nux vomica 6x berberis vulgaris 10x chelidonium majus 10x anilinum 12x cyclohexanol 12x estradiol benzoate 12x phenylmercuric nitrate 12x toluol 12x xylol 12x benzinum 14x",
+      "claims based on traditional homeopathic practice",
+      "not accepted medical evidence not fda evaluated"
+    ],
+    "atc": null
+  },
+  {
+    "slug": "benazepril-hcl",
+    "canonical": "benazepril hcl",
+    "names": [
+      "benazepril hcl"
     ],
     "atc": null
   },
@@ -48991,6 +49220,16 @@
     "atc": null
   },
   {
+    "slug": "sulfacetamide-na",
+    "canonical": "sulfacetamide na",
+    "names": [
+      "sulfacetamide na",
+      "sulfur",
+      "na sulfacetamide"
+    ],
+    "atc": null
+  },
+  {
     "slug": "tobramycin-sulphate",
     "canonical": "tobramycin sulphate",
     "names": [
@@ -49200,6 +49439,22 @@
     "names": [
       "fluvastatin na",
       "fluvastatin"
+    ],
+    "atc": null
+  },
+  {
+    "slug": "pulsatilla-montana-whole",
+    "canonical": "pulsatilla montana whole",
+    "names": [
+      "pulsatilla montana whole",
+      "pulsatilla 7131",
+      "pulsatilla",
+      "active ingredients pulsatilla 6x",
+      "9x",
+      "12x",
+      "30x",
+      "claims based on traditional homeopathic practice",
+      "not accepted medical evidence not fda evaluated"
     ],
     "atc": null
   },
@@ -49666,14 +49921,6 @@
     "atc": null
   },
   {
-    "slug": "benazepril-hcl",
-    "canonical": "benazepril hcl",
-    "names": [
-      "benazepril hcl"
-    ],
-    "atc": null
-  },
-  {
     "slug": "clobetasol-propionate",
     "canonical": "clobetasol propionate",
     "names": [
@@ -49928,6 +50175,31 @@
     "atc": null
   },
   {
+    "slug": "agathosma-betulina-leaf",
+    "canonical": "agathosma betulina leaf",
+    "names": [
+      "agathosma betulina leaf",
+      "beef kidney",
+      "causticum",
+      "chimaphila umbellata whole",
+      "crateva magna bark",
+      "delphinium staphisagria seed",
+      "equisetum arvense top",
+      "lytta vesicatoria",
+      "sepia officinalis juice",
+      "smilax ornata root",
+      "sus scrofa urinary bladder",
+      "toxicodendron pubescens leaf",
+      "urtica urens whole",
+      "urinary tract 2122",
+      "urinary tract",
+      "active ingredients crataeva 3x barosma 6x bladder 6x equisetum arvense 6x kidney 6x rhus toxicodendron 12x sepia 60x staphysagria 60x cantharis 12c sarsaparilla 12c causticum 30c chimaphila umbellata 30c urtica urens 30c",
+      "claims based on traditional homeopathic practice",
+      "not accepted medical evidence not fda evaluated"
+    ],
+    "atc": null
+  },
+  {
     "slug": "nickel-iodide",
     "canonical": "nickel iodide",
     "names": [
@@ -49991,6 +50263,30 @@
     "canonical": "origanum majorana",
     "names": [
       "origanum majorana"
+    ],
+    "atc": null
+  },
+  {
+    "slug": "asian-ginseng",
+    "canonical": "asian ginseng",
+    "names": [
+      "asian ginseng",
+      "bee pollen",
+      "corticotropin",
+      "ephedra distachya flowering twig",
+      "epinephrine",
+      "glycyrrhiza glabra",
+      "paullinia cupana seed",
+      "rosa canina fruit",
+      "na cl",
+      "sus scrofa adrenal gland",
+      "zinc",
+      "adrenal liquescence 3001",
+      "adrenal liquescence",
+      "active ingredients glycyrrhiza glabra 1x bee pollen 2x paullinia sorbilis 3x rosa canina 3x panax ginseng 3x",
+      "6x adrenal 6x adrenocorticotrophin 6x ephedra vulgaris 6x zincum metallicum 6x adrenalinum 12x natrum muriaticum 12x",
+      "claims based on traditional homeopathic practice",
+      "not accepted medical evidence not fda evaluated"
     ],
     "atc": null
   },
@@ -50340,6 +50636,33 @@
     "atc": null
   },
   {
+    "slug": "beef-liver",
+    "canonical": "beef liver",
+    "names": [
+      "beef liver",
+      "bos taurus colon",
+      "bos taurus duodenum",
+      "bos taurus gallbladder",
+      "bos taurus pancreas",
+      "chelidonium majus whole",
+      "cinchona officinalis bark",
+      "citrullus colocynthis fruit pulp",
+      "hepatitis a virus strain hm175 antigen",
+      "hyssopus officinalis whole",
+      "lycopodium clavatum spore",
+      "milk thistle",
+      "nutmeg",
+      "phosphorus",
+      "veratrum album root",
+      "lycopodium combination 9231",
+      "lycopodium combination",
+      "active ingredients carduus marianus 2x cinchona officinalis 3x lycopodium clavatum 3x chelidonium majus 4x nux moschata 4x colocynthis 6x phosphorus 6x veratrum album 6x liver 8x duodenum 10x gallbladder 10x pancreas 10x thymus 10x colon 12x hepatitis 14x",
+      "claims based on traditional homeopathic practice",
+      "not accepted medical evidence not fda evaluated"
+    ],
+    "atc": null
+  },
+  {
     "slug": "chapstick-12-days-of-christmas",
     "canonical": "chapstick 12 days of christmas",
     "names": [
@@ -50569,45 +50892,6 @@
       "kroger lubricant eye",
       "active ingredient carboxymethylcellulose na 0 5",
       "purpose carboxymethylcellulose na eye lubricant"
-    ],
-    "atc": null
-  },
-  {
-    "slug": "chelidonium-majus-whole",
-    "canonical": "chelidonium majus whole",
-    "names": [
-      "chelidonium majus whole",
-      "herring sperm dna",
-      "hydrocortisone",
-      "saccharomyces cerevisiae rna",
-      "saw palmetto",
-      "sus scrofa adrenal gland",
-      "sus scrofa hypothalamus",
-      "sus scrofa pituitary gland",
-      "testosterone",
-      "thuja occidentalis leafy twig",
-      "endopure testos for women",
-      "hypothalamus suis",
-      "rna",
-      "sabal serrulata",
-      "dna",
-      "glandula suprarenalis suis",
-      "hypophysis suis",
-      "chelidonium majus",
-      "thuja occidentalis",
-      "active ingredients hypothalamus suis 6x",
-      "rna 6x",
-      "sabal serrulata 6x",
-      "dna 6c",
-      "glandula suprarenalis suis 6c",
-      "hydrocortisone 6c",
-      "hypophysis suis 6c",
-      "testosterone 6c",
-      "chelidonium majus 12c",
-      "thuja occidentalis 12c",
-      "indications for the temporary relief of the following complaints liver",
-      "hot flashes",
-      "irregular periods"
     ],
     "atc": null
   },
@@ -51298,15 +51582,6 @@
     "atc": null
   },
   {
-    "slug": "sulfacetamide-na",
-    "canonical": "sulfacetamide na",
-    "names": [
-      "sulfacetamide na",
-      "na sulfacetamide"
-    ],
-    "atc": null
-  },
-  {
     "slug": "nmn-600mg",
     "canonical": "nmn 600mg",
     "names": [
@@ -51571,6 +51846,15 @@
       "purposes for children s daytime cold cough antihistamine cough suppressant nasal decongestant",
       "purposes for children s nighttime cold congestion antihistamine",
       "cough suppressant nasal decongestant"
+    ],
+    "atc": null
+  },
+  {
+    "slug": "eltrombopag-olamine",
+    "canonical": "eltrombopag olamine",
+    "names": [
+      "eltrombopag olamine",
+      "eltrombopag"
     ],
     "atc": null
   }
