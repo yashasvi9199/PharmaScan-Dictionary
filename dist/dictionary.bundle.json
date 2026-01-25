@@ -446,6 +446,8 @@
       "concealer spf 15",
       "active ingredients octinoxate 1 w",
       "v",
+      "dr lift spf 50",
+      "active ingredients zinc oxide 9 86 octinoxate 7 5",
       "broad spectrum spf45",
       "active ingredients zinc oxide 12 octinoxate 7 5",
       "camo cc spf30 deep 560 c",
@@ -7036,10 +7038,7 @@
       "ferrum quartz",
       "active ingredients each 200mg contains 40mg ferrum sulf 1x",
       "16mg quartz 1x",
-      "use temporary relief of headache",
-      "amino mask bioelements",
-      "active ingredient purpose sulfur 5 acne treatment",
-      "use for the treatment of acne"
+      "use temporary relief of headache"
     ],
     "atc": "B03AA07"
   },
@@ -9993,8 +9992,9 @@
     "names": [
       "hydrochlorothiazide",
       "lisinopril",
-      "triamterene",
       "olmesartan medoxomil",
+      "olmesartan medoxomil hydrochlorothiazide",
+      "triamterene",
       "losartan k"
     ],
     "atc": "C03AA03"
@@ -13687,6 +13687,9 @@
       "dercos salicylic acid anti dandruff serum",
       "active ingredient salicylic acid 1 85",
       "purpose antidandruff",
+      "dermatouch acnecare facial scrub",
+      "active ingredient purpose salicylic acid acne treatment",
+      "dermatouch acnecare pads",
       "aha",
       "bha swipes",
       "resurfacing treatment pads",
@@ -13713,6 +13716,9 @@
       "active ingredient salicylic acid 40",
       "purpose callus remover",
       "medicated callus removers extra thick",
+      "oil free daily face eqb",
+      "salicylic acid 2",
+      "active ingreient purpose salicylic acid 2 acne medication",
       "medicated corn removers",
       "purpose corn remover",
       "skinpharmacy advanced acne therapy pore refining facial mask",
@@ -42196,15 +42202,6 @@
     "atc": null
   },
   {
-    "slug": "active-ingredient-sulfur-3-purpose-acne-treatment",
-    "canonical": "active ingredient sulfur 3 purpose acne treatment",
-    "names": [
-      "active ingredient sulfur 3 purpose acne treatment",
-      "purpose acne treatment"
-    ],
-    "atc": null
-  },
-  {
     "slug": "benzalkonium-cl",
     "canonical": "benzalkonium cl",
     "names": [
@@ -42265,16 +42262,6 @@
       "trametinib dimethyl sulfoxide",
       "mekinist",
       "trametinib"
-    ],
-    "atc": null
-  },
-  {
-    "slug": "levothyroxine",
-    "canonical": "levothyroxine",
-    "names": [
-      "levothyroxine",
-      "liothyronine",
-      "np thyroid 120"
     ],
     "atc": null
   },
@@ -43855,6 +43842,9 @@
       "active ingredients avobenzone 3 homosalate 10 octisalate 5 octocrylene 7",
       "bali body watermelon tanning oil spf 6",
       "active ingredients octisalate 5 octocrylene 3 avobenzone 1",
+      "prequel lip visor nude spf 30",
+      "active ingredients avobenzone 3 0 octinoxate 7 5",
+      "purpose purpose sunscreen",
       "gold dynamics skin boosting moisturizer broad spectrum spf 15 sunscreen",
       "active ingredients avobenzone 3 homosalate 7 octisalate 5 octocrylene 10",
       "bali body cacao tanning oil spf 15",
@@ -44462,7 +44452,6 @@
       "purpose nighttime sleep aid",
       "good neighbor pharmacy childrens allergy",
       "active ingredient diphenhydramine hcl 12 5 mg",
-      "active ingredient diphenhydramine hcl usp 25mg",
       "nighttime sleep aid",
       "basic care nighttime sleep aid",
       "zinc acetate",
@@ -45905,6 +45894,14 @@
     "atc": null
   },
   {
+    "slug": "ursodiol",
+    "canonical": "ursodiol",
+    "names": [
+      "ursodiol"
+    ],
+    "atc": null
+  },
+  {
     "slug": "lupron-depot",
     "canonical": "lupron depot",
     "names": [
@@ -46276,12 +46273,6 @@
     "canonical": "calcium fluoride",
     "names": [
       "calcium fluoride",
-      "iron",
-      "magnesium sulphate heptahydrate",
-      "phosphorus",
-      "sulfur",
-      "vanadium",
-      "zinc",
       "calcium silicate",
       "ferric cl hexahydrate",
       "ferrosoferric phosphate",
@@ -46289,8 +46280,14 @@
       "magnesium cl",
       "manganese",
       "na nitrate",
-      "meb gluco vitality patch",
+      "sulfur",
+      "vanadium",
+      "zinc",
+      "iron",
+      "magnesium sulphate heptahydrate",
+      "phosphorus",
       "meb painguard patch",
+      "meb gluco vitality patch",
       "meb painguard patch alumina silicata",
       "calcarea silicata",
       "calcarea fluorata",
@@ -46892,14 +46889,6 @@
       "carbomer inactive ingredients water",
       "carbomer",
       "antiseptic handwash antiseptic handwash"
-    ],
-    "atc": null
-  },
-  {
-    "slug": "ursodiol",
-    "canonical": "ursodiol",
-    "names": [
-      "ursodiol"
     ],
     "atc": null
   },
@@ -48663,6 +48652,16 @@
     "atc": null
   },
   {
+    "slug": "dorzolamide-hcl",
+    "canonical": "dorzolamide hcl",
+    "names": [
+      "dorzolamide hcl",
+      "timolol maleate",
+      "dorzolamide hcl timolol maleate"
+    ],
+    "atc": null
+  },
+  {
     "slug": "hydralazine-hcl",
     "canonical": "hydralazine hcl",
     "names": [
@@ -49420,16 +49419,6 @@
       "dextrose",
       "k cl",
       "k cl in dextrose"
-    ],
-    "atc": null
-  },
-  {
-    "slug": "dorzolamide-hcl",
-    "canonical": "dorzolamide hcl",
-    "names": [
-      "dorzolamide hcl",
-      "timolol maleate",
-      "dorzolamide hcl timolol maleate"
     ],
     "atc": null
   },
@@ -50245,6 +50234,14 @@
       "h protect body",
       "active ingredients ensulizole 1 700 octisalate 5 000 zinc oxide 16 555 purpose sunscreen",
       "purpose sunscreen"
+    ],
+    "atc": null
+  },
+  {
+    "slug": "triamcinolone-acetonide",
+    "canonical": "triamcinolone acetonide",
+    "names": [
+      "triamcinolone acetonide"
     ],
     "atc": null
   },
@@ -51298,14 +51295,6 @@
     "canonical": "rabeprazole na",
     "names": [
       "rabeprazole na"
-    ],
-    "atc": null
-  },
-  {
-    "slug": "triamcinolone-acetonide",
-    "canonical": "triamcinolone acetonide",
-    "names": [
-      "triamcinolone acetonide"
     ],
     "atc": null
   },
