@@ -32,8 +32,6 @@
       "active ingredient na fluoride 0 05 0 02 w",
       "v fluoride ion",
       "purpose anticavity",
-      "prime tooth care hami melon",
-      "active ingredient na fluoride 0 25 purpose anticavity",
       "colgate max fresh cool mint",
       "active ingredient na fluoride 0 24 0 15 w",
       "colgate max fresh advanced whitening",
@@ -322,6 +320,8 @@
       "liprotek",
       "active ingredient petrolatum 61 lidocaine 0 6 purpose skin protectant external or topical analgesic",
       "purpose skin protectant external or topical analgesic",
+      "dynamo delay sample bottle",
+      "active ingredient lidocaine usp 13",
       "hunter beach 4",
       "20",
       "benzocaine",
@@ -13839,9 +13839,11 @@
       "betadine",
       "drug facts active ingredients povidone iodine",
       "purpose first aid antiseptic",
+      "lights povindone iodine scrub",
+      "active ingredient povidone iodine usp",
+      "purpose antiseptic",
       "medichoice povidone iodine prep pad",
       "active ingredient povidone iodine usp 10 purpose antiseptic",
-      "purpose antiseptic",
       "povidone iodine impregnated",
       "active ingredients povidone iodine",
       "usp 10",
@@ -13849,7 +13851,6 @@
       "active ingredient povidone iodine 7 5 purpose antiseptic",
       "active ingredient povidone iodine 10",
       "medichoice pvp",
-      "active ingredient povidone iodine usp",
       "10 w",
       "w purpose antiseptic"
     ],
@@ -42256,16 +42257,6 @@
     "atc": null
   },
   {
-    "slug": "trametinib-dimethyl-sulfoxide",
-    "canonical": "trametinib dimethyl sulfoxide",
-    "names": [
-      "trametinib dimethyl sulfoxide",
-      "mekinist",
-      "trametinib"
-    ],
-    "atc": null
-  },
-  {
     "slug": "varenicline-tartrate",
     "canonical": "varenicline tartrate",
     "names": [
@@ -42381,8 +42372,16 @@
       "drug facts active ingredients acetaminophen 325 mg dextromethorphan hbr 15 mg doxylamine succinate 6 25 mg",
       "purpose acetaminophen pain reliever",
       "fever reducer dextromethorphan hbr cough suppressant doxylamine succinate antihistamine",
+      "phenylephrine",
+      "flu cherry",
+      "uses temporarily relieves common cold",
+      "flu symptoms cough due to minor throat bronchial irritation sore throat headache minor aches pains fever runny nose",
+      "sneezing",
       "goodmeds extra strength pain relief pm",
       "active ingredients acetaminophen 500 mg diphenhydramine hcl 25 mg purpose pain reliever nighttime sleep aid",
+      "dextromethorphan",
+      "active ingredients purpose acetaminophen 650 mg pain reliever",
+      "fever reducer dextromethorphan hbr 30 mg cough suppressant doxylamine succinate 12 5 mg antihistamine",
       "severe cold",
       "active ingredients acetaminophen 650 mg dextromethorphan hbr 20 mg doxylamine succinate 12 5 mg phenylephrine hcl 10 mg",
       "fever reducer cough suppressant antihistamine nasal decongestant",
@@ -42398,7 +42397,6 @@
       "flu severe",
       "caseys 4goog",
       "caseys 4good",
-      "phenylephrine",
       "active ingredients active ingredients acetaminophen 325 mg dextromethorphan hbr 10 mg guaifenesin 200 mg phenylephrine hcl 5 mg",
       "purpose purpose pain reliever",
       "sinus relief",
@@ -42478,16 +42476,6 @@
       "active ingredients purpose active ingredients purpose acetaminophen 500 mg pain reliever",
       "fever reducer dextromethorphan hbr 26 66 mg cough suppressant guaifenesin 400 mg expectorant phenylephrine hcl 10 mg nasal descongestant",
       "purpose active ingredients purpose acetaminophen 500 mg pain reliever"
-    ],
-    "atc": null
-  },
-  {
-    "slug": "acetaminophen-325-mg-dextromethorphan-hbr-10-mg-doxylamine-succinate-12-5-mg",
-    "canonical": "acetaminophen 325 mg dextromethorphan hbr 10 mg doxylamine succinate 12 5 mg",
-    "names": [
-      "acetaminophen 325 mg dextromethorphan hbr 10 mg doxylamine succinate 12 5 mg",
-      "pain reliever",
-      "fever reducer cough suppressant antihistamine"
     ],
     "atc": null
   },
@@ -43026,7 +43014,14 @@
       "advanced care sheer fresh dry 48h antiperspirant deodorant",
       "odorono antiperspirant",
       "deodorant roll on original",
-      "active ingredients aluminum chlorohydrate 16"
+      "active ingredients aluminum chlorohydrate 16",
+      "dry idea antiperspirant",
+      "deodorant fragrance free",
+      "otc active ingredient",
+      "otc purpose",
+      "right guard x antiperspirant",
+      "deodorant dryspray fragrance free",
+      "deodorant dryspray fresh blast"
     ],
     "atc": null
   },
@@ -43276,6 +43271,27 @@
       "sacubitril",
       "valsartan",
       "entresto"
+    ],
+    "atc": null
+  },
+  {
+    "slug": "lanolin",
+    "canonical": "lanolin",
+    "names": [
+      "lanolin",
+      "petrolatum",
+      "veradex e",
+      "active ingredients petrolatum usp 58 95 lanolin usp 35",
+      "purpose petrolatum usp 58 95 protectant lanolin usp 35 protectant"
+    ],
+    "atc": null
+  },
+  {
+    "slug": "lanolin-1-white-petrolatum-97",
+    "canonical": "lanolin 1 white petrolatum 97",
+    "names": [
+      "lanolin 1 white petrolatum 97",
+      "skin protectant"
     ],
     "atc": null
   },
@@ -43602,8 +43618,49 @@
       "may temporarily relieve symptoms such as tendency towards colds or flu intermittent joint pain weakness",
       "fatigue occasional sleeplessness claims based on traditional homeopathic practice",
       "not accepted medical evidence not fda evaluated",
-      "rhopalurus princeps venom",
+      "aralia racemosa root",
+      "arundo pliniana root",
+      "baptisia tinctoria root",
+      "euphrasia stricta",
+      "gelsemium sempervirens root",
+      "histamine dihydrochloride",
+      "lycopodium clavatum spore",
+      "onion",
+      "sanguinaria canadensis root",
+      "schoenocaulon officinale seed",
       "toxicodendron pubescens leaf",
+      "urtica urens whole",
+      "pollen distress",
+      "allium cepa",
+      "aralia racemosa",
+      "arundo mauritanica",
+      "baptisia tinctoria",
+      "euphrasia officinalis",
+      "gelsemium sempervirens",
+      "histaminum hydrochloricum",
+      "lycopodium clavatum",
+      "rhus tox",
+      "sabadilla",
+      "sanguinaria canadensis",
+      "urtica urens",
+      "active ingredients 6 67 of allium cepa 6x",
+      "apis mellifica 6x",
+      "aralia racemosa 6x",
+      "arundo mauritanica 30c",
+      "baptisia tinctoria 3x",
+      "echinacea 4x",
+      "euphrasia officinalis 6x",
+      "gelsemium sempervirens 200c",
+      "histaminum hydrochloricum 12x",
+      "lycopodium clavatum 6x",
+      "rhus tox 200c",
+      "sabadilla 6x",
+      "sanguinaria canadensis 200c",
+      "urtica urens 3x",
+      "200c",
+      "purpose may temporarily relieve these symptoms associated with seasonal pollen distress runny nose itchy",
+      "watery eyes rash headache sneezing claims based on traditional homeopathic practice",
+      "rhopalurus princeps venom",
       "blue scorpion pain",
       "inflammation relief",
       "heteroctenus princeps venom",
@@ -43628,7 +43685,6 @@
       "lachesis mutus",
       "pulsatilla",
       "pyrogenium",
-      "rhus tox",
       "silicea",
       "active ingredients 9 09 of apis mellifica 30x",
       "arsenicum album 30x",
@@ -43832,6 +43888,8 @@
       "powerbright moisturizer spf 50",
       "active ingredient octocrylene 8 0 homosalate 5 0 avobenzone 3 0 octisalate 3 0",
       "loreal paris revitalift derm intensives invisible uv fluid broad spectrum spf 50 sunscreen",
+      "begins by jungsaemmool blue chamomile hyaluronic acid airy sun stick broad spectrum spf 50 plus",
+      "avobenzone 2 7 homosalate 9 5 octisalate 4 5 octocrylene 5 0",
       "future youth daily turnaround hydrating moisturizer spf 50",
       "active ingredients active ingredients purpose avobenzone 3 sunscreen homosalate 15 sunscreen octisalate 5 sunscreen",
       "decreases the risk of skin cancer early skin aging caused by the sun",
@@ -44354,9 +44412,7 @@
       "broad spectrum water resistant spf 50 mineral sunscreen babies",
       "active ingredients titanium dioxide 10 zinc oxide 10 purpose sunscreen",
       "active ingredients titanium dioxide 3 7 purpose sunscreen zinc oxide 14 purpose sunscreen",
-      "sun protect",
-      "mineral moisture defense spf 50",
-      "active ingredients purpose titanium dioxide 2 sunscreen zinc oxide 17 sunscreen"
+      "sun protect"
     ],
     "atc": null
   },
@@ -44452,6 +44508,7 @@
       "purpose nighttime sleep aid",
       "good neighbor pharmacy childrens allergy",
       "active ingredient diphenhydramine hcl 12 5 mg",
+      "active ingredient diphenhydramine hcl usp 25mg",
       "nighttime sleep aid",
       "basic care nighttime sleep aid",
       "zinc acetate",
@@ -44467,7 +44524,7 @@
       "purpose nighttime sleep aid pain reliever",
       "cvs health nighttime sleep aid",
       "itch relief",
-      "purpose topical analgesic",
+      "purpose external analgesic",
       "allergy childrens allergy",
       "allergy 36ct",
       "caseys 4good",
@@ -44931,6 +44988,7 @@
       "active ingredient ethyl alcohol 75 v",
       "careall hand sanitizer",
       "active ingredient ethyl alcohol 70 v",
+      "smart care coco cabana hand sanitizer",
       "awas alcoholspray",
       "disinfection of hands",
       "skin",
@@ -46273,6 +46331,12 @@
     "canonical": "calcium fluoride",
     "names": [
       "calcium fluoride",
+      "iron",
+      "magnesium sulphate heptahydrate",
+      "phosphorus",
+      "sulfur",
+      "vanadium",
+      "zinc",
       "calcium silicate",
       "ferric cl hexahydrate",
       "ferrosoferric phosphate",
@@ -46280,14 +46344,8 @@
       "magnesium cl",
       "manganese",
       "na nitrate",
-      "sulfur",
-      "vanadium",
-      "zinc",
-      "iron",
-      "magnesium sulphate heptahydrate",
-      "phosphorus",
-      "meb painguard patch",
       "meb gluco vitality patch",
+      "meb painguard patch",
       "meb painguard patch alumina silicata",
       "calcarea silicata",
       "calcarea fluorata",
@@ -47799,15 +47857,6 @@
     "atc": null
   },
   {
-    "slug": "lanolin-1-white-petrolatum-97",
-    "canonical": "lanolin 1 white petrolatum 97",
-    "names": [
-      "lanolin 1 white petrolatum 97",
-      "skin protectant"
-    ],
-    "atc": null
-  },
-  {
     "slug": "delphinium-staphisagria-seed",
     "canonical": "delphinium staphisagria seed",
     "names": [
@@ -49134,14 +49183,6 @@
     "atc": null
   },
   {
-    "slug": "imatinib-mesylate",
-    "canonical": "imatinib mesylate",
-    "names": [
-      "imatinib mesylate"
-    ],
-    "atc": null
-  },
-  {
     "slug": "rucaparib-camsylate",
     "canonical": "rucaparib camsylate",
     "names": [
@@ -49190,26 +49231,6 @@
     "atc": null
   },
   {
-    "slug": "uses-temporarily-relieves-common-cold",
-    "canonical": "uses temporarily relieves common cold",
-    "names": [
-      "uses temporarily relieves common cold",
-      "flu symptoms cough due to minor throat bronchial irritation sore throat headache minor aches pains fever runny nose",
-      "sneezing"
-    ],
-    "atc": null
-  },
-  {
-    "slug": "uses-helps-prevent-sunburn-if-used-as-directed-with-other-sun-protection-measures",
-    "canonical": "uses helps prevent sunburn if used as directed with other sun protection measures",
-    "names": [
-      "uses helps prevent sunburn if used as directed with other sun protection measures",
-      "decreases the risk of skin cancer",
-      "early skin aging caused by the sun"
-    ],
-    "atc": null
-  },
-  {
     "slug": "cefepime-hcl",
     "canonical": "cefepime hcl",
     "names": [
@@ -49242,6 +49263,21 @@
     "canonical": "cephalexin",
     "names": [
       "cephalexin"
+    ],
+    "atc": null
+  },
+  {
+    "slug": "carboxymethylcellulose-na",
+    "canonical": "carboxymethylcellulose na",
+    "names": [
+      "carboxymethylcellulose na",
+      "theratears dry",
+      "tired",
+      "active ingredient na carboxymethylcellulose 0 5",
+      "purpose eye lubricant",
+      "kroger lubricant eye",
+      "active ingredient carboxymethylcellulose na 0 5",
+      "purpose carboxymethylcellulose na eye lubricant"
     ],
     "atc": null
   },
@@ -49638,25 +49674,6 @@
     "canonical": "oxybutynin cl",
     "names": [
       "oxybutynin cl"
-    ],
-    "atc": null
-  },
-  {
-    "slug": "eucalyptol",
-    "canonical": "eucalyptol",
-    "names": [
-      "eucalyptol",
-      "menthol",
-      "unspecified form",
-      "methyl salicylate",
-      "thymol",
-      "active ingredients eucalyptol 0 092 menthol 0 042 methyl salicylate 0 060 thymol 0 064",
-      "purpose antigingivitis",
-      "antiplaque",
-      "antispetic",
-      "active ingredients eucalyptol 0 092 menthol 0 042 methyl sailcylate 0 060 thymol 0 064",
-      "tartar control plus",
-      "active ingredient eucalyptol 0 092 menthol 0 042 methyl salicylate 0 060 thymol 0 064"
     ],
     "atc": null
   },
@@ -50084,6 +50101,24 @@
     "names": [
       "acitve ingredients octinoxate 7 00 titanium dioxide 4 15 zinc oxide 9 80 purpose sunscreen",
       "purpose sunscreen"
+    ],
+    "atc": null
+  },
+  {
+    "slug": "eucalyptol",
+    "canonical": "eucalyptol",
+    "names": [
+      "eucalyptol",
+      "menthol",
+      "methyl salicylate",
+      "thymol",
+      "antispetic",
+      "active ingredients eucalyptol 0 092 menthol 0 042 methyl salicylate 0 060 thymol 0 064",
+      "purpose antigingivitis",
+      "antiplaque",
+      "active ingredients eucalyptol 0 092 menthol 0 042 methyl sailcylate 0 060 thymol 0 064",
+      "tartar control plus",
+      "active ingredient eucalyptol 0 092 menthol 0 042 methyl salicylate 0 060 thymol 0 064"
     ],
     "atc": null
   },
@@ -50882,17 +50917,6 @@
     "atc": null
   },
   {
-    "slug": "carboxymethylcellulose-na",
-    "canonical": "carboxymethylcellulose na",
-    "names": [
-      "carboxymethylcellulose na",
-      "kroger lubricant eye",
-      "active ingredient carboxymethylcellulose na 0 5",
-      "purpose carboxymethylcellulose na eye lubricant"
-    ],
-    "atc": null
-  },
-  {
     "slug": "cold",
     "canonical": "cold",
     "names": [
@@ -50909,6 +50933,16 @@
       "purpose pain reliever",
       "fever reducer cough suppressant expectorant nasal decongestant",
       "fever reducer antihistamine cough suppressant nasal decongestant"
+    ],
+    "atc": null
+  },
+  {
+    "slug": "uses-helps-prevent-sunburn-if-used-as-directed-with-other-sun-protection-measures",
+    "canonical": "uses helps prevent sunburn if used as directed with other sun protection measures",
+    "names": [
+      "uses helps prevent sunburn if used as directed with other sun protection measures",
+      "decreases the risk of skin cancer",
+      "early skin aging caused by the sun"
     ],
     "atc": null
   },
