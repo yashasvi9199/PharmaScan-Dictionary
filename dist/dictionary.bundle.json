@@ -32,6 +32,8 @@
       "active ingredient na fluoride 0 05 0 02 w",
       "v fluoride ion",
       "purpose anticavity",
+      "prime tooth care hami melon",
+      "active ingredient na fluoride 0 25 purpose anticavity",
       "colgate max fresh cool mint",
       "active ingredient na fluoride 0 24 0 15 w",
       "colgate max fresh advanced whitening",
@@ -383,8 +385,13 @@
       "active ingredient octinoxate 0 6 purpose sunscreen",
       "sheer defense tinted spf 46",
       "active ingredient zinc oxide 12 octinoxate 7 5",
-      "artistry youth xtend lifting smoothing foundation shade natural l2n2",
       "titanium dioxide",
+      "no7 protect",
+      "perfect intense advanced all in one foundation spf 50 cameo",
+      "titanium dioixide",
+      "carton active ingredients section active ingredients octinoxate 6 5 titanium dioxide 4 25 octisalate 5 purpose sunscreen",
+      "uses uses helps prevent sunburn",
+      "artistry youth xtend lifting smoothing foundation shade natural l2n2",
       "sheer defense tinted moisturizer spf 15 ml 40 merle norman",
       "active ingredients purpose octinoxate 7 5 sunscreen titanium dioxide 4 37 sunscreen uses helps prevent sunburn if used as directed with other sun protection measures",
       "early skin aging caused by the sun keep out of reach of children if swallowed",
@@ -450,6 +457,8 @@
       "active ingredients zinc oxide 9 86 octinoxate 7 5",
       "broad spectrum spf45",
       "active ingredients zinc oxide 12 octinoxate 7 5",
+      "no7 perfect",
+      "perfect intense advanced all in one foundation spf 50 willow",
       "camo cc spf30 deep 560 c",
       "active ingredients octinoxate 7 5 titanium dioxide 4 45 zinc oxide 13 72 purpose sunscreen",
       "flawless effect liquid foundation spf 15 merle norman",
@@ -596,7 +605,6 @@
       "sumac insect bites detergents soaps cosmetics jewelry seborrheic dermatitis temporarily relieves external anal",
       "genital itching other uses of this product should only be under the advice",
       "supervision of a doctor",
-      "hydrocortisone continuous",
       "shopko hydrocortisone maximum strength",
       "live better hydrocortisone with aloe",
       "neomycin sulphate",
@@ -2795,10 +2803,15 @@
     "atc": "A06AD16"
   },
   {
-    "slug": "na-phosphate",
-    "canonical": "na phosphate",
+    "slug": "dibasic",
+    "canonical": "dibasic",
     "names": [
-      "na phosphate"
+      "na phosphate",
+      "dibasic",
+      "unspecified form",
+      "monobasic",
+      "equate ready to use enema laxative",
+      "active ingredients purpose dibasic na phosphate 7 g saline laxative monobasic na phosphate 19 g saline laxative"
     ],
     "atc": "A06AD17"
   },
@@ -32482,7 +32495,8 @@
     "slug": "olanzapine",
     "canonical": "olanzapine",
     "names": [
-      "olanzapine"
+      "olanzapine",
+      "zyprexa zydis"
     ],
     "atc": "N05AH03"
   },
@@ -42093,6 +42107,14 @@
     "atc": "V10XX"
   },
   {
+    "slug": "na-phosphate",
+    "canonical": "na phosphate",
+    "names": [
+      "na phosphate"
+    ],
+    "atc": "V10XX01"
+  },
+  {
     "slug": "ibritumomab-tiuxetan",
     "canonical": "ibritumomab tiuxetan",
     "names": [
@@ -42240,8 +42262,6 @@
       "active ingredient benzalkonium cl",
       "0 55",
       "purpose antiseptic handwash",
-      "al shields disposable antibacterial hand wipes with clean lemon scent",
-      "active ingredient benzalkonium cl 0 1 purpose antibacterial",
       "swisher",
       "active ingredient benzalkonium cl 0 5"
     ],
@@ -42253,6 +42273,16 @@
     "names": [
       "benzalkonium cl 0 13",
       "for hand washing to decrease bacteria on skin recommended for repeated use"
+    ],
+    "atc": null
+  },
+  {
+    "slug": "trametinib-dimethyl-sulfoxide",
+    "canonical": "trametinib dimethyl sulfoxide",
+    "names": [
+      "trametinib dimethyl sulfoxide",
+      "mekinist",
+      "trametinib"
     ],
     "atc": null
   },
@@ -42295,7 +42325,6 @@
       "fever reducer",
       "basic care acetaminophen",
       "drug facts active ingredient acetaminophen usp 650 mg",
-      "hydrocodone bitartrate",
       "dextromethorphan hydrobromide",
       "phenylephrine hcl",
       "daytime cold",
@@ -42360,6 +42389,7 @@
       "acetaminophen guaifenesein phenylephrine hcl",
       "active ingredients acetaminophen 325 mg guaifenesin 200 mg phenylephrine hcl 5 mg",
       "fever reducer expectorant nasal decongestant",
+      "hydrocodone bitartrate",
       "nighttime cold",
       "flu relief",
       "acetaminophen dextromethorphan hbr doxylamine succinate",
@@ -42377,6 +42407,10 @@
       "uses temporarily relieves common cold",
       "flu symptoms cough due to minor throat bronchial irritation sore throat headache minor aches pains fever runny nose",
       "sneezing",
+      "aspirin",
+      "goodys max",
+      "active ingredient s acetaminophen 500 mg aspirin 500 mg caffeine 130 mg nonsteroidal anti inflammatory drug",
+      "purpose pain reliever pain reliever pain reliever aid",
       "goodmeds extra strength pain relief pm",
       "active ingredients acetaminophen 500 mg diphenhydramine hcl 25 mg purpose pain reliever nighttime sleep aid",
       "dextromethorphan",
@@ -42391,6 +42425,9 @@
       "coated",
       "active ingredients active ingredients acetaminophen 250 mg ibuprofen 125 mg nonsteroidal anti inflammatory drug",
       "purposes purposes pain reliever pain reliever",
+      "xl 3 night time",
+      "active ingredientes acetaminophen 650 mg dextromethorphan hbr 30 mg doxylamine succinate 12 5 mg",
+      "pain reliever",
       "theraflu flu relief max strength daytime",
       "active ingredients acetaminophen 1000 mg dextromethorphan hbr 30 mg",
       "fever reducer cough suppressant",
@@ -42410,14 +42447,13 @@
       "pain",
       "active ingredient acetaminophen 650 mg",
       "tylenol 8 hr arthritis pain",
-      "pain reliever",
+      "extra strength pain releif",
       "acetaminophen 500 mg",
       "active ingredient active ingredient acetaminophen 500 mg",
       "pain reliever pm extra strength",
       "acetaminophen extra strength",
       "drug facts active ingredient acetaminophen usp 500 mg",
       "members mark acetaminophen",
-      "aspirin",
       "extra strength headache",
       "active ingredients active ingredients acetaminophen 250 mg aspirin 250 mg caffeine 65 mg nonsteroidal anti inflammatory drug",
       "purpose purposes pain reliever pain reliever pain reliever aid",
@@ -42448,7 +42484,6 @@
       "active ingredients acetaminophen 650 mg dextromethorphan hbr 20 mg guaifenesin 400 mg phenylephrine hcl 10 mg",
       "headache relief extra strength",
       "active ingredients acetaminophen 250 mg aspirin 250 mg caffeine 65 mg nonsteroidal anti inflammatory drug",
-      "purpose pain reliever pain reliever pain reliever aid",
       "drug facts active ingredients acetaminophen 325 mg dextromethorphan hbr 10 mg phenylephrine hcl 5 mg",
       "fever reducer dextromethorphan hbr cough suppressant phenylephrine hcl antihistamine",
       "tension headache relief",
@@ -43549,8 +43584,7 @@
     "canonical": "niacinamide adenosine",
     "names": [
       "niacinamide adenosine",
-      "skin protectant",
-      "niacinamide 2 adenosine 0 04"
+      "skin protectant"
     ],
     "atc": null
   },
@@ -43824,6 +43858,10 @@
       "helps prevent sunburn if used as directed with other sun protection measures",
       "decreases the risk of skin cancer",
       "early skin aging caused by the sun",
+      "kizo lab uv defense clear sunscren spf50",
+      "active ingredients drug facts active ingredients purpose avobenzone 3 0 sunscreen homosalate 8 0 sunscreen octisalate 5 0 sunscreen octocrylene 4 0 sunscreen",
+      "uses helps prevent sunburn if used as directed",
+      "with other sun protection measures",
       "reef kids spf 30 oxybenzone free",
       "active ingredients octocrylene 5 0 octisalate 3 0 avobenzone 2 5",
       "oxybenzone",
@@ -43872,6 +43910,8 @@
       "octocrylene 4 0 sunscreen",
       "uses uses helps prevent sunburn if used as directed with other sun protection measures",
       "early signs of aging caused by the sun",
+      "zealios sport performance ultralight spf 50 sunscreen",
+      "active ingredients purpose homosalate 15 sunscreen octocrylene 10 sunscreen octyl salicylate 5 sunscreen avobenzone 3 sunscreen",
       "mario badescu collagen spf 15",
       "gr lip butter cookie spf 15",
       "active ingredient avobenzone 2 7 w",
@@ -43913,7 +43953,7 @@
       "active ingredients avobenzone 3 homosalate 10 octilsalate 5 purpose sunscreen",
       "farmasi bb",
       "active ingredient butyl methoxydibenzoylmethane 2 95 ethylhexyl methoxycinnamate 7 35 homosalate 9 79 octocrylene 6 15 purpose sunscreen",
-      "play everyday sunscreen spf 50 with sunflower extract",
+      "play everyday face spf 50",
       "active ingredients purpose avobenzone 3 sunscreen homosalate 10 sunscreen octisalate 5 sunscreen octocrylene 7 5 sunscreen",
       "uses helps prevent sunburn if used as directed with other sun protection measures",
       "hydrating sunscreen moisturizer broad spectrum spf50 spf 50",
@@ -44984,8 +45024,6 @@
       "xtracare cucumber melon",
       "active ingredient purpose ethyl alcohol 62 0 antimicrobial",
       "uses for handwashing to decrease bacteria on the skin recommended for repeated use",
-      "prevail hand sanitizer with moisturizers",
-      "active ingredient ethyl alcohol 75 v",
       "careall hand sanitizer",
       "active ingredient ethyl alcohol 70 v",
       "smart care coco cabana hand sanitizer",
@@ -45028,7 +45066,6 @@
       "hand sanitizer 2oz 2pk with aloe vera",
       "hand sanitizer 2oz 2pk lemon",
       "hand sanitizer 2oz 2pk lavender",
-      "color element advanced hand sanitizer with moisturizers",
       "hand sanitizer cucumber aloe",
       "organic ethyl alcohol",
       "kay actigel hand sanitizer",
@@ -45769,15 +45806,6 @@
       "perfect foundation sunscreen broad spectrum spf 15 younger looking skin hypo allergenic 30ml 1 us fl oz active ingredients octinoxate 5",
       "uses uses helps prevent sunburn if used with as directed with other sun protection measures decreases the risk of skin cancer",
       "early skin aging caused by the sun"
-    ],
-    "atc": null
-  },
-  {
-    "slug": "carton-active-ingredients-section-active-ingredients-octinoxate-6-5-titanium-dioxide-4-25-octisalate-5-purpose-sunscreen",
-    "canonical": "carton active ingredients section active ingredients octinoxate 6 5 titanium dioxide 4 25 octisalate 5 purpose sunscreen",
-    "names": [
-      "carton active ingredients section active ingredients octinoxate 6 5 titanium dioxide 4 25 octisalate 5 purpose sunscreen",
-      "uses uses helps prevent sunburn"
     ],
     "atc": null
   },
@@ -46772,17 +46800,6 @@
     "atc": null
   },
   {
-    "slug": "bupivacaine-hcl",
-    "canonical": "bupivacaine hcl",
-    "names": [
-      "bupivacaine hcl",
-      "marcaine",
-      "epinephrine bitartrate",
-      "epinephrine"
-    ],
-    "atc": null
-  },
-  {
     "slug": "hi-tech-active-ingredient-chloroxylenol-0-375",
     "canonical": "hi tech active ingredient chloroxylenol 0 375",
     "names": [
@@ -46904,6 +46921,14 @@
       "dextran",
       "active ingredients dextran 70 0 1 polyethylene glycol 400 1 povidone 1 tetrahydrozoline hcl 0 05",
       "purposes dextran 70 lubricant polyethylene glycol 400 lubricant povidone lubricant tetrahydrozoline hcl redness reliever"
+    ],
+    "atc": null
+  },
+  {
+    "slug": "lurasidone-hcl",
+    "canonical": "lurasidone hcl",
+    "names": [
+      "lurasidone hcl"
     ],
     "atc": null
   },
@@ -49183,6 +49208,14 @@
     "atc": null
   },
   {
+    "slug": "imatinib-mesylate",
+    "canonical": "imatinib mesylate",
+    "names": [
+      "imatinib mesylate"
+    ],
+    "atc": null
+  },
+  {
     "slug": "rucaparib-camsylate",
     "canonical": "rucaparib camsylate",
     "names": [
@@ -49227,6 +49260,16 @@
       "stramonium 6x",
       "hyoscyamus niger 3x relieves restless sleep associated with nervousness nux moschata 4c relieves restless sleep passiflora incarnata 3x relieves sleeplessness associated with worries",
       "exhaustion stramonium 6x relieves sleeplessness with intermittent awakening"
+    ],
+    "atc": null
+  },
+  {
+    "slug": "bupivacaine-hcl",
+    "canonical": "bupivacaine hcl",
+    "names": [
+      "bupivacaine hcl",
+      "epinephrine bitartrate",
+      "epinephrine"
     ],
     "atc": null
   },
@@ -49678,6 +49721,25 @@
     "atc": null
   },
   {
+    "slug": "eucalyptol",
+    "canonical": "eucalyptol",
+    "names": [
+      "eucalyptol",
+      "menthol",
+      "unspecified form",
+      "methyl salicylate",
+      "thymol",
+      "active ingredients eucalyptol 0 092 menthol 0 042 methyl salicylate 0 060 thymol 0 064",
+      "purpose antigingivitis",
+      "antiplaque",
+      "antispetic",
+      "active ingredients eucalyptol 0 092 menthol 0 042 methyl sailcylate 0 060 thymol 0 064",
+      "tartar control plus",
+      "active ingredient eucalyptol 0 092 menthol 0 042 methyl salicylate 0 060 thymol 0 064"
+    ],
+    "atc": null
+  },
+  {
     "slug": "cefuroxime-axetil",
     "canonical": "cefuroxime axetil",
     "names": [
@@ -50101,24 +50163,6 @@
     "names": [
       "acitve ingredients octinoxate 7 00 titanium dioxide 4 15 zinc oxide 9 80 purpose sunscreen",
       "purpose sunscreen"
-    ],
-    "atc": null
-  },
-  {
-    "slug": "eucalyptol",
-    "canonical": "eucalyptol",
-    "names": [
-      "eucalyptol",
-      "menthol",
-      "methyl salicylate",
-      "thymol",
-      "antispetic",
-      "active ingredients eucalyptol 0 092 menthol 0 042 methyl salicylate 0 060 thymol 0 064",
-      "purpose antigingivitis",
-      "antiplaque",
-      "active ingredients eucalyptol 0 092 menthol 0 042 methyl sailcylate 0 060 thymol 0 064",
-      "tartar control plus",
-      "active ingredient eucalyptol 0 092 menthol 0 042 methyl salicylate 0 060 thymol 0 064"
     ],
     "atc": null
   },
@@ -51847,37 +51891,6 @@
     "canonical": "methimazole",
     "names": [
       "methimazole"
-    ],
-    "atc": null
-  },
-  {
-    "slug": "target-childrens-dt",
-    "canonical": "target childrens dt",
-    "names": [
-      "target childrens dt",
-      "nt cold",
-      "cough",
-      "brompheniramine maleate",
-      "dextromethorphan hbr",
-      "phenylephrine hcl",
-      "diphenhydramine hcl",
-      "children s daytime cold cough active ingredients brompheniramine maleate",
-      "2 mg dextromethorphan hbr",
-      "10 mg phenylephrine hcl",
-      "5 mg",
-      "children s nighttime cold congestion active ingredients diphenhydramine hcl12 5 mg phenylephrine hcl5 mg",
-      "purposes for children s daytime cold cough antihistamine cough suppressant nasal decongestant",
-      "purposes for children s nighttime cold congestion antihistamine",
-      "cough suppressant nasal decongestant"
-    ],
-    "atc": null
-  },
-  {
-    "slug": "eltrombopag-olamine",
-    "canonical": "eltrombopag olamine",
-    "names": [
-      "eltrombopag olamine",
-      "eltrombopag"
     ],
     "atc": null
   }
