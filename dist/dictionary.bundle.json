@@ -459,8 +459,6 @@
       "active ingredients zinc oxide 12 octinoxate 7 5",
       "no7 perfect",
       "perfect intense advanced all in one foundation spf 50 willow",
-      "camo cc spf30 deep 560 c",
-      "active ingredients octinoxate 7 5 titanium dioxide 4 45 zinc oxide 13 72 purpose sunscreen",
       "flawless effect liquid foundation spf 15 merle norman",
       "active ingredients octinoxate 7 50 oxybenzone 3 00 uses helps prevent sunburn if used as directed with other sun protection measures",
       "early skin aging caused by the sun keep out of reach of children if product is swallowed",
@@ -588,7 +586,6 @@
       "theracare hydrocortisone",
       "cortizone 10 fast acting itch relief cooling",
       "active ingredients hydrocortisone 1",
-      "hydrocortisone kit",
       "equate cortisone",
       "hydrocortisone 1",
       "dermarest eczema medicated",
@@ -13689,6 +13686,9 @@
       "active ingredient salicylic acid 2 0",
       "replenix gly sal 10 2 cleanser",
       "active ingredient salicylic acid usp",
+      "herbaglow baiwooxia anti acne",
+      "active ingredients salicylic acid 2 0",
+      "purpose salicylic acid acne treatment",
       "first aid beauty fab acne spot treatment",
       "active ingredients salicylic acid 2",
       "acne calming water",
@@ -13745,8 +13745,7 @@
       "acne",
       "vichy laboratoires normaderm acne control moisturizer",
       "liquid callus remover",
-      "cvs clarifying body wash acne treatment",
-      "active ingredients salicylic acid 2 0"
+      "cvs clarifying body wash acne treatment"
     ],
     "atc": "D01AE12"
   },
@@ -32495,8 +32494,7 @@
     "slug": "olanzapine",
     "canonical": "olanzapine",
     "names": [
-      "olanzapine",
-      "zyprexa zydis"
+      "olanzapine"
     ],
     "atc": "N05AH03"
   },
@@ -42506,11 +42504,7 @@
       "benzhydrocodone hcl",
       "apadaz",
       "benzhydrocodone",
-      "pharbetol regular strength",
-      "rompe tos x adults",
-      "active ingredients purpose active ingredients purpose acetaminophen 500 mg pain reliever",
-      "fever reducer dextromethorphan hbr 26 66 mg cough suppressant guaifenesin 400 mg expectorant phenylephrine hcl 10 mg nasal descongestant",
-      "purpose active ingredients purpose acetaminophen 500 mg pain reliever"
+      "pharbetol regular strength"
     ],
     "atc": null
   },
@@ -42986,6 +42980,14 @@
     "atc": null
   },
   {
+    "slug": "tamsulosin-hcl",
+    "canonical": "tamsulosin hcl",
+    "names": [
+      "tamsulosin hcl"
+    ],
+    "atc": null
+  },
+  {
     "slug": "drug-facts-active-ingredients-16-7-of-each-apis-mellifica-800c-bovista-21x-conium-18lm-hepar-sulph-calc-16lm-oophorinum-21x-orchitinum-21x-the-letters-hpus-indicate-that-the-components-in-this-product-are-officially-monographed-in-the-homeopathic-pharmacopoeia-of-the-united-states-claims-based-on-traditional-homeopathic-practice",
     "canonical": "drug facts active ingredients 16 7 of each apis mellifica 800c bovista 21x conium 18lm hepar sulph calc 16lm oophorinum 21x orchitinum 21x the letters hpus indicate that the components in this product are officially monographed in the homeopathic pharmacopoeia of the united states claims based on traditional homeopathic practice",
     "names": [
@@ -43116,9 +43118,7 @@
       "advanced nonstop dry 72h antiperspirant deodorant",
       "advanced adventure 72h antiperspirant deodorant",
       "advanced iced eucalyptus 72h antiperspirant deodorant",
-      "advanced fresh english rose 72h antiperspirant deodorant",
-      "advanced lavender",
-      "waterlily dry 72h antiperspirant deodorant"
+      "advanced fresh english rose 72h antiperspirant deodorant"
     ],
     "atc": null
   },
@@ -43865,8 +43865,6 @@
       "reef kids spf 30 oxybenzone free",
       "active ingredients octocrylene 5 0 octisalate 3 0 avobenzone 2 5",
       "oxybenzone",
-      "equate beauty daily moisturizer spf 30 sunscreen",
-      "active ingredients purpose avobenzone 3 sunscreen homosalate 15 sunscreen octisalate 5 sunscreen octocrylene 3 sunscreen oxybenzone 6 sunscreen",
       "h e b solutions sunscreen",
       "sport spf 70",
       "active ingredients avobenzone 3 0",
@@ -43969,6 +43967,8 @@
       "octocrylene 10",
       "neutrogena beach defense water plus sun protection sunscreen broad spectrum spf 50",
       "active ingredients purpose avobenzone 3 sunscreen homosalate 10 sunscreen octisalate 5 sunscreen octocrylene 10 sunscreen",
+      "broad spectrum spf15 very water resistant sunscreen",
+      "active ingredients avobenzone 3 homosalate 7 34 octocrylene 5 octyl salicylate 5 purpose sunscreen",
       "coppertone everytone face sunscreen spf 55",
       "coppertone sport face spf 60 plus sunscreen",
       "men scented sunscreen spf 50 woodsman slam",
@@ -45819,15 +45819,6 @@
     "atc": null
   },
   {
-    "slug": "paroxetine-hcl-hemihydrate",
-    "canonical": "paroxetine hcl hemihydrate",
-    "names": [
-      "paroxetine hcl hemihydrate",
-      "paroxetine"
-    ],
-    "atc": null
-  },
-  {
     "slug": "prednisolone-acetate",
     "canonical": "prednisolone acetate",
     "names": [
@@ -45942,14 +45933,6 @@
     "canonical": "trimethobenzamide hcl",
     "names": [
       "trimethobenzamide hcl"
-    ],
-    "atc": null
-  },
-  {
-    "slug": "tamsulosin-hcl",
-    "canonical": "tamsulosin hcl",
-    "names": [
-      "tamsulosin hcl"
     ],
     "atc": null
   },
@@ -47274,14 +47257,6 @@
     "names": [
       "terbium",
       "terbium metallicum"
-    ],
-    "atc": null
-  },
-  {
-    "slug": "benztropine-mesylate",
-    "canonical": "benztropine mesylate",
-    "names": [
-      "benztropine mesylate"
     ],
     "atc": null
   },
