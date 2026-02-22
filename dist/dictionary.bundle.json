@@ -28,14 +28,12 @@
     "canonical": "gelato apf",
     "names": [
       "na fluoride",
-      "anticavity rinse",
-      "active ingredient na fluoride 0 05 0 02 w",
-      "v fluoride ion",
-      "purpose anticavity",
       "prime tooth care hami melon",
       "active ingredient na fluoride 0 25 purpose anticavity",
+      "purpose anticavity",
       "colgate max fresh cool mint",
       "active ingredient na fluoride 0 24 0 15 w",
+      "v fluoride ion",
       "colgate max fresh advanced whitening",
       "gelato apf",
       "colgate junior kids batman mild bubble fruit fluoride",
@@ -46,6 +44,9 @@
       "crest strawberry",
       "crest bubblegum",
       "crest complete multi benefit whitening plus scope",
+      "brush buddies spidey",
+      "his amazing friends anticavity fluoride spidey punch",
+      "active ingredient na fluoride 0 05 0 02 w",
       "for dental care",
       "antivavity",
       "active ingredient na fluoride 0 02 0 01 w",
@@ -59,9 +60,7 @@
       "active ingredient na fluoride 0 24",
       "euthymol extraordinary pink whitening",
       "active ingredient na fluoride 0 243 0 16 w",
-      "purpose anticavity toopaste",
-      "pop hint of mint",
-      "active ingredient na fluoride 0 243 0 14 w"
+      "purpose anticavity toopaste"
     ],
     "atc": "A01AA01"
   },
@@ -43118,7 +43117,9 @@
       "advanced nonstop dry 72h antiperspirant deodorant",
       "advanced adventure 72h antiperspirant deodorant",
       "advanced iced eucalyptus 72h antiperspirant deodorant",
-      "advanced fresh english rose 72h antiperspirant deodorant"
+      "advanced fresh english rose 72h antiperspirant deodorant",
+      "advanced lavender",
+      "waterlily dry 72h antiperspirant deodorant"
     ],
     "atc": null
   },
@@ -43865,6 +43866,8 @@
       "reef kids spf 30 oxybenzone free",
       "active ingredients octocrylene 5 0 octisalate 3 0 avobenzone 2 5",
       "oxybenzone",
+      "equate beauty daily moisturizer spf 30 sunscreen",
+      "active ingredients purpose avobenzone 3 sunscreen homosalate 15 sunscreen octisalate 5 sunscreen octocrylene 3 sunscreen oxybenzone 6 sunscreen",
       "h e b solutions sunscreen",
       "sport spf 70",
       "active ingredients avobenzone 3 0",
@@ -44082,8 +44085,6 @@
       "agent natuer holi dewy tinted skin purpose",
       "sheer protection spf 30",
       "active ingredient zinc oxide",
-      "baby diaper rash",
-      "active ingredient zinc oxide 13",
       "clearspf sheer sunscreen",
       "active ingredient zinc oxide 20",
       "hale",
@@ -44626,7 +44627,9 @@
       "amlodipine besylate",
       "benazepril hcl",
       "amlodipine",
-      "olmesartan medoxomil"
+      "olmesartan medoxomil",
+      "atorvastatin calcium trihydrate",
+      "atorvastatin"
     ],
     "atc": null
   },
@@ -46807,7 +46810,6 @@
     "canonical": "clindamycin phosphate",
     "names": [
       "clindamycin phosphate",
-      "xaciato",
       "cleocin phosphate"
     ],
     "atc": null
@@ -46861,8 +46863,7 @@
       "olopatadine hcl ophthalmic",
       "active ingredient olopatadine",
       "purpose antihistamine",
-      "redness reliever",
-      "active ingredient purpose olopatadine antihistamine"
+      "redness reliever"
     ],
     "atc": null
   },
@@ -47257,6 +47258,14 @@
     "names": [
       "terbium",
       "terbium metallicum"
+    ],
+    "atc": null
+  },
+  {
+    "slug": "benztropine-mesylate",
+    "canonical": "benztropine mesylate",
+    "names": [
+      "benztropine mesylate"
     ],
     "atc": null
   },
@@ -49635,59 +49644,6 @@
     "atc": null
   },
   {
-    "slug": "vicks-dayquil-nyquil-berry-kids-cold",
-    "canonical": "vicks dayquil nyquil berry kids cold",
-    "names": [
-      "vicks dayquil nyquil berry kids cold",
-      "cough plus",
-      "chlorpheniramine maleate",
-      "dextromethorphan hbr",
-      "guaifenesin",
-      "phenylephrine hcl",
-      "active ingredients chlorpheniramine maleate 2 mg dextromethorphan hbr 15 mg",
-      "active ingredients dextromethorphan hbr 10 mg guaifenesin 100 mg phenylephrine hcl 5 mg",
-      "purpose antihistamine cough suppressant",
-      "purpose cough suppressant expectorant nasal decongestant"
-    ],
-    "atc": null
-  },
-  {
-    "slug": "vicks-dayquil-nyquil-high-blood-pressure-cold",
-    "canonical": "vicks dayquil nyquil high blood pressure cold",
-    "names": [
-      "vicks dayquil nyquil high blood pressure cold",
-      "flu",
-      "acetaminophen",
-      "dextromethorphan hbr",
-      "doxylamine succinate",
-      "active ingredient acetaminophen 325 mg dextromethorphan hbr 10 mg purpose pain reliever",
-      "fever reducer cough suppressant",
-      "active ingredient acetaminophen 325 mg dextromethorphan hbr 10 mg doxylamine succinate 6 25 mg",
-      "purpose pain reliever",
-      "fever reducer cough suppressant antihistamine"
-    ],
-    "atc": null
-  },
-  {
-    "slug": "vicks-dayquil",
-    "canonical": "vicks dayquil",
-    "names": [
-      "vicks dayquil",
-      "vicks nyquil cold",
-      "flu",
-      "acetaminophen",
-      "dextromethorphan hydrobromide",
-      "phenylephrine hcl",
-      "doxylamine succinate",
-      "active ingredients acetaminophen 650 mg dextromethorphan hbr 30 mg doxylamine succinate 12 5 mg purpose pain reliever",
-      "fever reducer cough suppressant antihistamine",
-      "active ingredients acetaminophen 325 mg dextromethorphan hbr 10 mg phenylephrine hci 5 mg purpose pain reliever",
-      "fever reducer cough suppressant nasal decongestant",
-      "purpose pain reliever"
-    ],
-    "atc": null
-  },
-  {
     "slug": "oxybutynin-cl",
     "canonical": "oxybutynin cl",
     "names": [
@@ -51331,6 +51287,25 @@
       "unflavored organic natural fiber",
       "supplement facts serving size 1 rounded teaspoon servings per container about 85 amount per serving dv calories 25 total carbohydrate 7 g 3 dietary fiber 3g 11 soluble fiber 2g total sugars 4g includes added sugars 4g 8 iron 0 4mg 2 na 5mg 1 k 30 mg 1 percent daily values are based on a 2000 calorie diet",
       "daily value not established"
+    ],
+    "atc": null
+  },
+  {
+    "slug": "vicks-dayquil",
+    "canonical": "vicks dayquil",
+    "names": [
+      "vicks dayquil",
+      "vicks nyquil cold",
+      "flu",
+      "acetaminophen",
+      "dextromethorphan hydrobromide",
+      "phenylephrine hcl",
+      "doxylamine succinate",
+      "active ingredients acetaminophen 650 mg dextromethorphan hbr 30 mg doxylamine succinate 12 5 mg purpose pain reliever",
+      "fever reducer cough suppressant antihistamine",
+      "active ingredients acetaminophen 325 mg dextromethorphan hbr 10 mg phenylephrine hci 5 mg purpose pain reliever",
+      "fever reducer cough suppressant nasal decongestant",
+      "purpose pain reliever"
     ],
     "atc": null
   },
