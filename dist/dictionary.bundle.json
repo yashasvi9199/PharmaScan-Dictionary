@@ -28,12 +28,14 @@
     "canonical": "gelato apf",
     "names": [
       "na fluoride",
+      "anticavity rinse",
+      "active ingredient na fluoride 0 05 0 02 w",
+      "v fluoride ion",
+      "purpose anticavity",
       "prime tooth care hami melon",
       "active ingredient na fluoride 0 25 purpose anticavity",
-      "purpose anticavity",
       "colgate max fresh cool mint",
       "active ingredient na fluoride 0 24 0 15 w",
-      "v fluoride ion",
       "colgate max fresh advanced whitening",
       "gelato apf",
       "colgate junior kids batman mild bubble fruit fluoride",
@@ -46,7 +48,6 @@
       "crest complete multi benefit whitening plus scope",
       "brush buddies spidey",
       "his amazing friends anticavity fluoride spidey punch",
-      "active ingredient na fluoride 0 05 0 02 w",
       "for dental care",
       "antivavity",
       "active ingredient na fluoride 0 02 0 01 w",
@@ -2573,7 +2574,6 @@
       "active ingredient active ingredient loratadine 10 mg",
       "purpose purpose antihistamine",
       "alavert allergy",
-      "loratadine antihistamine",
       "dg health allergy relief",
       "active ingredients purpose loratadine",
       "usp 10 mg antihistamine pseudoephedrine sulphate",
@@ -44085,8 +44085,8 @@
       "agent natuer holi dewy tinted skin purpose",
       "sheer protection spf 30",
       "active ingredient zinc oxide",
-      "clearspf sheer sunscreen",
-      "active ingredient zinc oxide 20",
+      "baby diaper rash",
+      "active ingredient zinc oxide 13",
       "hale",
       "hush broad spectrum spf 30 spf 30",
       "zinc oxide 13 50",
@@ -44400,6 +44400,30 @@
       "thrive original formula eye",
       "active ingredient tetrahydrozoline hcl 0 05",
       "purpose redness reliever"
+    ],
+    "atc": null
+  },
+  {
+    "slug": "angelica-archangelica-root",
+    "canonical": "angelica archangelica root",
+    "names": [
+      "angelica archangelica root",
+      "arabica coffee bean",
+      "avena sativa flowering top",
+      "garlic",
+      "holy basil leaf",
+      "macropiper methysticum root",
+      "passiflora edulis flower",
+      "scutellaria lateriflora whole",
+      "verbena hastata top",
+      "calm mood",
+      "active ingredients purpose allium sativum certified organic 89c remedy for nervousness",
+      "restlessness avena sativa 30x for nervous exhaustion angelica archangelica 89c for difficulty concentrating",
+      "unable to focus coffea cruda 30c to calm the system",
+      "nervousness ocimum sanctum 89c for occasional anxiousness passiflora 30c quieting effect on the nervous system scutellaria lateriflora 12c restlessness",
+      "nervousness verbena hastata 6c eases nervous system",
+      "helps mood swings piper methysticum 30c for impaired thinking",
+      "sluggish emotion"
     ],
     "atc": null
   },
@@ -46810,6 +46834,7 @@
     "canonical": "clindamycin phosphate",
     "names": [
       "clindamycin phosphate",
+      "xaciato",
       "cleocin phosphate"
     ],
     "atc": null
@@ -48428,6 +48453,17 @@
     "atc": null
   },
   {
+    "slug": "phosphorus",
+    "canonical": "phosphorus",
+    "names": [
+      "phosphorus",
+      "phosphorus 30",
+      "active ingredient phosphorus 30x",
+      "use temporary relief of headache"
+    ],
+    "atc": null
+  },
+  {
     "slug": "olea-europaea-whole",
     "canonical": "olea europaea whole",
     "names": [
@@ -49519,6 +49555,14 @@
     "atc": null
   },
   {
+    "slug": "boron",
+    "canonical": "boron",
+    "names": [
+      "boron"
+    ],
+    "atc": null
+  },
+  {
     "slug": "tungsten-disulfide",
     "canonical": "tungsten disulfide",
     "names": [
@@ -49640,6 +49684,59 @@
     "canonical": "heparin na",
     "names": [
       "heparin na"
+    ],
+    "atc": null
+  },
+  {
+    "slug": "vicks-dayquil-nyquil-berry-kids-cold",
+    "canonical": "vicks dayquil nyquil berry kids cold",
+    "names": [
+      "vicks dayquil nyquil berry kids cold",
+      "cough plus",
+      "chlorpheniramine maleate",
+      "dextromethorphan hbr",
+      "guaifenesin",
+      "phenylephrine hcl",
+      "active ingredients chlorpheniramine maleate 2 mg dextromethorphan hbr 15 mg",
+      "active ingredients dextromethorphan hbr 10 mg guaifenesin 100 mg phenylephrine hcl 5 mg",
+      "purpose antihistamine cough suppressant",
+      "purpose cough suppressant expectorant nasal decongestant"
+    ],
+    "atc": null
+  },
+  {
+    "slug": "vicks-dayquil-nyquil-high-blood-pressure-cold",
+    "canonical": "vicks dayquil nyquil high blood pressure cold",
+    "names": [
+      "vicks dayquil nyquil high blood pressure cold",
+      "flu",
+      "acetaminophen",
+      "dextromethorphan hbr",
+      "doxylamine succinate",
+      "active ingredient acetaminophen 325 mg dextromethorphan hbr 10 mg purpose pain reliever",
+      "fever reducer cough suppressant",
+      "active ingredient acetaminophen 325 mg dextromethorphan hbr 10 mg doxylamine succinate 6 25 mg",
+      "purpose pain reliever",
+      "fever reducer cough suppressant antihistamine"
+    ],
+    "atc": null
+  },
+  {
+    "slug": "vicks-dayquil",
+    "canonical": "vicks dayquil",
+    "names": [
+      "vicks dayquil",
+      "vicks nyquil cold",
+      "flu",
+      "acetaminophen",
+      "dextromethorphan hydrobromide",
+      "phenylephrine hcl",
+      "doxylamine succinate",
+      "active ingredients acetaminophen 650 mg dextromethorphan hbr 30 mg doxylamine succinate 12 5 mg purpose pain reliever",
+      "fever reducer cough suppressant antihistamine",
+      "active ingredients acetaminophen 325 mg dextromethorphan hbr 10 mg phenylephrine hci 5 mg purpose pain reliever",
+      "fever reducer cough suppressant nasal decongestant",
+      "purpose pain reliever"
     ],
     "atc": null
   },
@@ -51287,25 +51384,6 @@
       "unflavored organic natural fiber",
       "supplement facts serving size 1 rounded teaspoon servings per container about 85 amount per serving dv calories 25 total carbohydrate 7 g 3 dietary fiber 3g 11 soluble fiber 2g total sugars 4g includes added sugars 4g 8 iron 0 4mg 2 na 5mg 1 k 30 mg 1 percent daily values are based on a 2000 calorie diet",
       "daily value not established"
-    ],
-    "atc": null
-  },
-  {
-    "slug": "vicks-dayquil",
-    "canonical": "vicks dayquil",
-    "names": [
-      "vicks dayquil",
-      "vicks nyquil cold",
-      "flu",
-      "acetaminophen",
-      "dextromethorphan hydrobromide",
-      "phenylephrine hcl",
-      "doxylamine succinate",
-      "active ingredients acetaminophen 650 mg dextromethorphan hbr 30 mg doxylamine succinate 12 5 mg purpose pain reliever",
-      "fever reducer cough suppressant antihistamine",
-      "active ingredients acetaminophen 325 mg dextromethorphan hbr 10 mg phenylephrine hci 5 mg purpose pain reliever",
-      "fever reducer cough suppressant nasal decongestant",
-      "purpose pain reliever"
     ],
     "atc": null
   },
