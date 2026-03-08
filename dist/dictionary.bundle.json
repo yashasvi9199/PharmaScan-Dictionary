@@ -58,10 +58,7 @@
       "active ingredient na fluoride 0 02",
       "purpose na fluoride anticavity",
       "autobrush strawberry",
-      "active ingredient na fluoride 0 24",
-      "euthymol extraordinary pink whitening",
-      "active ingredient na fluoride 0 243 0 16 w",
-      "purpose anticavity toopaste"
+      "active ingredient na fluoride 0 24"
     ],
     "atc": "A01AA01"
   },
@@ -2574,6 +2571,7 @@
       "active ingredient active ingredient loratadine 10 mg",
       "purpose purpose antihistamine",
       "alavert allergy",
+      "loratadine antihistamine",
       "dg health allergy relief",
       "active ingredients purpose loratadine",
       "usp 10 mg antihistamine pseudoephedrine sulphate",
@@ -9590,8 +9588,7 @@
       "1 bottle carton active ingredient minoxidil",
       "usp 5 w",
       "v 3 bottle carton active ingredient minoxidil 5 w",
-      "1 bottle carton purpose hair regrowth treatment for men 3 bottle carton purpose hair regrowth treatment",
-      "active ingredient minoxidil"
+      "1 bottle carton purpose hair regrowth treatment for men 3 bottle carton purpose hair regrowth treatment"
     ],
     "atc": "C02DC01"
   },
@@ -15311,9 +15308,6 @@
       "simplify antibacterial hand apple blossom scent",
       "active ingredient chloroxylenol 0 30",
       "purpose antibacterial hand soap",
-      "gojo rich pink antibacterial ltn sp",
-      "active ingredient chloroxylenol 0 3",
-      "purpose antimicrobial",
       "dawn ultra antibacterial hand apple blossom scent",
       "good care sterile scrub brush with pcmx",
       "active ingredient 3 3 parachlorometaxylenol cleansing with emollient",
@@ -34691,19 +34685,19 @@
     "atc": "N07AX03"
   },
   {
-    "slug": "2-mg",
-    "canonical": "2 mg",
+    "slug": "4-mg",
+    "canonical": "4 mg",
     "names": [
       "nicotine",
       "nicotine polacrilex",
-      "active ingredient nicotine polacrilex usp",
-      "2 mg",
-      "purpose stop smoking aid",
       "active ingredients nicotine polacrilex",
       "2 mg nicotine polacrilex",
       "4 mg",
+      "purpose stop smoking aid",
       "equate nicotine",
       "active ingredient nicotine polacrilex",
+      "active ingredient nicotine polacrilex usp",
+      "2 mg",
       "nicorette fruit chill nicotine polacrilex",
       "exchange select nicotine",
       "basic care nicotine",
@@ -37112,7 +37106,8 @@
     "slug": "montelukast",
     "canonical": "montelukast",
     "names": [
-      "montelukast"
+      "montelukast",
+      "montelukast na"
     ],
     "atc": "R03DC03"
   },
@@ -42259,6 +42254,8 @@
       "active ingredient benzalkonium cl",
       "0 55",
       "purpose antiseptic handwash",
+      "medpride sterile",
+      "active ingredient benzalkonium cl 0 133",
       "swisher",
       "active ingredient benzalkonium cl 0 5"
     ],
@@ -43054,10 +43051,7 @@
       "dry idea antiperspirant",
       "deodorant fragrance free",
       "otc active ingredient",
-      "otc purpose",
-      "right guard x antiperspirant",
-      "deodorant dryspray fragrance free",
-      "deodorant dryspray fresh blast"
+      "otc purpose"
     ],
     "atc": null
   },
@@ -43377,7 +43371,12 @@
       "dolce",
       "gabbana everlast foundation spf 20 38c deep",
       "active ingredients octisalate 3 5 octocrylene 5 titanium dioxide 0 5 zinc oxide 1 88 purpose sunscreen",
+      "dior forever skin wear flawless skin true foundation spf 20 wless skin true foundation spf 20 10n neutral",
+      "active ingredients octisalate 3 50 titanium dioxide 0 94 purpose sunscreen",
+      "dior forever skin wear flawless skin true foundation spf 20 6w warm",
       "hydration concentrated floral skincare with suncreen broad spectrum spf 15 4wo",
+      "dior forever skin glow flawless radiant skin true foundation spf 25 6n neutral",
+      "active ingredients octisalate 4 50 titanium dioxide 0 94 purpose sunscreen",
       "gabbana everlast foundation spf 20 17w medium"
     ],
     "atc": null
@@ -43901,22 +43900,31 @@
       "restorative day moisture spf 15",
       "active ingredients purpose octinoxate 5 sunscreen avobenzone 3 sunscreen",
       "use helps prevent sunburn",
+      "seonglow daily moisturizing sunscreen spf 50",
+      "active ingredients avobenzone 2 9",
+      "homosalate 9 0",
+      "octisalate 4 5",
+      "octocrylene 5 0 purpose sunscreen",
       "lancome paris uv expert aquagel defense 50 plus sunscreen broad spectrum spf 50 plus primer",
       "moisturizer with antioxidant vitamin e",
       "active ingredients avobenzone 3 homosalate 15 octisalate 5 octocrylene 7",
       "roc barrier renew am moisturizer spf 30",
       "active ingredients active ingredients purpose avobenzone 2 0",
       "homosalate 5 5",
-      "octisalate 4 5",
       "octocrylene 4 0 sunscreen",
       "uses uses helps prevent sunburn if used as directed with other sun protection measures",
       "early signs of aging caused by the sun",
       "zealios sport performance ultralight spf 50 sunscreen",
       "active ingredients purpose homosalate 15 sunscreen octocrylene 10 sunscreen octyl salicylate 5 sunscreen avobenzone 3 sunscreen",
       "mario badescu collagen spf 15",
+      "2000dl cl30v",
+      "spf30 bs vanilla",
+      "active ingredients avobenzone 3 octocrylene 8",
       "gr lip butter cookie spf 15",
       "active ingredient avobenzone 2 7 w",
       "w octinoxate 6 w",
+      "2000dl cl30t",
+      "spf30 bs tropical",
       "belif the true aqua bomb sunscreen broad spectrum spf 50",
       "active ingredients avobenzone 2 7 homosalate 9 octisalate 4 5 octocrylene 9",
       "dr jart every sun day sun fluid",
@@ -44020,9 +44028,11 @@
       "skin protectant diaper rash treatment",
       "eminence radiant protection spf fluid",
       "active ingredient purpose zinc oxide 15 sunscreen",
+      "botnia gentle sun spf 30",
+      "active ingredient zinc oxide 18 00 purpose sunscreen",
+      "purpose sunscreen",
       "glo skin beauty oil free tinted primer spf 30",
       "active ingredients zinc oxide 23",
-      "purpose sunscreen",
       "balmere mineral sunscreen moisturizer primer",
       "balmere mineral sunscreen moisturizer primer active ingredients",
       "balmere mineral sunscreen moisturizer primer purpose",
@@ -44092,10 +44102,7 @@
       "zinc oxide 13 50",
       "daily supergoop dose bioretinol mineral spf 40",
       "daily dose bioretinol mineral spf 40",
-      "active ingredients zinc oxide 16 5",
-      "everyday sun defense",
-      "active ingredient zinc oxide 9 4",
-      "otc purpose sunscreen"
+      "active ingredients zinc oxide 16 5"
     ],
     "atc": null
   },
@@ -44234,9 +44241,12 @@
       "joints associated with simple backache",
       "arthritis",
       "strainsand sprains",
+      "therapain plus",
+      "menthol roll on",
+      "active ingredient natural l menthol 2",
+      "purpose topical analgesic",
       "smooth gator head ezz analgesic",
       "active ingredients menthol 3 00 purpose topical analgesic",
-      "purpose topical analgesic",
       "fortify",
       "drug facts active ingredient menthol 2 7",
       "purpose antitussive uses temporarily calms cough due to minor throat",
@@ -45187,11 +45197,7 @@
       "purposes antihistamine cough suppressant",
       "brompheniramine",
       "pseudoephedrine",
-      "dextromethorphan",
-      "phenylephrine hcl",
-      "childrens cold",
-      "active ingredients brompheniramine maleate 2 mg phenylephrine hci 5 mg",
-      "purposes antihistamine nasal decongestant"
+      "dextromethorphan"
     ],
     "atc": null
   },
@@ -47192,8 +47198,7 @@
     "canonical": "pantoprazole na",
     "names": [
       "pantoprazole na",
-      "pantoprazole na delayed",
-      "pantoprazole na dr"
+      "pantoprazole na delayed"
     ],
     "atc": null
   },
@@ -47205,7 +47210,6 @@
       "nasal decongestant pe",
       "active ingredient phenylephrine hcl 10 mg",
       "purpose nasal decongestant",
-      "non drowsy",
       "witch hazel",
       "hemorrhoidal cooling",
       "active ingredients phenylephrine hcl 0 25 witch hazel 50 0",
@@ -49463,21 +49467,13 @@
       "active ingredients equal volumes of each hpus ingredient in 12x",
       "30x",
       "1lm potencies abies canadensis",
+      "thuja occidentalis the designation hpus means that the active ingredient in this product complies with a monograph in the homeopathic pharmacopeia of the united states",
       "equal volumes of each hpus ingredient in 12x",
-      "1lm potencies active ingredients purpose abies canadensis gnawing hunger",
-      "irritable",
-      "peculiar cravings",
-      "light headed agaricus muscarius gastric disturbances",
-      "bloating allium cepa burning in mouth",
-      "throat",
-      "bladder",
-      "skin allium sativum constipation",
+      "1lm potencies active ingredients purpose abies canadensis gnawing hunger agaricus muscarius gastric disturbances allium cepa burning in mouth",
+      "throat allium sativum constipation",
       "cough aloe headache",
-      "pain",
-      "nausea antimonium crudum ear ringing",
-      "pimples",
-      "coated tongue asafoetida alcohol cravings",
-      "bloating",
+      "pain antimonium crudum ear ringing",
+      "pimples asafoetida bloating",
       "flatulence borax nervousness",
       "intestinal upset candida albicans yeast infections",
       "thrush candida parapsilosis nail fungus",
@@ -49486,24 +49482,19 @@
       "flos fatigue",
       "weariness ignatia amara changeable mood",
       "rash lachesis mutus melancholy",
-      "sleeplessness",
-      "food sensitivity lycopodium clavatum forgetfulness",
-      "drowsy",
-      "sensitive to odors",
-      "stress",
-      "fear malus pumila",
+      "sleeplessness lycopodium clavatum forgetfulness",
+      "drowsy malus pumila",
       "flos obsessive cleansing olea europaea",
       "flos complete exhaustion phosphoricum acidum nervous exhaustion",
       "listlessness phytolacca decandra scaly scalp",
       "dry skin pulsatilla overly emotional",
-      "chilliness",
-      "daytime sleepiness sabadilla cravings for sweets",
+      "chilliness sabadilla cravings for sweets",
       "starches sticta pulmonaria frothy stools",
       "diarrhea",
-      "cough sulphur cravings for sweets",
-      "milk",
-      "sweets disagree thuja occidentalis gi irritation",
-      "brittle nails hpus indicates the active ingredients are in the official homeopathic pharmacopeia of the united states",
+      "cough sulphur cravings for sweets thuja occidentalis gi irritation",
+      "brittle nails the designation hpus means that the active ingredient in this product complies with a monograph in the homeopathic pharmacopeia of the united states claims based on traditional homeopathic practice",
+      "not accepted medical evidence",
+      "not fda evaluated",
       "above intimate liquidsoap",
       "above intimate",
       "aloe barbadensis extract condicionador da pele 0 1",
@@ -50140,16 +50131,6 @@
     "atc": null
   },
   {
-    "slug": "pemetrexed-disodium-hemipentahydrate",
-    "canonical": "pemetrexed disodium hemipentahydrate",
-    "names": [
-      "pemetrexed disodium hemipentahydrate",
-      "pemetrexed",
-      "pemetrexed disodium"
-    ],
-    "atc": null
-  },
-  {
     "slug": "methylphenidate-hcl",
     "canonical": "methylphenidate hcl",
     "names": [
@@ -50310,15 +50291,6 @@
     "names": [
       "nickel carbonate hydroxide tetrahydrate",
       "niccolum carbonicum"
-    ],
-    "atc": null
-  },
-  {
-    "slug": "nickel-fluoride",
-    "canonical": "nickel fluoride",
-    "names": [
-      "nickel fluoride",
-      "niccolum fluoratum"
     ],
     "atc": null
   },
@@ -51514,15 +51486,6 @@
       "active ingredients neomycin sulphate polymixin b sulphate 10",
       "000 units pramoxine hcl",
       "purpose first aid antibiotic first aid antibiotic external analgesic"
-    ],
-    "atc": null
-  },
-  {
-    "slug": "urea",
-    "canonical": "urea",
-    "names": [
-      "urea",
-      "urea 40"
     ],
     "atc": null
   },
