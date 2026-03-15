@@ -314,14 +314,12 @@
       "hemorrhoid pain relief",
       "active ingredient lidocaine 5",
       "purpose lidocaine 5 local anesthetic",
-      "rapid relief pain relief patch",
       "petrolatum",
       "liprotek",
       "active ingredient petrolatum 61 lidocaine 0 6 purpose skin protectant external or topical analgesic",
       "purpose skin protectant external or topical analgesic",
       "dynamo delay sample bottle",
       "active ingredient lidocaine usp 13",
-      "hunter beach 4",
       "20",
       "benzocaine",
       "resorcinol",
@@ -2498,6 +2496,9 @@
     "canonical": "senna",
     "names": [
       "docusate na",
+      "docusate na 100mg",
+      "active ingredient docusate na 100 mg",
+      "purpose stool softener",
       "sennosides",
       "senna s",
       "senna",
@@ -15308,6 +15309,9 @@
       "simplify antibacterial hand apple blossom scent",
       "active ingredient chloroxylenol 0 30",
       "purpose antibacterial hand soap",
+      "gojo rich pink antibacterial ltn sp",
+      "active ingredient chloroxylenol 0 3",
+      "purpose antimicrobial",
       "dawn ultra antibacterial hand apple blossom scent",
       "good care sterile scrub brush with pcmx",
       "active ingredient 3 3 parachlorometaxylenol cleansing with emollient",
@@ -45096,6 +45100,7 @@
       "everyone hand sanitizer ruby grapefruit",
       "active ingredients ethanol 62",
       "smart care hot wheels hand sanitizer",
+      "smart care french vanilla hand sanitizer",
       "fresh feels hand sanitizer mist seashell sunshine scent",
       "footspa pedi",
       "ethyl alcohol 70 v",
@@ -45197,7 +45202,11 @@
       "purposes antihistamine cough suppressant",
       "brompheniramine",
       "pseudoephedrine",
-      "dextromethorphan"
+      "dextromethorphan",
+      "phenylephrine hcl",
+      "childrens cold",
+      "active ingredients brompheniramine maleate 2 mg phenylephrine hci 5 mg",
+      "purposes antihistamine nasal decongestant"
     ],
     "atc": null
   },
@@ -45488,8 +45497,7 @@
       "aspirin 81 mg",
       "active ingredient aspirin 81mg nonsteroidal anti inflammatory drug",
       "active ingredient aspirin 325 mg nonsteroidal anti inflammatory drug",
-      "fever reducer",
-      "adult low dose enteric coated aspirin"
+      "fever reducer"
     ],
     "atc": null
   },
@@ -47035,46 +47043,6 @@
     "atc": null
   },
   {
-    "slug": "calendula-officinalis-flower",
-    "canonical": "calendula officinalis flower",
-    "names": [
-      "calendula officinalis flower",
-      "thuja occidentalis whole",
-      "terrasil infection protection wound care",
-      "calendula",
-      "thuja occidentalis",
-      "active ingredients calendula 1x hpus",
-      "thuja occidentalis 6x hpus the letters hpus indicate the component in this product is officially monographed in the homeopathic pharmacopeia of the united states",
-      "purpose calendula healing agent",
-      "thuja skin eruption relief"
-    ],
-    "atc": null
-  },
-  {
-    "slug": "calendula-officinalis-flowering-top",
-    "canonical": "calendula officinalis flowering top",
-    "names": [
-      "calendula officinalis flowering top",
-      "delphinium staphisagria seed",
-      "lysimachia arvensis whole",
-      "piper methysticum root",
-      "ranunculus bulbosus whole",
-      "sage",
-      "demyc",
-      "ranunculus bulbosus",
-      "macropiper methysticum root",
-      "anagallis arvensis",
-      "active ingredients delphinium staphysagria 6x piper methysticum 8x ranunculus bulbosus 5x anagallis arvensis 11 85 mg",
-      "ml calendula officinalis 40 30 mg",
-      "ml salvia officinalis glycerin 38 70 mg",
-      "ml selected ingredients prepared by spagyric processes",
-      "for relief of minor skin fungus",
-      "such as athlete s foot application of this homeopathic remedy for the designated usage is exclusively based on homeopathic experience with severe forms of this disease",
-      "a clinically proven therapy is indicated"
-    ],
-    "atc": null
-  },
-  {
     "slug": "lachesis-muta-venom",
     "canonical": "lachesis muta venom",
     "names": [
@@ -47198,7 +47166,8 @@
     "canonical": "pantoprazole na",
     "names": [
       "pantoprazole na",
-      "pantoprazole na delayed"
+      "pantoprazole na delayed",
+      "pantoprazole na dr"
     ],
     "atc": null
   },
@@ -50496,6 +50465,30 @@
     "atc": null
   },
   {
+    "slug": "calendula-officinalis-flowering-top",
+    "canonical": "calendula officinalis flowering top",
+    "names": [
+      "calendula officinalis flowering top",
+      "delphinium staphisagria seed",
+      "lysimachia arvensis whole",
+      "piper methysticum root",
+      "ranunculus bulbosus whole",
+      "sage",
+      "demyc",
+      "ranunculus bulbosus",
+      "macropiper methysticum root",
+      "anagallis arvensis",
+      "active ingredients delphinium staphysagria 6x piper methysticum 8x ranunculus bulbosus 5x anagallis arvensis 11 85 mg",
+      "ml calendula officinalis 40 30 mg",
+      "ml salvia officinalis glycerin 38 70 mg",
+      "ml selected ingredients prepared by spagyric processes",
+      "for relief of minor skin fungus",
+      "such as athlete s foot application of this homeopathic remedy for the designated usage is exclusively based on homeopathic experience with severe forms of this disease",
+      "a clinically proven therapy is indicated"
+    ],
+    "atc": null
+  },
+  {
     "slug": "ferric-oxide-red",
     "canonical": "ferric oxide red",
     "names": [
@@ -51544,6 +51537,20 @@
     "canonical": "ustekinumab aekn",
     "names": [
       "ustekinumab aekn"
+    ],
+    "atc": null
+  },
+  {
+    "slug": "daytime",
+    "canonical": "daytime",
+    "names": [
+      "daytime",
+      "nighttime cold",
+      "flu kit",
+      "active ingredient daytime only acetaminophen 325mg dextromethorphan hbr 10mg nighttime only acetaminophen 325mg dextromethorphan hbr 15mg doxylamine succinate 6 25mg",
+      "purpose daytime only pain reliever",
+      "fever reducer cough suppressant nighttime only pain reliever",
+      "fever reducer cough suppressant antihistamine"
     ],
     "atc": null
   },
