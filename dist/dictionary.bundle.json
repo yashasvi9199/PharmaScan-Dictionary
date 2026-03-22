@@ -2577,10 +2577,10 @@
       "active ingredients purpose loratadine",
       "usp 10 mg antihistamine pseudoephedrine sulphate",
       "usp 240 mg nasal decongestant",
+      "active ingredient loratadine 10mg",
       "loratadine 10mg",
       "antihistamine",
-      "xl 3 allergy",
-      "active ingredient loratadine 10mg"
+      "xl 3 allergy"
     ],
     "atc": "A06AB02"
   },
@@ -2823,9 +2823,11 @@
     "canonical": "citroma",
     "names": [
       "magnesium citrate",
+      "magnesium citrate saline laxative grape flavor",
+      "active ingredient magnesium citrate 1 745 g",
+      "purpose saline laxative",
       "citroma",
-      "active ingredient magnesium citrate 1 745g",
-      "purpose saline laxative"
+      "active ingredient magnesium citrate 1 745g"
     ],
     "atc": "A06AD19"
   },
@@ -42455,11 +42457,11 @@
       "extra strength headache",
       "active ingredients active ingredients acetaminophen 250 mg aspirin 250 mg caffeine 65 mg nonsteroidal anti inflammatory drug",
       "purpose purposes pain reliever pain reliever pain reliever aid",
+      "dover aminofen",
       "medique apap",
+      "dover aminophen",
       "medi first non aspirin",
       "medi first plus non aspirin",
-      "dover aminofen",
-      "dover aminophen",
       "pyrilamine maleate",
       "buscapina",
       "active ingredients purpose active ingredients purpose acetaminophen 500mg pain reliever caffeine 60mg diuretic pyrilamine maleate 15mg antihistamine",
@@ -42503,8 +42505,7 @@
       "cough suppressant phenylephrine hcl 10 mg nasal decongestant",
       "benzhydrocodone hcl",
       "apadaz",
-      "benzhydrocodone",
-      "pharbetol regular strength"
+      "benzhydrocodone"
     ],
     "atc": null
   },
@@ -43513,9 +43514,6 @@
       "aleve",
       "foster",
       "thrive all day pain relief",
-      "aleve caplets",
-      "aleve caplets soft grip arthritis",
-      "aleve caplets easy open arthritis",
       "ana dent pain relief",
       "active ingredients naproxen na 220 mg nonsteroidal anti inflammatory drug",
       "flanax pain reliever"
@@ -43940,6 +43938,12 @@
       "active ingredients avobenzone 3 octisalate 5 octocrylene 3",
       "powerbright moisturizer spf 50",
       "active ingredient octocrylene 8 0 homosalate 5 0 avobenzone 3 0 octisalate 3 0",
+      "ultra light invisible spf 40 sunscreen",
+      "homosalate 8",
+      "octisalate 5 0",
+      "avobenzone 3 0",
+      "octocrylene 4 0",
+      "active ingredients purpose avobenzone 3 sunscreen homosalate 8 sunscreen octisalate 5 sunscreen octocrylene 4 0 sunscreen",
       "loreal paris revitalift derm intensives invisible uv fluid broad spectrum spf 50 sunscreen",
       "begins by jungsaemmool blue chamomile hyaluronic acid airy sun stick broad spectrum spf 50 plus",
       "avobenzone 2 7 homosalate 9 5 octisalate 4 5 octocrylene 5 0",
@@ -44010,7 +44014,6 @@
       "active ingredients avobenzone 2 0",
       "homosalate 3 5",
       "octisalate 2 0",
-      "octocrylene 4 0",
       "neutrogena sport active defense spf 70",
       "active ingredients purpose avobenzone",
       "sunscreen homosalate",
@@ -45072,10 +45075,6 @@
       "disinfection of hands",
       "skin",
       "disinfection of surgical site skin",
-      "365 chai spice hand sanitizer wipes",
-      "alcohol hand sanitizer",
-      "active ingredient ethyl alcohol 65 v",
-      "365 winterberry hand sanitizer wipes",
       "hand sanitizer 29ml 01",
       "active ingredient active ingredient purpose ethyl alcohol 65 v",
       "v antiseptic use hand sanitizer helps to reduce bacteria that potentially can cause disease for use when soap",
@@ -45084,6 +45083,7 @@
       "singular wipes",
       "lavender hand sanitizer wipes",
       "ethanol",
+      "active ingredient ethyl alcohol 65 v",
       "lavender hand sanitizing wipes",
       "alcohol pad 01",
       "hand sanitizer 8oz with vitamin e",
@@ -46848,8 +46848,7 @@
     "canonical": "clindamycin phosphate",
     "names": [
       "clindamycin phosphate",
-      "xaciato",
-      "cleocin phosphate"
+      "xaciato"
     ],
     "atc": null
   },
@@ -47204,6 +47203,25 @@
     "names": [
       "biotin 5 panax ginseng root extract 2 zingiber officinale root extract 2 oriental arborvitae leafytwigs extract 0 5 pinus palustris extract 0 4",
       "strengthens hair promote hair longer fuller healthier hair"
+    ],
+    "atc": null
+  },
+  {
+    "slug": "carbidopa-hydrate",
+    "canonical": "carbidopa hydrate",
+    "names": [
+      "carbidopa hydrate",
+      "levodopa",
+      "carbidopa"
+    ],
+    "atc": null
+  },
+  {
+    "slug": "carbidopa",
+    "canonical": "carbidopa",
+    "names": [
+      "carbidopa",
+      "levodopa"
     ],
     "atc": null
   },
@@ -48543,7 +48561,9 @@
       "oxymetazoline hcl",
       "equate",
       "active ingredients oxymetazoline hcl 0 05",
-      "purpose nasal decongestant"
+      "purpose nasal decongestant",
+      "nasal decongestant",
+      "active ingredient oxymetazoline hcl 0 05"
     ],
     "atc": null
   },
@@ -48610,15 +48630,6 @@
       "uses helps prevent sunburn if used as directed with other sun protection measures",
       "decreases the risk of skin cancer",
       "early skin aging caused by the sun"
-    ],
-    "atc": null
-  },
-  {
-    "slug": "carbidopa",
-    "canonical": "carbidopa",
-    "names": [
-      "carbidopa",
-      "levodopa"
     ],
     "atc": null
   },
@@ -51881,14 +51892,6 @@
       "gericare senna syrup",
       "active ingredient sennosides 8 8 mg",
       "laxative"
-    ],
-    "atc": null
-  },
-  {
-    "slug": "methimazole",
-    "canonical": "methimazole",
-    "names": [
-      "methimazole"
     ],
     "atc": null
   }
