@@ -38885,7 +38885,8 @@
     "names": [
       "travoprost",
       "travoprost ophthalmic",
-      "0 004"
+      "0 004",
+      "travatan z"
     ],
     "atc": "S01EE04"
   },
@@ -42340,7 +42341,6 @@
       "active ingredients purposes acetaminophen 325 mg pain reliever",
       "fever reducer diphenhydramine hcl 12 5 mg antihistamine",
       "cough suppressant phenylephrine hcl 5 mg nasal decongestant",
-      "codeine phosphate",
       "active ingredient acetaminophen usp",
       "650 mg",
       "childrens pain relief",
@@ -42385,6 +42385,7 @@
       "active ingredient acetaminophen 325 mg",
       "oxycodone hcl",
       "oxycodone",
+      "codeine phosphate",
       "xpect cold relief",
       "acetaminophen guaifenesein phenylephrine hcl",
       "active ingredients acetaminophen 325 mg guaifenesin 200 mg phenylephrine hcl 5 mg",
@@ -43334,7 +43335,8 @@
     "slug": "sertraline-hcl",
     "canonical": "sertraline hcl",
     "names": [
-      "sertraline hcl"
+      "sertraline hcl",
+      "sertraline"
     ],
     "atc": null
   },
@@ -44276,6 +44278,7 @@
       "cough creamy strawberry",
       "active ingredient menthol 2 5 mg pactin 7 mg",
       "purpose pectin demulcent menthol cough suppressant",
+      "active ingredient menthol 5 8",
       "health smart medicated body",
       "active ingredients menthol 0 15 zinc oxide 1 0",
       "purpose external analgesic skin protectant",
