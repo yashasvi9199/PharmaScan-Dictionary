@@ -43409,9 +43409,7 @@
       "glitch advanced relief eye",
       "active ingredients polyethylene glycol 400 1 tetrahydrozoline hci 0 05",
       "systane ultra",
-      "active ingredients purpose polyethylene glycol 400 0 4 lubricant propylene glycol 0 3 lubricant",
-      "signature care lubricant eye long lasting",
-      "purpose lubricant lubricant"
+      "active ingredients purpose polyethylene glycol 400 0 4 lubricant propylene glycol 0 3 lubricant"
     ],
     "atc": null
   },
@@ -43851,9 +43849,13 @@
       "olay regenerist regenerating with sunscreen broad spectrum spf 15",
       "active ingredients purpose avobenzone 3 0 sunscreen homosalate 4 0 sunscreen octisalate 4 5 sunscreen octocrylene 2 6 sunscreen",
       "octinoxate",
+      "nu skin sunright lip balm broad spectrum spf 15",
+      "active ingredient avobenzone 3 0",
+      "octinoxate 7 5",
+      "octocrylene 2 79",
+      "purpose sunscreen",
       "medichoice moisturizing lip balm spf15",
       "active ingredients avobenzone 3 0 octinoxate 6 5 octisalate 5 0 octocrylene 1 5 purpose sunscreen",
-      "purpose sunscreen",
       "triple prep spf 40",
       "active ingredients avobenzone 3",
       "homosalate 7",
@@ -44953,6 +44955,58 @@
     "atc": null
   },
   {
+    "slug": "herring-sperm-dna",
+    "canonical": "herring sperm dna",
+    "names": [
+      "herring sperm dna",
+      "insulin human",
+      "lycopodium clavatum spore",
+      "phosphoric acid",
+      "radium bromide",
+      "sus scrofa pancreas",
+      "uranyl nitrate hexahydrate",
+      "dna pancreas formula",
+      "lycopodium clavatum",
+      "pancreas suis",
+      "dna",
+      "insulinum",
+      "phosphoricum acidum",
+      "radium bromatum",
+      "uranium nitricum",
+      "active ingredients dna 30x",
+      "60x",
+      "100x",
+      "1000x",
+      "insulinum 12x",
+      "lycopodium clavatum 6x",
+      "pancreas suis 9x",
+      "12x",
+      "30x",
+      "phosphoricum acidum 30x",
+      "radium bromatum 60x",
+      "uranium nitricum 30c",
+      "purpose dna fatigue",
+      "indigestion",
+      "pain in left shoulder",
+      "pain in abdomen",
+      "insulinum fatigue",
+      "support of the pancreas",
+      "weakness",
+      "lycopodium clavatum bloated abdomen",
+      "desire for sweets",
+      "pancreas suis support of the pancreas",
+      "phosphoricum acidum fatigue",
+      "loss of appetite",
+      "radium bromatum backaches",
+      "headaches",
+      "uranium nitricum bloated abdomen",
+      "excessive thirst",
+      "support of the pancreas claims based on traditional homeopathic practice",
+      "not accepted medical evidence not fda evaluated"
+    ],
+    "atc": null
+  },
+  {
     "slug": "alcohol",
     "canonical": "alcohol",
     "names": [
@@ -45070,6 +45124,10 @@
       "xtracare cucumber melon",
       "active ingredient purpose ethyl alcohol 62 0 antimicrobial",
       "uses for handwashing to decrease bacteria on the skin recommended for repeated use",
+      "b pure moisturizing hand sanitizer creamy vanilla",
+      "honey scented",
+      "70 v",
+      "v purpose antimicrobial",
       "careall hand sanitizer",
       "active ingredient ethyl alcohol 70 v",
       "smart care coco cabana hand sanitizer",
@@ -45096,8 +45154,6 @@
       "ben e keith hand cleaner",
       "purpose antibacterial agent",
       "b pure moisturizing hand sanitizer honey crisp apple scented",
-      "70 v",
-      "v purpose antimicrobial",
       "hand sanitizing wipes",
       "everyone hand sanitizer ruby grapefruit",
       "active ingredients ethanol 62",
@@ -47163,6 +47219,16 @@
     "atc": null
   },
   {
+    "slug": "tividenofusp-alfa",
+    "canonical": "tividenofusp alfa",
+    "names": [
+      "tividenofusp alfa",
+      "avlayah",
+      "tividenofusp alfa eknm"
+    ],
+    "atc": null
+  },
+  {
     "slug": "pantoprazole-na",
     "canonical": "pantoprazole na",
     "names": [
@@ -48643,6 +48709,15 @@
       "active ingredient levocetirizine dihydrochloride usp",
       "5 mg",
       "purpose antihistamine"
+    ],
+    "atc": null
+  },
+  {
+    "slug": "valacyclovir-hcl",
+    "canonical": "valacyclovir hcl",
+    "names": [
+      "valacyclovir hcl",
+      "valacyclovir"
     ],
     "atc": null
   },
@@ -50169,6 +50244,14 @@
       "natrum muriaticum 200x",
       "nux vomica 8x 100 mg each natural ingredients",
       "purpose constipation relief relieves constipation bowel irregularity bloating"
+    ],
+    "atc": null
+  },
+  {
+    "slug": "calcitonin-salmon",
+    "canonical": "calcitonin salmon",
+    "names": [
+      "calcitonin salmon"
     ],
     "atc": null
   },
