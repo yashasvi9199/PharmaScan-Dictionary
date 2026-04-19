@@ -13741,6 +13741,7 @@
       "wart removers",
       "compound w liquid first aid",
       "crystal clear acne treatment pads",
+      "anna lotan purifying pads with 2 salicylic acid",
       "acne",
       "vichy laboratoires normaderm acne control moisturizer",
       "liquid callus remover",
@@ -43873,6 +43874,8 @@
       "oxybenzone",
       "equate beauty daily moisturizer spf 30 sunscreen",
       "active ingredients purpose avobenzone 3 sunscreen homosalate 15 sunscreen octisalate 5 sunscreen octocrylene 3 sunscreen oxybenzone 6 sunscreen",
+      "naturium dew glow moisturizer spf 50",
+      "active ingredients avobenzone 3 homosalate 10 octisalate 5",
       "h e b solutions sunscreen",
       "sport spf 70",
       "active ingredients avobenzone 3 0",
@@ -44283,10 +44286,7 @@
       "active ingredient menthol 5 8",
       "health smart medicated body",
       "active ingredients menthol 0 15 zinc oxide 1 0",
-      "purpose external analgesic skin protectant",
-      "medterra pain relief menthol roll on",
-      "active ingredient active ingredient menthol 4",
-      "purpose cooling pain reliever"
+      "purpose external analgesic skin protectant"
     ],
     "atc": null
   },
@@ -46083,6 +46083,15 @@
     "canonical": "clonidine hcl",
     "names": [
       "clonidine hcl"
+    ],
+    "atc": null
+  },
+  {
+    "slug": "trilona",
+    "canonical": "trilona",
+    "names": [
+      "trilona",
+      "triamcinolone acetonide"
     ],
     "atc": null
   },
@@ -48790,14 +48799,6 @@
     "atc": null
   },
   {
-    "slug": "chlorpromazine-hcl",
-    "canonical": "chlorpromazine hcl",
-    "names": [
-      "chlorpromazine hcl"
-    ],
-    "atc": null
-  },
-  {
     "slug": "phytonadione",
     "canonical": "phytonadione",
     "names": [
@@ -49444,6 +49445,14 @@
     "canonical": "metaxalone",
     "names": [
       "metaxalone"
+    ],
+    "atc": null
+  },
+  {
+    "slug": "chlorpromazine-hcl",
+    "canonical": "chlorpromazine hcl",
+    "names": [
+      "chlorpromazine hcl"
     ],
     "atc": null
   },
