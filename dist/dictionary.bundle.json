@@ -46968,7 +46968,9 @@
       "olopatadine hcl ophthalmic",
       "active ingredient olopatadine",
       "purpose antihistamine",
-      "redness reliever"
+      "redness reliever",
+      "drug facts active ingredient olopatadine equivalent to olopatadine hcl",
+      "usp 0 222"
     ],
     "atc": null
   },
@@ -50499,7 +50501,16 @@
       "folic acid",
       "magnesium",
       "pyridoxine",
-      "pnv dha"
+      "pnv dha",
+      "levomefolic acid",
+      "methylcobalamin",
+      "niacin",
+      "riboflavin",
+      "na ascorbate",
+      "thiamine",
+      "vitamin a",
+      "vitamin d",
+      "vitavera"
     ],
     "atc": null
   },
