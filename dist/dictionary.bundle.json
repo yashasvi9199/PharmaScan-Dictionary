@@ -450,8 +450,6 @@
       "v",
       "dr lift spf 50",
       "active ingredients zinc oxide 9 86 octinoxate 7 5",
-      "broad spectrum spf45",
-      "active ingredients zinc oxide 12 octinoxate 7 5",
       "no7 perfect",
       "perfect intense advanced all in one foundation spf 50 willow",
       "flawless effect liquid foundation spf 15 merle norman",
@@ -15315,10 +15313,7 @@
       "gojo rich pink antibacterial ltn sp",
       "active ingredient chloroxylenol 0 3",
       "purpose antimicrobial",
-      "dawn ultra antibacterial hand apple blossom scent",
-      "good care sterile scrub brush with pcmx",
-      "active ingredient 3 3 parachlorometaxylenol cleansing with emollient",
-      "purpose antiseptic"
+      "dawn ultra antibacterial hand apple blossom scent"
     ],
     "atc": "D08AE05"
   },
@@ -42909,6 +42904,22 @@
     "atc": null
   },
   {
+    "slug": "ingredients-each-contains-equal-parts-of-petroleum-6x",
+    "canonical": "ingredients each contains equal parts of petroleum 6x",
+    "names": [
+      "ingredients each contains equal parts of petroleum 6x",
+      "graphites 12x",
+      "hepar sulphuris calcareum 12x",
+      "sepia 12x",
+      "sulphur 12x",
+      "thuja occidentalis 12x",
+      "indications psoriasis",
+      "eczema",
+      "seborrhea relief"
+    ],
+    "atc": null
+  },
+  {
     "slug": "ingredients-each-contains-equal-parts-of-mezereum-3x",
     "canonical": "ingredients each contains equal parts of mezereum 3x",
     "names": [
@@ -45950,8 +45961,7 @@
     "canonical": "atorvastatin calcium trihydrate",
     "names": [
       "atorvastatin calcium trihydrate",
-      "atorvastatin calcium",
-      "atorvastatin coated"
+      "atorvastatin calcium"
     ],
     "atc": null
   },
@@ -46539,22 +46549,6 @@
       "200x",
       "claims based on traditional homeopathic practice",
       "not accepted medical evidence not fda evaluated",
-      "graphite",
-      "kerosene",
-      "sepia officinalis juice",
-      "sulfur",
-      "thuja occidentalis leafy twig",
-      "hendel psoriasis",
-      "eczema",
-      "seborrhea",
-      "ingredients each contains equal parts of petroleum 6x",
-      "graphites 12x",
-      "hepar sulphuris calcareum 12x",
-      "sepia 12x",
-      "sulphur 12x",
-      "thuja occidentalis 12x",
-      "indications psoriasis",
-      "seborrhea relief",
       "ferrosoferric phosphate",
       "herring sperm dna",
       "magnesium phosphate",
@@ -48214,6 +48208,32 @@
     "atc": null
   },
   {
+    "slug": "lithium-carbonate",
+    "canonical": "lithium carbonate",
+    "names": [
+      "lithium carbonate"
+    ],
+    "atc": null
+  },
+  {
+    "slug": "lithium-sulphate",
+    "canonical": "lithium sulphate",
+    "names": [
+      "lithium sulphate",
+      "lithium sulphuratum"
+    ],
+    "atc": null
+  },
+  {
+    "slug": "lithium-iodate",
+    "canonical": "lithium iodate",
+    "names": [
+      "lithium iodate",
+      "lithium iodatum"
+    ],
+    "atc": null
+  },
+  {
     "slug": "topcare-multi-symptom-flu-relief-combo-pack",
     "canonical": "topcare multi symptom flu relief combo pack",
     "names": [
@@ -48548,15 +48568,6 @@
     "atc": null
   },
   {
-    "slug": "fenoprofen-calcium",
-    "canonical": "fenoprofen calcium",
-    "names": [
-      "fenoprofen calcium",
-      "nalfon"
-    ],
-    "atc": null
-  },
-  {
     "slug": "dapagliflozin-propanediol",
     "canonical": "dapagliflozin propanediol",
     "names": [
@@ -48643,6 +48654,21 @@
       "purpose nasal decongestant",
       "nasal decongestant",
       "active ingredient oxymetazoline hcl 0 05"
+    ],
+    "atc": null
+  },
+  {
+    "slug": "chicken-bone",
+    "canonical": "chicken bone",
+    "names": [
+      "chicken bone",
+      "hydrolysed bovine collagen enzymatic",
+      "3500 mw",
+      "jba collagen b chicken essence",
+      "chicken",
+      "hydrolysed bovine collagen enzymatic 3500 mw",
+      "ingredients chicken",
+      "collagen peptides"
     ],
     "atc": null
   },
@@ -49827,14 +49853,6 @@
     "atc": null
   },
   {
-    "slug": "cefuroxime-axetil",
-    "canonical": "cefuroxime axetil",
-    "names": [
-      "cefuroxime axetil"
-    ],
-    "atc": null
-  },
-  {
     "slug": "microgestin-fe-1-5",
     "canonical": "microgestin fe 1 5",
     "names": [
@@ -50018,32 +50036,6 @@
     "names": [
       "rosacea therapy moisturizing active ingredient azelaic acid 5 tranexamic acid 1",
       "rosacea therapy moisturizing purpose rosacea treatment"
-    ],
-    "atc": null
-  },
-  {
-    "slug": "lithium-sulphate",
-    "canonical": "lithium sulphate",
-    "names": [
-      "lithium sulphate",
-      "lithium sulphuratum"
-    ],
-    "atc": null
-  },
-  {
-    "slug": "lithium-iodate",
-    "canonical": "lithium iodate",
-    "names": [
-      "lithium iodate",
-      "lithium iodatum"
-    ],
-    "atc": null
-  },
-  {
-    "slug": "lithium-carbonate",
-    "canonical": "lithium carbonate",
-    "names": [
-      "lithium carbonate"
     ],
     "atc": null
   },
@@ -51986,17 +51978,6 @@
     "names": [
       "levoleucovorin calcium",
       "levoleucovorin"
-    ],
-    "atc": null
-  },
-  {
-    "slug": "sennosides",
-    "canonical": "sennosides",
-    "names": [
-      "sennosides",
-      "gericare senna syrup",
-      "active ingredient sennosides 8 8 mg",
-      "laxative"
     ],
     "atc": null
   }
