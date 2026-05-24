@@ -379,8 +379,6 @@
       "active ingredients octinoxate octisalate zinc oxide",
       "note mattifying extreme wear foundation",
       "active ingredient octinoxate 0 6 purpose sunscreen",
-      "sheer defense tinted spf 46",
-      "active ingredient zinc oxide 12 octinoxate 7 5",
       "titanium dioxide",
       "no7 protect",
       "perfect intense advanced all in one foundation spf 50 cameo",
@@ -29260,7 +29258,8 @@
     "slug": "baclofen",
     "canonical": "baclofen",
     "names": [
-      "baclofen"
+      "baclofen",
+      "gablofen"
     ],
     "atc": "M03BX01"
   },
@@ -43391,8 +43390,12 @@
       "hydration concentrated floral skincare with suncreen broad spectrum spf 15 00",
       "active ingredients octinoxate 4 50 titanium dioxide 4 23 purpose sunscreen",
       "purpose sunscreen",
-      "octocrylene",
       "zinc oxide",
+      "uv daily hydration tinted",
+      "octisalat",
+      "zinc oxide sunscreen",
+      "active ingredients octisalate 5 0 zinc oxide 11 0",
+      "octocrylene",
       "dolce",
       "gabbana everlast foundation spf 20 38c deep",
       "active ingredients octisalate 3 5 octocrylene 5 titanium dioxide 0 5 zinc oxide 1 88 purpose sunscreen",
@@ -44073,9 +44076,6 @@
       "diaper rash",
       "active ingredient zinc oxide 40",
       "purpose skin protectant",
-      "inde wild",
-      "inde wild active ingredient",
-      "inde wild purpose",
       "sol science the fifty",
       "sol science the fifty active ingredients",
       "sol science the fifty purpose",
@@ -44126,9 +44126,6 @@
       "baby mantra diaper",
       "zinc oxide 10",
       "active ingredient zinc oxide 10",
-      "agent natuer holi dewy tinted skin",
-      "agent natuer holi dewy tinted skin active ingredients",
-      "agent natuer holi dewy tinted skin purpose",
       "sheer protection spf 30",
       "active ingredient zinc oxide",
       "baby diaper rash",
@@ -47315,6 +47312,15 @@
       "pantoprazole na",
       "pantoprazole na delayed",
       "pantoprazole na dr"
+    ],
+    "atc": null
+  },
+  {
+    "slug": "inde-wild-active-ingredient",
+    "canonical": "inde wild active ingredient",
+    "names": [
+      "inde wild active ingredient",
+      "inde wild purpose"
     ],
     "atc": null
   },
@@ -50582,6 +50588,14 @@
     "atc": null
   },
   {
+    "slug": "isosulfan-blue",
+    "canonical": "isosulfan blue",
+    "names": [
+      "isosulfan blue"
+    ],
+    "atc": null
+  },
+  {
     "slug": "ethanol-62-v",
     "canonical": "ethanol 62 v",
     "names": [
@@ -51037,6 +51051,15 @@
       "norethindrone acetate",
       "ethinyl estradiol",
       "ferrous fumarate"
+    ],
+    "atc": null
+  },
+  {
+    "slug": "agent-natuer-holi-dewy-tinted-skin-active-ingredients",
+    "canonical": "agent natuer holi dewy tinted skin active ingredients",
+    "names": [
+      "agent natuer holi dewy tinted skin active ingredients",
+      "agent natuer holi dewy tinted skin purpose"
     ],
     "atc": null
   },
