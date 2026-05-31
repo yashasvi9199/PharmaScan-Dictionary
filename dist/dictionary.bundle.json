@@ -379,6 +379,8 @@
       "active ingredients octinoxate octisalate zinc oxide",
       "note mattifying extreme wear foundation",
       "active ingredient octinoxate 0 6 purpose sunscreen",
+      "sheer defense tinted spf 46",
+      "active ingredient zinc oxide 12 octinoxate 7 5",
       "titanium dioxide",
       "no7 protect",
       "perfect intense advanced all in one foundation spf 50 cameo",
@@ -28985,8 +28987,7 @@
       "oprava",
       "purpose for temporary pain relief",
       "dendracin neurodendraxcin",
-      "active ingredients methyl salicylate 30 menthol 10 capsaicin 0 025",
-      "purpose topical anesthetic"
+      "active ingredients methyl salicylate 30 menthol 10 capsaicin 0 025"
     ],
     "atc": "M02AB01"
   },
@@ -44076,6 +44077,9 @@
       "diaper rash",
       "active ingredient zinc oxide 40",
       "purpose skin protectant",
+      "inde wild",
+      "inde wild active ingredient",
+      "inde wild purpose",
       "sol science the fifty",
       "sol science the fifty active ingredients",
       "sol science the fifty purpose",
@@ -44126,10 +44130,15 @@
       "baby mantra diaper",
       "zinc oxide 10",
       "active ingredient zinc oxide 10",
+      "agent natuer holi dewy tinted skin",
+      "agent natuer holi dewy tinted skin active ingredients",
+      "agent natuer holi dewy tinted skin purpose",
       "sheer protection spf 30",
       "active ingredient zinc oxide",
       "baby diaper rash",
       "active ingredient zinc oxide 13",
+      "sunski hot block mineral sunscreen stick spf 50",
+      "active ingredients zinc oxide 17 53 purpose sunscreen",
       "hale",
       "hush broad spectrum spf 30 spf 30",
       "zinc oxide 13 50",
@@ -47316,15 +47325,6 @@
     "atc": null
   },
   {
-    "slug": "inde-wild-active-ingredient",
-    "canonical": "inde wild active ingredient",
-    "names": [
-      "inde wild active ingredient",
-      "inde wild purpose"
-    ],
-    "atc": null
-  },
-  {
     "slug": "phenylephrine-hcl",
     "canonical": "phenylephrine hcl",
     "names": [
@@ -48827,15 +48827,6 @@
       "active ingredient levocetirizine dihydrochloride usp",
       "5 mg",
       "purpose antihistamine"
-    ],
-    "atc": null
-  },
-  {
-    "slug": "valacyclovir-hcl",
-    "canonical": "valacyclovir hcl",
-    "names": [
-      "valacyclovir hcl",
-      "valacyclovir"
     ],
     "atc": null
   },
@@ -51051,15 +51042,6 @@
       "norethindrone acetate",
       "ethinyl estradiol",
       "ferrous fumarate"
-    ],
-    "atc": null
-  },
-  {
-    "slug": "agent-natuer-holi-dewy-tinted-skin-active-ingredients",
-    "canonical": "agent natuer holi dewy tinted skin active ingredients",
-    "names": [
-      "agent natuer holi dewy tinted skin active ingredients",
-      "agent natuer holi dewy tinted skin purpose"
     ],
     "atc": null
   },
