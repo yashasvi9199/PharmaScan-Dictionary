@@ -43848,18 +43848,6 @@
     "atc": null
   },
   {
-    "slug": "phenazopyridine-hcl",
-    "canonical": "phenazopyridine hcl",
-    "names": [
-      "phenazopyridine hcl",
-      "phenazopyridine",
-      "wallgreens maximum strength urinary pain relief",
-      "active ingredient phenazopyridine hcl 99 5 mg",
-      "purpose urinary analgesic"
-    ],
-    "atc": null
-  },
-  {
     "slug": "avobenzone",
     "canonical": "avobenzone",
     "names": [
@@ -48961,14 +48949,6 @@
     "atc": null
   },
   {
-    "slug": "glycopyrrolate",
-    "canonical": "glycopyrrolate",
-    "names": [
-      "glycopyrrolate"
-    ],
-    "atc": null
-  },
-  {
     "slug": "anamirta-cocculus-seed",
     "canonical": "anamirta cocculus seed",
     "names": [
@@ -49837,6 +49817,14 @@
       "active ingredients active ingredients purposes zinc gluconate 1x hpus cold remedy sambucus nigra 1x hpus promotes immune support avena sativa l 2x hpus helps with general debility",
       "fatigue rosa canina 2x hpus promotes immune support echinacea purpurea 3x hpus promotes immune support the letters hpus indicate that the active ingredient is in the official homeopathic pharmacopeia of the united states",
       "purposes purposes"
+    ],
+    "atc": null
+  },
+  {
+    "slug": "glycopyrrolate",
+    "canonical": "glycopyrrolate",
+    "names": [
+      "glycopyrrolate"
     ],
     "atc": null
   },
@@ -51387,6 +51375,17 @@
       "200c",
       "indications for temporary relief of being overly enthusiastic",
       "need to teach others"
+    ],
+    "atc": null
+  },
+  {
+    "slug": "phenazopyridine-hcl",
+    "canonical": "phenazopyridine hcl",
+    "names": [
+      "phenazopyridine hcl",
+      "wallgreens maximum strength urinary pain relief",
+      "active ingredient phenazopyridine hcl 99 5 mg",
+      "purpose urinary analgesic"
     ],
     "atc": null
   },
