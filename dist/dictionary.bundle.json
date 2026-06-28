@@ -13757,7 +13757,10 @@
       "selenium sulfide",
       "walgreens dandruff maximum strength anti dandruff",
       "active ingredient selenium sulfide 1",
-      "purpose anti dandruff"
+      "purpose anti dandruff",
+      "dermoia seborrheic dermatitis selenium sulfide",
+      "active ingredients selenium sulfide 1 0 purpose seborrheic dermatitis",
+      "purpose seborrheic dermatitis"
     ],
     "atc": "D01AE13"
   },
@@ -44002,8 +44005,6 @@
       "octocrylene 10",
       "neutrogena beach defense water plus sun protection sunscreen broad spectrum spf 50",
       "active ingredients purpose avobenzone 3 sunscreen homosalate 10 sunscreen octisalate 5 sunscreen octocrylene 10 sunscreen",
-      "broad spectrum spf15 very water resistant sunscreen",
-      "active ingredients avobenzone 3 homosalate 7 34 octocrylene 5 octyl salicylate 5 purpose sunscreen",
       "coppertone everytone face sunscreen spf 55",
       "coppertone sport face spf 60 plus sunscreen",
       "men scented sunscreen spf 50 woodsman slam",
@@ -44511,8 +44512,6 @@
       "dermaroller sunscreen spf 30",
       "drug facts active ingredients purpose titanium dioxide 10 20 sunscreen zinc oxide 3 70 sunscreen",
       "uses helps prevent sunburn higher spf gives more sunburn protection provides moderate protection against sunburn",
-      "broad spectrum water resistant spf 50 mineral sunscreen babies",
-      "active ingredients titanium dioxide 10 zinc oxide 10 purpose sunscreen",
       "active ingredients titanium dioxide 3 7 purpose sunscreen zinc oxide 14 purpose sunscreen",
       "sun protect"
     ],
@@ -48885,7 +48884,9 @@
       "brimonidine tartrate",
       "lumify redness reliever eye",
       "active ingredient brimonidine tartrate",
-      "purpose redness reliever"
+      "purpose redness reliever",
+      "timolol maleate",
+      "timolol maleate ophthalmic"
     ],
     "atc": null
   },
@@ -48945,6 +48946,14 @@
       "hot flashes",
       "feelings of indifference claims based on traditional homeopathic practice",
       "not accepted medical evidence not fda evaluated"
+    ],
+    "atc": null
+  },
+  {
+    "slug": "glycopyrrolate",
+    "canonical": "glycopyrrolate",
+    "names": [
+      "glycopyrrolate"
     ],
     "atc": null
   },
@@ -49817,14 +49826,6 @@
       "active ingredients active ingredients purposes zinc gluconate 1x hpus cold remedy sambucus nigra 1x hpus promotes immune support avena sativa l 2x hpus helps with general debility",
       "fatigue rosa canina 2x hpus promotes immune support echinacea purpurea 3x hpus promotes immune support the letters hpus indicate that the active ingredient is in the official homeopathic pharmacopeia of the united states",
       "purposes purposes"
-    ],
-    "atc": null
-  },
-  {
-    "slug": "glycopyrrolate",
-    "canonical": "glycopyrrolate",
-    "names": [
-      "glycopyrrolate"
     ],
     "atc": null
   },
