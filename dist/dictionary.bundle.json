@@ -15316,13 +15316,12 @@
       "active ingredient chloroxylenol",
       "0 5 purpose antibacterial",
       "purpose antibacterial",
-      "simplify antibacterial hand apple blossom scent",
-      "active ingredient chloroxylenol 0 30",
-      "purpose antibacterial hand soap",
       "gojo rich pink antibacterial ltn sp",
       "active ingredient chloroxylenol 0 3",
       "purpose antimicrobial",
-      "dawn ultra antibacterial hand apple blossom scent"
+      "dawn ultra antibacterial hand apple blossom scent",
+      "active ingredient chloroxylenol 0 30",
+      "purpose antibacterial hand soap"
     ],
     "atc": "D08AE05"
   },
@@ -37221,8 +37220,8 @@
     "atc": "R05CA02"
   },
   {
-    "slug": "up",
-    "canonical": "up",
+    "slug": "mucinex",
+    "canonical": "mucinex",
     "names": [
       "guaifenesin",
       "active ingredient guaifenesin 1200 mg",
@@ -37243,9 +37242,7 @@
       "active ingredient guaifenesin",
       "usp 100 mg",
       "usp 1200 mg",
-      "topco mucus relief",
-      "up",
-      "up mucus relief"
+      "topco mucus relief"
     ],
     "atc": "R05CA03"
   },
@@ -42263,7 +42260,6 @@
       "jabonito kids green apple liquid",
       "dermadive ultracare tetraid",
       "purpose antimicrobial",
-      "simplify antibacterial hand wipes",
       "ecolab",
       "active ingredient benzalkonium cl",
       "0 55",
@@ -42368,10 +42364,6 @@
       "good sense daytime non drowsy cold",
       "active ingredients acetaminophen 325 mg dextromethorphan hbr 10 mg phenylephrine hcl 5 mg",
       "tylenol extra strength",
-      "doxylamine succinate",
-      "night time cold",
-      "active ingredients acetaminophen 650 mg dextromethorphan hbr 30 mg doxylamine succinate 12 5 mg",
-      "fever reducer cough suppressant antihistamine",
       "pain relief pm",
       "diphenhydramine",
       "active ingredients acetaminophen 500 mg diphenhydramine 25 mg",
@@ -42384,6 +42376,9 @@
       "coltalin",
       "active ingredients acetaminophen 325 mg chlorpheniramine maleate 2 mg phenylephrine hcl 5 mg",
       "purposes pain reliever fever reducer antihistamine nasal decongestant",
+      "tussin cf severe",
+      "active ingredients acetaminophen 650 mg dextromethorphan hbr 20 mg guaifenesin 400 mg",
+      "fever reducer cough suppressant expectorant",
       "cold",
       "fever reducer dextromethorphan hbr 10 mg cough suppressant guaifenesin 200 mg expectorant phenylephrine hcl 5 mg nasal decongestant",
       "panadol pm",
@@ -42398,9 +42393,12 @@
       "active ingredients acetaminophen 325 mg guaifenesin 200 mg phenylephrine hcl 5 mg",
       "fever reducer expectorant nasal decongestant",
       "hydrocodone bitartrate",
+      "doxylamine succinate",
       "nighttime cold",
       "flu relief",
       "acetaminophen dextromethorphan hbr doxylamine succinate",
+      "active ingredients acetaminophen 650 mg dextromethorphan hbr 30 mg doxylamine succinate 12 5 mg",
+      "fever reducer cough suppressant antihistamine",
       "500mg",
       "purpose pain releiver",
       "cafizetamol forte",
@@ -43538,6 +43536,9 @@
       "aleve",
       "foster",
       "thrive all day pain relief",
+      "aleve caplets",
+      "aleve caplets soft grip arthritis",
+      "aleve caplets easy open arthritis",
       "ana dent pain relief",
       "active ingredients naproxen na 220 mg nonsteroidal anti inflammatory drug",
       "flanax pain reliever"
@@ -43861,13 +43862,9 @@
       "olay regenerist regenerating with sunscreen broad spectrum spf 15",
       "active ingredients purpose avobenzone 3 0 sunscreen homosalate 4 0 sunscreen octisalate 4 5 sunscreen octocrylene 2 6 sunscreen",
       "octinoxate",
-      "nu skin sunright lip balm broad spectrum spf 15",
-      "active ingredient avobenzone 3 0",
-      "octinoxate 7 5",
-      "octocrylene 2 79",
-      "purpose sunscreen",
       "medichoice moisturizing lip balm spf15",
       "active ingredients avobenzone 3 0 octinoxate 6 5 octisalate 5 0 octocrylene 1 5 purpose sunscreen",
+      "purpose sunscreen",
       "triple prep spf 40",
       "active ingredients avobenzone 3",
       "homosalate 7",
@@ -44290,6 +44287,10 @@
       "active ingredient menthol 5",
       "icy hot medicated",
       "back",
+      "active ingredient single patch pouch menthol 5",
+      "active ingredient five count patch pouch menthol 5",
+      "purpose single patch pouch topical analgesic",
+      "purpose five count patch pouch topical analgesic",
       "vicks vapocool severe",
       "active ingredients menthol 20 mg purpose anesthetic",
       "purpose anesthetic",
@@ -47216,9 +47217,16 @@
       "antihistamine",
       "cetirizine hcl 10 mg",
       "active ingredient cetirizine hcl 10 mg purpose antihistamine",
-      "careall cetirizine hcl",
-      "cetirizine 10mg",
       "careone childrens allergy relief"
+    ],
+    "atc": null
+  },
+  {
+    "slug": "cetirizine-10mg",
+    "canonical": "cetirizine 10mg",
+    "names": [
+      "cetirizine 10mg",
+      "antihistamine"
     ],
     "atc": null
   },
