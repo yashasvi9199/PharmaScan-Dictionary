@@ -38,7 +38,6 @@
       "active ingredient na fluoride 0 24 0 15 w",
       "colgate max fresh advanced whitening",
       "gelato apf",
-      "colgate junior kids batman mild bubble fruit fluoride",
       "crest kids sparklefun bubblegum",
       "active ingredient na fluoride 0 243 0 15 w",
       "purpose anticavity toothpaste",
@@ -27980,12 +27979,10 @@
     "atc": "L04AJ"
   },
   {
-    "slug": "bkemv",
-    "canonical": "bkemv",
+    "slug": "eculizumab",
+    "canonical": "eculizumab",
     "names": [
-      "eculizumab",
-      "bkemv",
-      "eculizumab aeeb"
+      "eculizumab"
     ],
     "atc": "L04AJ01"
   },
@@ -44467,6 +44464,15 @@
     "atc": null
   },
   {
+    "slug": "ropinirole-hcl",
+    "canonical": "ropinirole hcl",
+    "names": [
+      "ropinirole hcl",
+      "ropinirole"
+    ],
+    "atc": null
+  },
+  {
     "slug": "titanium-dioxide",
     "canonical": "titanium dioxide",
     "names": [
@@ -44880,8 +44886,6 @@
       "active ingredient ethyl alcohol 70 0 v",
       "hand sanitizer 8oz with aloe vera",
       "hand sanitizer 16 9oz with vitamin e",
-      "ben e keith hand cleaner",
-      "purpose antibacterial agent",
       "b pure moisturizing hand sanitizer honey crisp apple scented",
       "hand sanitizing wipes",
       "everyone hand sanitizer ruby grapefruit",
@@ -45644,6 +45648,20 @@
     "atc": null
   },
   {
+    "slug": "aura-lane-4-pc-hand-sanitizer-set-white-jasmine",
+    "canonical": "aura lane 4 pc hand sanitizer set white jasmine",
+    "names": [
+      "aura lane 4 pc hand sanitizer set white jasmine",
+      "velvet rose",
+      "orange blossom",
+      "freesia scent",
+      "ethyl alcohol",
+      "active ingredient ethyl alcohol 70",
+      "purpose antiseptic"
+    ],
+    "atc": null
+  },
+  {
     "slug": "oseltamivir-phosphate",
     "canonical": "oseltamivir phosphate",
     "names": [
@@ -46001,6 +46019,15 @@
     "atc": null
   },
   {
+    "slug": "paroxetine-hcl-hemihydrate",
+    "canonical": "paroxetine hcl hemihydrate",
+    "names": [
+      "paroxetine hcl hemihydrate",
+      "paroxetine"
+    ],
+    "atc": null
+  },
+  {
     "slug": "prednisolone-acetate",
     "canonical": "prednisolone acetate",
     "names": [
@@ -46122,14 +46149,6 @@
     "canonical": "naltrexone hcl",
     "names": [
       "naltrexone hcl"
-    ],
-    "atc": null
-  },
-  {
-    "slug": "ropinirole-hcl",
-    "canonical": "ropinirole hcl",
-    "names": [
-      "ropinirole hcl"
     ],
     "atc": null
   },
@@ -47054,14 +47073,6 @@
     "names": [
       "lice killing shampoo active ingredients piperonyl butoxide 4 pyrethrum extract",
       "purpose lice treatment"
-    ],
-    "atc": null
-  },
-  {
-    "slug": "megestrol-acetate",
-    "canonical": "megestrol acetate",
-    "names": [
-      "megestrol acetate"
     ],
     "atc": null
   },
@@ -48643,16 +48654,6 @@
       "30x inactive 20 alcohol in purified water",
       "complete exhaustion",
       "mental fatigue"
-    ],
-    "atc": null
-  },
-  {
-    "slug": "dapagliflozin-propanediol",
-    "canonical": "dapagliflozin propanediol",
-    "names": [
-      "dapagliflozin propanediol",
-      "farxiga",
-      "dapagliflozin"
     ],
     "atc": null
   },
