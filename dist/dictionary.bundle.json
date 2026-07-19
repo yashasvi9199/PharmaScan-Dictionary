@@ -2579,8 +2579,7 @@
       "usp 240 mg nasal decongestant",
       "active ingredient loratadine 10mg",
       "loratadine 10mg",
-      "antihistamine",
-      "xl 3 allergy"
+      "antihistamine"
     ],
     "atc": "A06AB02"
   },
@@ -27979,10 +27978,12 @@
     "atc": "L04AJ"
   },
   {
-    "slug": "eculizumab",
-    "canonical": "eculizumab",
+    "slug": "bkemv",
+    "canonical": "bkemv",
     "names": [
-      "eculizumab"
+      "eculizumab",
+      "bkemv",
+      "eculizumab aeeb"
     ],
     "atc": "L04AJ01"
   },
@@ -43181,9 +43182,6 @@
       "phoenix crushed mint",
       "rosemary 48h fresh",
       "apollo sage",
-      "mens speed stick fresh rush antiperspirant",
-      "deodorant",
-      "active ingredient aluminum zirconium tetrachlorohydrex gly 15 8",
       "old spice sharkhammer",
       "active ingredient aluminum zirconium tetrachlorohydrex gly 15",
       "old spice harbor",
@@ -43207,8 +43205,6 @@
       "odor protection antiperspirant",
       "anarchy dark pomegrante",
       "sandalwood 48h sweat",
-      "lady speed stick teen spirit pink crush",
-      "active ingredient aluminum zirconium tetrachlorohydrex gly 15 9",
       "sport 48h antiperspirant deodorant",
       "extreme blast 48h antiperspirant deodorant",
       "wild woods 48h antiperspirant deodorant",
@@ -45300,10 +45296,11 @@
       "active ingredients purposes dextromethorphan hbr",
       "usp 20 mg cough suppressant guaifenesin",
       "usp 200 mg expectorant",
-      "foster",
-      "thrive 12 hour cough relief",
+      "12 hr relief cough dm",
       "dextromethorphan polistirex",
       "active ingredient dextromethorphan polistirex equivalent to 30 mg dextromethorphan hydrobromide",
+      "foster",
+      "thrive 12 hour cough relief",
       "equaline mucus dm",
       "active ingredients dextromethorphan hbr 60 mg guaifenesin 1200 mg",
       "mucus relief dm caplets",
@@ -47077,6 +47074,14 @@
     "atc": null
   },
   {
+    "slug": "megestrol-acetate",
+    "canonical": "megestrol acetate",
+    "names": [
+      "megestrol acetate"
+    ],
+    "atc": null
+  },
+  {
     "slug": "dextran-70",
     "canonical": "dextran 70",
     "names": [
@@ -48654,6 +48659,16 @@
       "30x inactive 20 alcohol in purified water",
       "complete exhaustion",
       "mental fatigue"
+    ],
+    "atc": null
+  },
+  {
+    "slug": "dapagliflozin-propanediol",
+    "canonical": "dapagliflozin propanediol",
+    "names": [
+      "dapagliflozin propanediol",
+      "farxiga",
+      "dapagliflozin"
     ],
     "atc": null
   },
