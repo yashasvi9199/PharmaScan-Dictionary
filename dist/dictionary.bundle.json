@@ -57,10 +57,6 @@
       "active ingredient na fluoride 0 02 0 01 w",
       "curodont repair fluoride plus",
       "active ingredients na fluoride 0 05 0 02 w",
-      "ortho super chocolate fluoride mouthwash",
-      "anticavity mouthwash",
-      "active ingredient na fluoride 0 02",
-      "purpose na fluoride anticavity",
       "autobrush strawberry",
       "active ingredient na fluoride 0 24"
     ],
@@ -578,8 +574,8 @@
     "atc": "A01AC04"
   },
   {
-    "slug": "onion",
-    "canonical": "onion",
+    "slug": "hgh",
+    "canonical": "hgh",
     "names": [
       "epinephrine",
       "onion",
@@ -659,44 +655,19 @@
       "xanthium strumarium assist with the management of allergy symptoms",
       "adrenalinum decongestant claims based on traditional homeopathic practice",
       "not accepted medical evidence not fda evaluated",
-      "apis mellifera",
-      "aralia racemosa root",
-      "arundo pliniana root",
-      "baptisia tinctoria root",
-      "echinacea angustifolia whole",
-      "gelsemium sempervirens root",
-      "lycopodium clavatum spore",
-      "toxicodendron pubescens leaf",
-      "sanguinaria canadensis root",
-      "urtica urens whole",
-      "pollen distress",
-      "apis mellifica",
-      "aralia racemosa",
-      "arundo mauritanica",
-      "baptisia tinctoria",
-      "echinacea",
-      "gelsemium sempervirens",
-      "lycopodium clavatum",
-      "rhus tox",
-      "sanguinaria canadensis",
-      "urtica urens",
-      "active ingredients 6 67 of allium cepa 6x",
-      "apis mellifica 6x",
-      "aralia racemosa 6x",
-      "arundo mauritanica 30c",
-      "baptisia tinctoria 3x",
-      "echinacea 4x",
-      "euphrasia officinalis 6x",
-      "gelsemium sempervirens 200c",
-      "histaminum hydrochloricum 12x",
-      "lycopodium clavatum 6x",
-      "rhus tox 200c",
-      "sabadilla 6x",
-      "sanguinaria canadensis 200c",
-      "urtica urens 3x",
-      "200c",
-      "purpose may temporarily relieve these symptoms associated with seasonal pollen distress runny nose itchy",
-      "watery eyes rash headache sneezing claims based on traditional homeopathic practice"
+      "thyroid",
+      "insulin pork",
+      "sus scrofa pituitary gland",
+      "posterior",
+      "hgh",
+      "thyroidinum",
+      "insulinum",
+      "pituitiaria glandula",
+      "active ingredients adrenalinum 9x",
+      "thyroidinum 9x",
+      "insulinum 12c",
+      "pituitaria glandula 12c",
+      "recommended use homeopathic medicine"
     ],
     "atc": "A01AD01"
   },
@@ -1112,10 +1083,10 @@
     "canonical": "20 mg",
     "names": [
       "omeprazole",
-      "active ingredient omeprazole usp",
-      "20 mg",
+      "active ingredient omeprazole 20 mg",
       "purpose acid reducer",
-      "active ingredient omeprazole 20 mg"
+      "active ingredient omeprazole usp",
+      "20 mg"
     ],
     "atc": "A02BC01"
   },
@@ -2647,9 +2618,7 @@
       "active ingredients purpose loratadine",
       "usp 10 mg antihistamine pseudoephedrine sulphate",
       "usp 240 mg nasal decongestant",
-      "active ingredient loratadine 10mg",
-      "loratadine 10mg",
-      "antihistamine"
+      "active ingredient loratadine 10mg"
     ],
     "atc": "A06AB02"
   },
@@ -9618,15 +9587,12 @@
       "v",
       "purpose hair regrowth treatment for men",
       "kirkland signature minoxidil",
-      "gainxtra hair regrowth treatment for men",
-      "women minoxidil 5 form with biotin",
-      "w",
-      "women",
       "minoxidil extra strength for men",
       "1 bottle carton active ingredient minoxidil",
       "usp 5 w",
       "v 3 bottle carton active ingredient minoxidil 5 w",
-      "1 bottle carton purpose hair regrowth treatment for men 3 bottle carton purpose hair regrowth treatment"
+      "1 bottle carton purpose hair regrowth treatment for men 3 bottle carton purpose hair regrowth treatment",
+      "w"
     ],
     "atc": "C02DC01"
   },
@@ -16326,6 +16292,9 @@
       "purpose active ingredient purpose aspirin 325 mg nonsteroidal anti in ammatory drug pain reliever",
       "active ingredient purpose aspirin 325 mg nonsteroidal anti in ammatory drug pain reliever",
       "aspirin low dose",
+      "cardiaspirin protect",
+      "active ingredient aspirin 81 mg nonsteroidal anti inflammatory drug purpose active ingredient purpose aspirin 81mg pain reliever nonsteroidal ant inflammatory drug",
+      "purpose active ingredient purpose aspirin 81mg pain reliever nonsteroidal ant inflammatory drug",
       "heb effervescent pain relief",
       "active ingredient buffered aspirin 325 mg nonsteroidal anti inflammatory drug",
       "purpose buffered aspirin 325 mg pain reliever",
@@ -42470,7 +42439,6 @@
       "cold plus flu congestion severe",
       "active ingredients purpose acetaminophen 325 mg pain reliever",
       "fever reducer guaifenesin 200 mg expectorant phenylephrine hcl 5 mg nasal decongestant",
-      "sinus severe",
       "chlorpheniramine maleate",
       "coltalin",
       "active ingredients acetaminophen 325 mg chlorpheniramine maleate 2 mg phenylephrine hcl 5 mg",
@@ -43575,7 +43543,6 @@
       "dollar general",
       "active ingredient isopropyl alcohol 70 v",
       "v",
-      "sm swabalpha",
       "swap for disinfection",
       "gnp isopropyl alcohol 70 percent with wintergreen oil",
       "active ingredient isopropyl alcohol 70 by volume",
@@ -44109,8 +44076,6 @@
       "active ingredients zinc oxide 18 6",
       "allswell mineral sunscreen spf 30",
       "active ingredient zinc oxide 22",
-      "dr lift spf 50",
-      "active ingredients zinc oxide 9 86 octinoxate 7 5",
       "omega boost sheer mineral sunscreen",
       "mineral sunscreen",
       "active ingredient active ingredient zinc oxide",
@@ -44240,9 +44205,6 @@
       "menthol 10 5",
       "topical analgesic",
       "menthol 4",
-      "saint",
-      "cough",
-      "active ingredient menthol 3 2",
       "careall musle",
       "joint",
       "menthol 2 5",
@@ -44812,10 +44774,6 @@
       "sierra soft alcohol hand sanitizer",
       "active ingredient ethyl alcohol 70 purpose antibacterial",
       "purpose antibacterial",
-      "hand sanitizer",
-      "hand sanizizer",
-      "active ingredients ethyl alcohol 62",
-      "antiseptic",
       "instant hand sanitizer",
       "active ingredient ethyl alcohol 66 5",
       "ps 2362 hand sanitizer 0 9g packet",
@@ -44836,6 +44794,7 @@
       "careall hand sanitizer",
       "active ingredient ethyl alcohol 70 v",
       "smart care coco cabana hand sanitizer",
+      "antiseptic",
       "awas alcoholspray",
       "disinfection of hands",
       "skin",
@@ -44852,6 +44811,7 @@
       "lavender hand sanitizing wipes",
       "alcohol pad 01",
       "b pure moisturizing hand sanitizer alpine chalet scented",
+      "hand sanitizer",
       "hand sanitizer 8oz with vitamin e",
       "ethyl alcohol 70",
       "active ingredient ethyl alcohol 70 0 v",
@@ -45568,8 +45528,7 @@
     "canonical": "cromolyn na",
     "names": [
       "cromolyn na",
-      "gastrocrom",
-      "cromolyn na inhalation"
+      "gastrocrom"
     ],
     "atc": null
   },
@@ -45814,6 +45773,25 @@
     "names": [
       "hydrocortisone phenol",
       "purpose external analgesic astringent"
+    ],
+    "atc": null
+  },
+  {
+    "slug": "metoprolol-tartrate",
+    "canonical": "metoprolol tartrate",
+    "names": [
+      "metoprolol tartrate",
+      "metoprolol",
+      "lopressor"
+    ],
+    "atc": null
+  },
+  {
+    "slug": "metoprolol-succinate",
+    "canonical": "metoprolol succinate",
+    "names": [
+      "metoprolol succinate",
+      "metoprolol succinate er"
     ],
     "atc": null
   },
@@ -46419,25 +46397,6 @@
     "atc": null
   },
   {
-    "slug": "metoprolol-tartrate",
-    "canonical": "metoprolol tartrate",
-    "names": [
-      "metoprolol tartrate",
-      "lopressor",
-      "metoprolol"
-    ],
-    "atc": null
-  },
-  {
-    "slug": "metoprolol-succinate",
-    "canonical": "metoprolol succinate",
-    "names": [
-      "metoprolol succinate",
-      "metoprolol succinate er"
-    ],
-    "atc": null
-  },
-  {
     "slug": "59-2-ml-active-ingredient-active-ingredient",
     "canonical": "59 2 ml active ingredient active ingredient",
     "names": [
@@ -46754,6 +46713,14 @@
       "active ingredient sabal serrulata hpus 1x",
       "higher",
       "uses uses temporary relief running nose claims based on traditional homeopathic practice"
+    ],
+    "atc": null
+  },
+  {
+    "slug": "metaxalone",
+    "canonical": "metaxalone",
+    "names": [
+      "metaxalone"
     ],
     "atc": null
   },
@@ -47694,8 +47661,7 @@
     "slug": "succinylcholine-cl",
     "canonical": "succinylcholine cl",
     "names": [
-      "succinylcholine cl",
-      "anectine"
+      "succinylcholine cl"
     ],
     "atc": null
   },
@@ -49045,15 +49011,6 @@
     "atc": null
   },
   {
-    "slug": "hyoscyamine-sulphate",
-    "canonical": "hyoscyamine sulphate",
-    "names": [
-      "hyoscyamine sulphate",
-      "hyoscyamine er"
-    ],
-    "atc": null
-  },
-  {
     "slug": "anagallis-arvensis-whole",
     "canonical": "anagallis arvensis whole",
     "names": [
@@ -49618,14 +49575,6 @@
     "atc": null
   },
   {
-    "slug": "metaxalone",
-    "canonical": "metaxalone",
-    "names": [
-      "metaxalone"
-    ],
-    "atc": null
-  },
-  {
     "slug": "chlorpromazine-hcl",
     "canonical": "chlorpromazine hcl",
     "names": [
@@ -49841,14 +49790,6 @@
       "active ingredients purpose calcarea sulphurica 6x hpus skin disorders",
       "minor skin eruptions",
       "slow healing wounds hpus is the homeopathic pharmacopoeia of the united states"
-    ],
-    "atc": null
-  },
-  {
-    "slug": "boron",
-    "canonical": "boron",
-    "names": [
-      "boron"
     ],
     "atc": null
   },
@@ -50558,6 +50499,60 @@
     "atc": null
   },
   {
+    "slug": "onion",
+    "canonical": "onion",
+    "names": [
+      "onion",
+      "apis mellifera",
+      "aralia racemosa root",
+      "arundo pliniana root",
+      "baptisia tinctoria root",
+      "echinacea angustifolia whole",
+      "euphrasia stricta",
+      "gelsemium sempervirens root",
+      "histamine dihydrochloride",
+      "lycopodium clavatum spore",
+      "toxicodendron pubescens leaf",
+      "schoenocaulon officinale seed",
+      "sanguinaria canadensis root",
+      "urtica urens whole",
+      "pollen distress",
+      "allium cepa",
+      "apis mellifica",
+      "aralia racemosa",
+      "arundo mauritanica",
+      "baptisia tinctoria",
+      "echinacea",
+      "euphrasia officinalis",
+      "gelsemium sempervirens",
+      "histaminum hydrochloricum",
+      "lycopodium clavatum",
+      "rhus tox",
+      "sabadilla",
+      "sanguinaria canadensis",
+      "urtica urens",
+      "active ingredients 6 67 of allium cepa 6x",
+      "apis mellifica 6x",
+      "aralia racemosa 6x",
+      "arundo mauritanica 30c",
+      "baptisia tinctoria 3x",
+      "echinacea 4x",
+      "euphrasia officinalis 6x",
+      "gelsemium sempervirens 200c",
+      "histaminum hydrochloricum 12x",
+      "lycopodium clavatum 6x",
+      "rhus tox 200c",
+      "sabadilla 6x",
+      "sanguinaria canadensis 200c",
+      "urtica urens 3x",
+      "200c",
+      "purpose may temporarily relieve these symptoms associated with seasonal pollen distress runny nose itchy",
+      "watery eyes rash headache sneezing claims based on traditional homeopathic practice",
+      "not accepted medical evidence not fda evaluated"
+    ],
+    "atc": null
+  },
+  {
     "slug": "phenytoin-na",
     "canonical": "phenytoin na",
     "names": [
@@ -50740,6 +50735,15 @@
       "h protect body",
       "active ingredients ensulizole 1 700 octisalate 5 000 zinc oxide 16 555 purpose sunscreen",
       "purpose sunscreen"
+    ],
+    "atc": null
+  },
+  {
+    "slug": "sugammadex-na",
+    "canonical": "sugammadex na",
+    "names": [
+      "sugammadex na",
+      "sugammadex"
     ],
     "atc": null
   },
@@ -52400,14 +52404,6 @@
     "atc": null
   },
   {
-    "slug": "tolterodine-tartrate",
-    "canonical": "tolterodine tartrate",
-    "names": [
-      "tolterodine tartrate"
-    ],
-    "atc": null
-  },
-  {
     "slug": "quercus-alba-whole",
     "canonical": "quercus alba whole",
     "names": [
@@ -52476,14 +52472,6 @@
       "prunus avium 6x",
       "for contitutional treatments based on homeopathic",
       "anthroposophic indications or as directed by your physician"
-    ],
-    "atc": null
-  },
-  {
-    "slug": "methenamine-hippurate",
-    "canonical": "methenamine hippurate",
-    "names": [
-      "methenamine hippurate"
     ],
     "atc": null
   },
