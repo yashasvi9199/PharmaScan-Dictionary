@@ -546,10 +546,10 @@
       "equate cortisone",
       "hydrocortisone 1",
       "dermarest eczema medicated",
-      "drug facts active ingredients hydrocortisone",
-      "usp 1",
       "hydrocortisone with aloe",
       "hydrocortisone with aloe anti itch",
+      "drug facts active ingredients hydrocortisone",
+      "usp 1",
       "truelipids 1 hydrocortisone barrier",
       "active ingredient purpose hydrocortisone 1 anti itch",
       "uses temporarily relieves itching associated with minor skin irritations",
@@ -42443,6 +42443,11 @@
       "coltalin",
       "active ingredients acetaminophen 325 mg chlorpheniramine maleate 2 mg phenylephrine hcl 5 mg",
       "purposes pain reliever fever reducer antihistamine nasal decongestant",
+      "doxylamine succinate",
+      "nyquil cold",
+      "flu vapo cool coated",
+      "active ingredients acetaminophen 325 mg dextromethorphan hbr 10 mg doxylamine succinate 6 25 mg purpose pain reliever",
+      "fever reducer cough suppressant antihistamine",
       "tussin cf severe",
       "active ingredients acetaminophen 650 mg dextromethorphan hbr 20 mg guaifenesin 400 mg",
       "fever reducer cough suppressant expectorant",
@@ -42454,12 +42459,10 @@
       "tylenol regular strength",
       "active ingredient acetaminophen 325 mg",
       "codeine phosphate",
-      "doxylamine succinate",
       "nighttime cold",
       "flu relief",
       "acetaminophen dextromethorphan hbr doxylamine succinate",
       "active ingredients acetaminophen 650 mg dextromethorphan hbr 30 mg doxylamine succinate 12 5 mg",
-      "fever reducer cough suppressant antihistamine",
       "500mg",
       "purpose pain releiver",
       "cafizetamol forte",
@@ -46301,6 +46304,41 @@
     "atc": null
   },
   {
+    "slug": "american-ginseng",
+    "canonical": "american ginseng",
+    "names": [
+      "american ginseng",
+      "ginkgo",
+      "centella asiatica whole",
+      "pork brain",
+      "sus scrofa hypothalamus",
+      "sus scrofa pituitary gland",
+      "posterior",
+      "phosphorus",
+      "silicon dioxide",
+      "hypothalmu stim",
+      "aralia quinquefolia",
+      "ginkgo biloba",
+      "hydrocotyle asiatica",
+      "brain",
+      "hypothalamus",
+      "pituitary",
+      "active ingredients aralia quinquefolia 3x",
+      "ginkgo biloba 3x",
+      "hydrocotyle asiatica 3x",
+      "brain 6x",
+      "hypothalamus 6x",
+      "pituitary 6x",
+      "phosphorus 12x",
+      "silicea 12x",
+      "indications for temporary relief of weakness",
+      "exhaustion",
+      "vertigo",
+      "difficult mental concentration"
+    ],
+    "atc": null
+  },
+  {
     "slug": "hypromellose-2208",
     "canonical": "hypromellose 2208",
     "names": [
@@ -46771,9 +46809,7 @@
     "slug": "metformin-hcl",
     "canonical": "metformin hcl",
     "names": [
-      "metformin hcl",
-      "metformin",
-      "metformin er 500 mg"
+      "metformin hcl"
     ],
     "atc": null
   },
@@ -47661,7 +47697,8 @@
     "slug": "succinylcholine-cl",
     "canonical": "succinylcholine cl",
     "names": [
-      "succinylcholine cl"
+      "succinylcholine cl",
+      "anectine"
     ],
     "atc": null
   },
@@ -48890,8 +48927,7 @@
     "names": [
       "oxycodone hcl",
       "acetaminophen",
-      "oxycodone",
-      "endocet"
+      "oxycodone"
     ],
     "atc": null
   },
@@ -50856,6 +50892,36 @@
     "atc": null
   },
   {
+    "slug": "daytime-nighttime-intense-flu-relief",
+    "canonical": "daytime nighttime intense flu relief",
+    "names": [
+      "daytime nighttime intense flu relief",
+      "acetaminophen",
+      "dextromethorphan hydrobromide",
+      "doxylamine succinate",
+      "active ingredients acetaminophen 1000 mg dextromethorphan hbr 30 mg doxylamine succinate 12 5 mg",
+      "active ingredients acetaminophen 1000 mg dextromethorphan hbr 30 mg",
+      "purpose pain reliever",
+      "fever reducer cough suppressant antihistamine",
+      "fever reducer cough suppressant"
+    ],
+    "atc": null
+  },
+  {
+    "slug": "daytime",
+    "canonical": "daytime",
+    "names": [
+      "daytime",
+      "nighttime cold",
+      "flu kit",
+      "active ingredient daytime only acetaminophen 325mg dextromethorphan hbr 10mg nighttime only acetaminophen 325mg dextromethorphan hbr 15mg doxylamine succinate 6 25mg",
+      "purpose daytime only pain reliever",
+      "fever reducer cough suppressant nighttime only pain reliever",
+      "fever reducer cough suppressant antihistamine"
+    ],
+    "atc": null
+  },
+  {
     "slug": "vanadium-bromide",
     "canonical": "vanadium bromide",
     "names": [
@@ -52192,20 +52258,6 @@
     "canonical": "ustekinumab aekn",
     "names": [
       "ustekinumab aekn"
-    ],
-    "atc": null
-  },
-  {
-    "slug": "daytime",
-    "canonical": "daytime",
-    "names": [
-      "daytime",
-      "nighttime cold",
-      "flu kit",
-      "active ingredient daytime only acetaminophen 325mg dextromethorphan hbr 10mg nighttime only acetaminophen 325mg dextromethorphan hbr 15mg doxylamine succinate 6 25mg",
-      "purpose daytime only pain reliever",
-      "fever reducer cough suppressant nighttime only pain reliever",
-      "fever reducer cough suppressant antihistamine"
     ],
     "atc": null
   },
