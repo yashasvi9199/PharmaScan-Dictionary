@@ -34802,8 +34802,7 @@
       "14 mg delivered over 24 hours",
       "active ingredient step 3 nicotine",
       "7 mg delivered over 24 hours",
-      "nicotine mini",
-      "active ingredient nicotine polacrilex 4 mg nicotine polacrilex 2 mg"
+      "nicotine mini"
     ],
     "atc": "N07BA01"
   },
@@ -45549,14 +45548,6 @@
     "canonical": "doxorubicin hcl",
     "names": [
       "doxorubicin hcl"
-    ],
-    "atc": null
-  },
-  {
-    "slug": "palonosetron-hcl",
-    "canonical": "palonosetron hcl",
-    "names": [
-      "palonosetron hcl"
     ],
     "atc": null
   },
