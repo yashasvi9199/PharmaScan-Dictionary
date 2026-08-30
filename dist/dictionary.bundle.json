@@ -16297,6 +16297,9 @@
       "purpose active ingredient purpose aspirin 325 mg nonsteroidal anti in ammatory drug pain reliever",
       "active ingredient purpose aspirin 325 mg nonsteroidal anti in ammatory drug pain reliever",
       "aspirin low dose",
+      "cardiaspirin protect",
+      "active ingredient aspirin 81 mg nonsteroidal anti inflammatory drug purpose active ingredient purpose aspirin 81mg pain reliever nonsteroidal ant inflammatory drug",
+      "purpose active ingredient purpose aspirin 81mg pain reliever nonsteroidal ant inflammatory drug",
       "heb effervescent pain relief",
       "active ingredient buffered aspirin 325 mg nonsteroidal anti inflammatory drug",
       "purpose buffered aspirin 325 mg pain reliever",
@@ -44833,9 +44836,7 @@
       "hand sanitizer 2oz 2pk lemon",
       "hand sanitizer 2oz 2pk lavender",
       "hand sanitizer cucumber aloe",
-      "organic ethyl alcohol",
-      "kay actigel hand sanitizer",
-      "active ingredient ethanol 60 by volume"
+      "organic ethyl alcohol"
     ],
     "atc": null
   },
@@ -47052,6 +47053,8 @@
       "nasal decongestant pe",
       "active ingredient phenylephrine hcl 10 mg",
       "purpose nasal decongestant",
+      "nasal",
+      "active ingredient phenylephrine hcl 1",
       "dextromethorphan hydrobromide",
       "guaifenesin",
       "acetaminophen",
@@ -48513,6 +48516,16 @@
       "sprinsol",
       "active ingredients chlorpheniramine maleate 4 mg",
       "purpose antihistamine",
+      "dextromethorphan hydrobromide",
+      "cvs childrens cough",
+      "cold",
+      "dextrometrorphan hbr",
+      "active ingredients chlorpheniramine maleate",
+      "usp 2 mg dextromethorphan hbr",
+      "usp 15 mg",
+      "purposes antihistamine cough suppressant uses temporarily relieves cough due to minor throat",
+      "bronchial irritation as may occur with a cold temporarily relieves these symptoms due to hay fever or other upper respiratory allergies runny nose sneezing itchy",
+      "watery eyes itching of the nose or throat",
       "aller chlor",
       "active ingredient chlorpheniramine maleate 4 mg"
     ],
@@ -50759,8 +50772,7 @@
     "slug": "sugammadex-na",
     "canonical": "sugammadex na",
     "names": [
-      "sugammadex na",
-      "sugammadex"
+      "sugammadex na"
     ],
     "atc": null
   },
