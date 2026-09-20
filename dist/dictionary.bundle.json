@@ -2881,15 +2881,13 @@
     "atc": "A06AD18"
   },
   {
-    "slug": "citroma",
-    "canonical": "citroma",
+    "slug": "magnesium-citrate",
+    "canonical": "magnesium citrate",
     "names": [
       "magnesium citrate",
       "magnesium citrate saline laxative grape flavor",
       "active ingredient magnesium citrate 1 745 g",
-      "purpose saline laxative",
-      "citroma",
-      "active ingredient magnesium citrate 1 745g"
+      "purpose saline laxative"
     ],
     "atc": "A06AD19"
   },
@@ -34832,8 +34830,7 @@
       "active ingredient step 2 nicotine",
       "14 mg delivered over 24 hours",
       "active ingredient step 3 nicotine",
-      "7 mg delivered over 24 hours",
-      "nicotine mini"
+      "7 mg delivered over 24 hours"
     ],
     "atc": "N07BA01"
   },
@@ -42469,10 +42466,6 @@
       "cold plus flu congestion severe",
       "active ingredients purpose acetaminophen 325 mg pain reliever",
       "fever reducer guaifenesin 200 mg expectorant phenylephrine hcl 5 mg nasal decongestant",
-      "chlorpheniramine maleate",
-      "coltalin",
-      "active ingredients acetaminophen 325 mg chlorpheniramine maleate 2 mg phenylephrine hcl 5 mg",
-      "purposes pain reliever fever reducer antihistamine nasal decongestant",
       "tussin cf severe",
       "active ingredients acetaminophen 650 mg dextromethorphan hbr 20 mg guaifenesin 400 mg",
       "fever reducer cough suppressant expectorant",
@@ -42565,6 +42558,7 @@
       "tension headache relief",
       "childrens tukol acetaminophen fever reducer pain reducer",
       "drug facts active ingredient acetaminophen 160 mg",
+      "chlorpheniramine maleate",
       "vicks formula 44dm nighttime cough",
       "active ingredients acetaminophen 650 mg chlorpheniramine maleate 4 mg dextromethorphan hbr 30 mg purpose pain reliever",
       "fever reducer antihistamine cough suppressant",
@@ -46006,17 +46000,6 @@
     "atc": null
   },
   {
-    "slug": "pseudoephedrine-hcl",
-    "canonical": "pseudoephedrine hcl",
-    "names": [
-      "pseudoephedrine hcl",
-      "active ingredient pseudoephedrine hcl",
-      "usp 120 mg",
-      "purpose nasal decongestant"
-    ],
-    "atc": null
-  },
-  {
     "slug": "tetracycline-hcl",
     "canonical": "tetracycline hcl",
     "names": [
@@ -48540,6 +48523,17 @@
     "atc": null
   },
   {
+    "slug": "pseudoephedrine-hcl",
+    "canonical": "pseudoephedrine hcl",
+    "names": [
+      "pseudoephedrine hcl",
+      "active ingredient pseudoephedrine hcl",
+      "usp 120 mg",
+      "purpose nasal decongestant"
+    ],
+    "atc": null
+  },
+  {
     "slug": "croton-oil",
     "canonical": "croton oil",
     "names": [
@@ -49418,14 +49412,6 @@
       "active ingredient bacitracin zinc",
       "purpose section external analgesic",
       "purpose first aid antibiotic"
-    ],
-    "atc": null
-  },
-  {
-    "slug": "metyrosine",
-    "canonical": "metyrosine",
-    "names": [
-      "metyrosine"
     ],
     "atc": null
   },
@@ -50517,14 +50503,6 @@
       "omeprazole",
       "active ingredient omeprazole delayed 20 mg",
       "purpose acid reducer"
-    ],
-    "atc": null
-  },
-  {
-    "slug": "methylphenidate-hcl",
-    "canonical": "methylphenidate hcl",
-    "names": [
-      "methylphenidate hcl"
     ],
     "atc": null
   },
