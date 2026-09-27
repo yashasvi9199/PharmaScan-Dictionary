@@ -5292,23 +5292,13 @@
     "atc": "A12CB01"
   },
   {
-    "slug": "rosa-canina",
-    "canonical": "rosa canina",
+    "slug": "zinc-gluconate",
+    "canonical": "zinc gluconate",
     "names": [
       "zinc gluconate",
       "cold eeze cold remedy",
       "active ingredient active ingredient zinc gluconate 2x hpus the letters hpus indicate that the active ingredient is in the official homeopathic pharmacopeia of the united states",
       "purposes cold remedy",
-      "sambucus nigra flower",
-      "avena sativa flowering top",
-      "echinacea purpurea",
-      "rosa canina fruit",
-      "sambucus nigra",
-      "avena sativa l",
-      "rosa canina",
-      "active ingredients active ingredients purposes zinc gluconate 1x hpus cold remedy sambucus nigra 1x hpus promotes immune support avena sativa l 2x hpus helps with general debility",
-      "fatigue rosa canina 2x hpus promotes immune support echinacea purpurea 3x hpus promotes immune support the letters hpus indicate that the active ingredient is in the official homeopathic pharmacopeia of the united states",
-      "purposes purposes",
       "cold eeze cold remedy ultramelt chews",
       "active ingredient active ingredient zinc gluconate 1x hpus the letters hpus indicate that the active ingredient is in the official homeopathic pharmacopeia of the united states"
     ],
@@ -13733,14 +13723,11 @@
       "aha",
       "bha swipes",
       "resurfacing treatment pads",
-      "liquid corn",
-      "callus remover",
-      "active ingredient salicylic acid 17 w",
-      "purpose corn",
       "shailee psoriasis treatment",
       "active ingredient purpose salicylic acid 3 psoriasis",
       "dandruff seborrheic dermatitis",
       "wart remover liquid",
+      "active ingredient salicylic acid 17 w",
       "purpose wart remover",
       "even better clinical acne solutions",
       "active ingredients salicylic acid 0 5",
@@ -13756,6 +13743,9 @@
       "active ingredient salicylic acid 40",
       "purpose callus remover",
       "medicated callus removers extra thick",
+      "liquid corn",
+      "callus remover",
+      "purpose corn",
       "oil free daily face eqb",
       "salicylic acid 2",
       "active ingreient purpose salicylic acid 2 acne medication",
@@ -13769,7 +13759,6 @@
       "wart removers",
       "compound w liquid first aid",
       "crystal clear acne treatment pads",
-      "anna lotan purifying pads with 2 salicylic acid",
       "acne",
       "vichy laboratoires normaderm acne control moisturizer",
       "liquid callus remover",
@@ -42558,10 +42547,6 @@
       "tension headache relief",
       "childrens tukol acetaminophen fever reducer pain reducer",
       "drug facts active ingredient acetaminophen 160 mg",
-      "chlorpheniramine maleate",
-      "vicks formula 44dm nighttime cough",
-      "active ingredients acetaminophen 650 mg chlorpheniramine maleate 4 mg dextromethorphan hbr 30 mg purpose pain reliever",
-      "fever reducer antihistamine cough suppressant",
       "vitapirena",
       "active ingredient purposes active ingredient purposes acetaminophen 500 mg pain reliever",
       "active ingredient purposes acetaminophen 500 mg pain reliever",
@@ -43986,12 +43971,6 @@
       "active ingredients avobenzone 2 0",
       "homosalate 3 5",
       "octisalate 2 0",
-      "neutrogena sport active defense spf 70",
-      "active ingredients purpose avobenzone",
-      "sunscreen homosalate",
-      "sunscreen octisalate",
-      "sunscreen octocrylene sunscreen",
-      "neutrogena sport active defense spf 30",
       "trader joes face",
       "body sunscreen spf 30",
       "active ingredient avobenzone 3 homosalate 10 octisalate 5 octocrylene 7"
@@ -44522,14 +44501,6 @@
     "atc": null
   },
   {
-    "slug": "divalproex-na",
-    "canonical": "divalproex na",
-    "names": [
-      "divalproex na"
-    ],
-    "atc": null
-  },
-  {
     "slug": "metoclopramide-hcl",
     "canonical": "metoclopramide hcl",
     "names": [
@@ -44807,7 +44778,6 @@
       "v",
       "purpose skin sanitizer",
       "amcon labs hand sanitizer instant foam sanitizer with alcohol",
-      "amcon labs hand sanitizer fragrance free sanitizer",
       "xtracare cucumber melon",
       "active ingredient purpose ethyl alcohol 62 0 antimicrobial",
       "uses for handwashing to decrease bacteria on the skin recommended for repeated use",
@@ -45192,11 +45162,10 @@
       "active ingredients purposes dextromethorphan hbr",
       "usp 20 mg cough suppressant guaifenesin",
       "usp 200 mg expectorant",
-      "12 hr relief cough dm",
-      "dextromethorphan polistirex",
-      "active ingredient dextromethorphan polistirex equivalent to 30 mg dextromethorphan hydrobromide",
       "foster",
       "thrive 12 hour cough relief",
+      "dextromethorphan polistirex",
+      "active ingredient dextromethorphan polistirex equivalent to 30 mg dextromethorphan hydrobromide",
       "mucus relief dm caplets",
       "active ingredients dextromethorphan hbr 60 mg guaifenesin 1200 mg",
       "mucus relief cold flu sore throat maximum strength",
@@ -46631,7 +46600,6 @@
       "fluticasone propionate nasal",
       "active ingredient fluticasone propionate 50 mcg read the question answer leaflet",
       "purpose allergy symptom reliever",
-      "active ingredient fluticasone propionate 50 mcg",
       "salmeterol xinafoate",
       "salmeterol",
       "flovent diskus",
@@ -47571,88 +47539,6 @@
     "atc": null
   },
   {
-    "slug": "arnica-montana",
-    "canonical": "arnica montana",
-    "names": [
-      "arnica montana",
-      "tagrid arnica bruise arnica montana 1x hpus",
-      "arnica montana 1x hpus",
-      "active ingredient arnica montana 1x hpus",
-      "purpuse bruise relief hpus indicates that this ingredient is officially monographed in the homeopathic pharmacopoeia of the united states"
-    ],
-    "atc": null
-  },
-  {
-    "slug": "arnica-montana-3c",
-    "canonical": "arnica montana 3c",
-    "names": [
-      "arnica montana 3c",
-      "arum triphyllum 3c",
-      "belladonna 3c",
-      "bromium 3c",
-      "bryonia alba 3c",
-      "mercuris solubilis 4c",
-      "phytolacca decandra 3c",
-      "pulsatilla 3c",
-      "spongia tosta 3c",
-      "arnica montana 3c relieves hoarseness due to overexertion of the vocal cords arum triphyllum 3c relieves vocal cord fatigue in speakers",
-      "singers belladonna 3c relieves red",
-      "sore throat bromium 3c relieves swollen",
-      "painful tonsils bryonia alba 3c relieves sore throat with intense thirst mercuris solubilis 4c relieves sore throat with intense salivation phytolacca decandra 3c relieves sore throat with pain spreading to the ears pulsatilla 3c relieves raw sore throat spongia tosta 3c relieves hoarseness with dry throat"
-    ],
-    "atc": null
-  },
-  {
-    "slug": "arnica-montana-whole",
-    "canonical": "arnica montana whole",
-    "names": [
-      "arnica montana whole",
-      "milk thistle",
-      "turnera diffusa leafy twig",
-      "galium aparine whole",
-      "hamamelis virginiana root bark",
-      "stem bark",
-      "pork liver",
-      "sus scrofa pituitary gland",
-      "asian ginseng",
-      "arginine",
-      "cervus elaphus horn oil",
-      "schisandra chinensis fruit",
-      "taraxacum officinale",
-      "thuja occidentalis leafy twig",
-      "vital ii",
-      "arnica montana",
-      "carduus marianus",
-      "damiana",
-      "galium aparine",
-      "hamamelis virginiana",
-      "hepar suis",
-      "hypophysis suis",
-      "panax ginseng",
-      "l arginine",
-      "oleum animale",
-      "schisandra chinensis",
-      "thuja occidentalis",
-      "active ingredients 7 69 of arnica montana 3x",
-      "carduus marianus 3x",
-      "damiana 3x",
-      "galium aparine 3x",
-      "hamamelis virginiana 3x",
-      "hepar suis 6x",
-      "hypophysis suis 6x",
-      "panax ginseng 3x",
-      "l arginine 6x",
-      "oleum animale 15x",
-      "schisandra chinensis 3x",
-      "taraxacum officinale 3x",
-      "thuja occidentalis 200c",
-      "uses temporarily relieves these symptoms due to aging and",
-      "or a run down condition low energy poor muscle",
-      "fat balance occasional sleeplessness"
-    ],
-    "atc": null
-  },
-  {
     "slug": "estradiol-hemihydrate",
     "canonical": "estradiol hemihydrate",
     "names": [
@@ -48492,29 +48378,6 @@
     "atc": null
   },
   {
-    "slug": "chlorpheniramine-maleate",
-    "canonical": "chlorpheniramine maleate",
-    "names": [
-      "chlorpheniramine maleate",
-      "sprinsol",
-      "active ingredients chlorpheniramine maleate 4 mg",
-      "purpose antihistamine",
-      "dextromethorphan hydrobromide",
-      "cvs childrens cough",
-      "cold",
-      "dextrometrorphan hbr",
-      "active ingredients chlorpheniramine maleate",
-      "usp 2 mg dextromethorphan hbr",
-      "usp 15 mg",
-      "purposes antihistamine cough suppressant uses temporarily relieves cough due to minor throat",
-      "bronchial irritation as may occur with a cold temporarily relieves these symptoms due to hay fever or other upper respiratory allergies runny nose sneezing itchy",
-      "watery eyes itching of the nose or throat",
-      "aller chlor",
-      "active ingredient chlorpheniramine maleate 4 mg"
-    ],
-    "atc": null
-  },
-  {
     "slug": "benazepril-hcl",
     "canonical": "benazepril hcl",
     "names": [
@@ -49252,6 +49115,14 @@
     "atc": null
   },
   {
+    "slug": "divalproex-na",
+    "canonical": "divalproex na",
+    "names": [
+      "divalproex na"
+    ],
+    "atc": null
+  },
+  {
     "slug": "buprenorphine-hcl",
     "canonical": "buprenorphine hcl",
     "names": [
@@ -49855,25 +49726,6 @@
     "names": [
       "amiodarone hcl",
       "pacerone"
-    ],
-    "atc": null
-  },
-  {
-    "slug": "avena-sativa-flowering-top",
-    "canonical": "avena sativa flowering top",
-    "names": [
-      "avena sativa flowering top",
-      "sambucus nigra flower",
-      "echinacea purpurea",
-      "rosa canina fruit",
-      "zinc gluconate",
-      "cold eeze cold remedy",
-      "sambucus nigra",
-      "avena sativa l",
-      "rosa canina",
-      "active ingredients active ingredients purposes zinc gluconate 1x hpus cold remedy sambucus nigra 1x hpus promotes immune support avena sativa l 2x hpus helps with general debility",
-      "fatigue rosa canina 2x hpus promotes immune support echinacea purpurea 3x hpus promotes immune support the letters hpus indicate that the active ingredient is in the official homeopathic pharmacopeia of the united states",
-      "purposes purposes"
     ],
     "atc": null
   },
@@ -50520,6 +50372,27 @@
     "names": [
       "acitve ingredients octinoxate 7 00 titanium dioxide 4 15 zinc oxide 9 80 purpose sunscreen",
       "purpose sunscreen"
+    ],
+    "atc": null
+  },
+  {
+    "slug": "chlorpheniramine-maleate",
+    "canonical": "chlorpheniramine maleate",
+    "names": [
+      "chlorpheniramine maleate",
+      "dextromethorphan hydrobromide",
+      "cvs childrens cough",
+      "cold",
+      "dextrometrorphan hbr",
+      "active ingredients chlorpheniramine maleate",
+      "usp 2 mg dextromethorphan hbr",
+      "usp 15 mg",
+      "purposes antihistamine cough suppressant uses temporarily relieves cough due to minor throat",
+      "bronchial irritation as may occur with a cold temporarily relieves these symptoms due to hay fever or other upper respiratory allergies runny nose sneezing itchy",
+      "watery eyes itching of the nose or throat",
+      "aller chlor",
+      "active ingredient chlorpheniramine maleate 4 mg",
+      "purpose antihistamine"
     ],
     "atc": null
   },
@@ -51284,6 +51157,76 @@
     "atc": null
   },
   {
+    "slug": "arnica-montana-3c",
+    "canonical": "arnica montana 3c",
+    "names": [
+      "arnica montana 3c",
+      "arum triphyllum 3c",
+      "belladonna 3c",
+      "bromium 3c",
+      "bryonia alba 3c",
+      "mercuris solubilis 4c",
+      "phytolacca decandra 3c",
+      "pulsatilla 3c",
+      "spongia tosta 3c",
+      "arnica montana 3c relieves hoarseness due to overexertion of the vocal cords arum triphyllum 3c relieves vocal cord fatigue in speakers",
+      "singers belladonna 3c relieves red",
+      "sore throat bromium 3c relieves swollen",
+      "painful tonsils bryonia alba 3c relieves sore throat with intense thirst mercuris solubilis 4c relieves sore throat with intense salivation phytolacca decandra 3c relieves sore throat with pain spreading to the ears pulsatilla 3c relieves raw sore throat spongia tosta 3c relieves hoarseness with dry throat"
+    ],
+    "atc": null
+  },
+  {
+    "slug": "arnica-montana-whole",
+    "canonical": "arnica montana whole",
+    "names": [
+      "arnica montana whole",
+      "milk thistle",
+      "turnera diffusa leafy twig",
+      "galium aparine whole",
+      "hamamelis virginiana root bark",
+      "stem bark",
+      "pork liver",
+      "sus scrofa pituitary gland",
+      "asian ginseng",
+      "arginine",
+      "cervus elaphus horn oil",
+      "schisandra chinensis fruit",
+      "taraxacum officinale",
+      "thuja occidentalis leafy twig",
+      "vital ii",
+      "arnica montana",
+      "carduus marianus",
+      "damiana",
+      "galium aparine",
+      "hamamelis virginiana",
+      "hepar suis",
+      "hypophysis suis",
+      "panax ginseng",
+      "l arginine",
+      "oleum animale",
+      "schisandra chinensis",
+      "thuja occidentalis",
+      "active ingredients 7 69 of arnica montana 3x",
+      "carduus marianus 3x",
+      "damiana 3x",
+      "galium aparine 3x",
+      "hamamelis virginiana 3x",
+      "hepar suis 6x",
+      "hypophysis suis 6x",
+      "panax ginseng 3x",
+      "l arginine 6x",
+      "oleum animale 15x",
+      "schisandra chinensis 3x",
+      "taraxacum officinale 3x",
+      "thuja occidentalis 200c",
+      "uses temporarily relieves these symptoms due to aging and",
+      "or a run down condition low energy poor muscle",
+      "fat balance occasional sleeplessness"
+    ],
+    "atc": null
+  },
+  {
     "slug": "acive-ingredients-purpose-lidocaine-5-local-anesthetic",
     "canonical": "acive ingredients purpose lidocaine 5 local anesthetic",
     "names": [
@@ -51888,10 +51831,17 @@
       "cvs health",
       "natural fiber supplement",
       "active ingredient psyllium hydrophilic mucilloid 6 grams",
-      "purpose bulk forming laxative",
-      "unflavored organic natural fiber",
+      "purpose bulk forming laxative"
+    ],
+    "atc": null
+  },
+  {
+    "slug": "supplement-facts-serving-size-1-rounded-teaspoon-servings-per-container-about-85-amount-per-serving-dv-calories-25-total-carbohydrate-7-g-3-dietary-fiber-3g-11-soluble-fiber-2g-total-sugars-4g-includes-added-sugars-4g-8-iron-0-4mg-2-na-5mg-1-k-30-mg-1-percent-daily-values-are-based-on-a-2000-calorie-diet",
+    "canonical": "supplement facts serving size 1 rounded teaspoon servings per container about 85 amount per serving dv calories 25 total carbohydrate 7 g 3 dietary fiber 3g 11 soluble fiber 2g total sugars 4g includes added sugars 4g 8 iron 0 4mg 2 na 5mg 1 k 30 mg 1 percent daily values are based on a 2000 calorie diet",
+    "names": [
       "supplement facts serving size 1 rounded teaspoon servings per container about 85 amount per serving dv calories 25 total carbohydrate 7 g 3 dietary fiber 3g 11 soluble fiber 2g total sugars 4g includes added sugars 4g 8 iron 0 4mg 2 na 5mg 1 k 30 mg 1 percent daily values are based on a 2000 calorie diet",
-      "daily value not established"
+      "daily value not established",
+      "purpose bulk forming laxative"
     ],
     "atc": null
   },
