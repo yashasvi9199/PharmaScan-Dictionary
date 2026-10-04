@@ -877,13 +877,6 @@
       "active ingredient calcium carbonate usp 500mg",
       "purpose antacid",
       "active ingredient calcium carbonate 10 gr",
-      "magnesium hydroxide",
-      "dimethicone",
-      "unspecified",
-      "multi symptom antacid berry flavor",
-      "simethicone",
-      "active ingredients calcium carbonate usp 675 mg magnesium hydroxide usp 135 mg simethicone usp 60mg",
-      "purpose antacid antacid antigas",
       "family wellness ultra stregth antacid 171ab",
       "active ingredient calcium carbonate 1000 mg",
       "soothe childrens",
@@ -2636,7 +2629,6 @@
       "24 7 life",
       "active ingredient active ingredient loratadine 10 mg",
       "purpose purpose antihistamine",
-      "alavert allergy",
       "loratadine antihistamine",
       "dg health allergy relief",
       "active ingredients purpose loratadine",
@@ -3392,8 +3384,7 @@
     "slug": "prednisone",
     "canonical": "prednisone",
     "names": [
-      "prednisone",
-      "prednisone delayed"
+      "prednisone"
     ],
     "atc": "A07EA03"
   },
@@ -5296,11 +5287,9 @@
     "canonical": "zinc gluconate",
     "names": [
       "zinc gluconate",
-      "cold eeze cold remedy",
-      "active ingredient active ingredient zinc gluconate 2x hpus the letters hpus indicate that the active ingredient is in the official homeopathic pharmacopeia of the united states",
-      "purposes cold remedy",
       "cold eeze cold remedy ultramelt chews",
-      "active ingredient active ingredient zinc gluconate 1x hpus the letters hpus indicate that the active ingredient is in the official homeopathic pharmacopeia of the united states"
+      "active ingredient active ingredient zinc gluconate 1x hpus the letters hpus indicate that the active ingredient is in the official homeopathic pharmacopeia of the united states",
+      "purposes cold remedy"
     ],
     "atc": "A12CB02"
   },
@@ -37326,9 +37315,6 @@
       "mucinex",
       "active ingredient guaifenesin 600 mg",
       "mucus relief",
-      "topcare mucus d",
-      "active ingredients guaifenesin 600 mg pseudoephedrine hcl 60 mg",
-      "purposes expectorant nasal decongestant",
       "acetaminophen",
       "phenylephrine hcl",
       "xpect cold relief",
@@ -42388,8 +42374,7 @@
     "canonical": "varenicline tartrate",
     "names": [
       "varenicline tartrate",
-      "varenicline",
-      "tyrvaya"
+      "varenicline"
     ],
     "atc": null
   },
@@ -42540,8 +42525,6 @@
       "dextromethrophan",
       "active ingredients acetaminophen 325 mg dextromethorphan hbr 10 mg doxylamine succinate 6 25 mg phenylephrine hcl 5 mg purpose pain reliever",
       "pharbetol",
-      "headache relief extra strength",
-      "active ingredients acetaminophen 250 mg aspirin 250 mg caffeine 65 mg nonsteroidal anti inflammatory drug",
       "drug facts active ingredients acetaminophen 325 mg dextromethorphan hbr 10 mg phenylephrine hcl 5 mg",
       "fever reducer dextromethorphan hbr cough suppressant phenylephrine hcl antihistamine",
       "tension headache relief",
@@ -44563,10 +44546,9 @@
     "names": [
       "diphenhydramine citrate",
       "ibuprofen",
-      "ibuprofen pm",
+      "good sense ibuprofen pm",
       "active ingredients diphenhydramine citrate 38 mg ibuprofen 200 mg nonsteroidal anti inflammatory drug",
-      "purposes nighttime sleep aid pain reliever",
-      "good sense ibuprofen pm"
+      "purposes nighttime sleep aid pain reliever"
     ],
     "atc": null
   },
@@ -44773,11 +44755,6 @@
       "active ingredient ethyl alcohol 66 5",
       "ps 2362 hand sanitizer 0 9g packet",
       "purpose antiseptic handwash",
-      "amcon labs hand sanitizer light cleansing",
-      "active ingredient ethyl alcohol 60 v",
-      "v",
-      "purpose skin sanitizer",
-      "amcon labs hand sanitizer instant foam sanitizer with alcohol",
       "xtracare cucumber melon",
       "active ingredient purpose ethyl alcohol 62 0 antimicrobial",
       "uses for handwashing to decrease bacteria on the skin recommended for repeated use",
@@ -44787,6 +44764,7 @@
       "v purpose antimicrobial",
       "careall hand sanitizer",
       "active ingredient ethyl alcohol 70 v",
+      "v",
       "smart care coco cabana hand sanitizer",
       "antiseptic",
       "awas alcoholspray",
@@ -45162,10 +45140,11 @@
       "active ingredients purposes dextromethorphan hbr",
       "usp 20 mg cough suppressant guaifenesin",
       "usp 200 mg expectorant",
-      "foster",
-      "thrive 12 hour cough relief",
+      "12 hr relief cough dm",
       "dextromethorphan polistirex",
       "active ingredient dextromethorphan polistirex equivalent to 30 mg dextromethorphan hydrobromide",
+      "foster",
+      "thrive 12 hour cough relief",
       "mucus relief dm caplets",
       "active ingredients dextromethorphan hbr 60 mg guaifenesin 1200 mg",
       "mucus relief cold flu sore throat maximum strength",
@@ -48783,15 +48762,6 @@
     "atc": null
   },
   {
-    "slug": "prucalopride-succinate",
-    "canonical": "prucalopride succinate",
-    "names": [
-      "prucalopride succinate",
-      "prucalopride"
-    ],
-    "atc": null
-  },
-  {
     "slug": "capsicum",
     "canonical": "capsicum",
     "names": [
@@ -49194,10 +49164,7 @@
     "canonical": "hydrocodone bitartrate",
     "names": [
       "hydrocodone bitartrate",
-      "acetaminophen",
-      "chlorpheniramine maleate",
-      "hydrocodone polistirex",
-      "chlorpheniramine polistirex"
+      "acetaminophen"
     ],
     "atc": null
   },
@@ -50443,15 +50410,6 @@
     "atc": null
   },
   {
-    "slug": "rifampin",
-    "canonical": "rifampin",
-    "names": [
-      "rifampin",
-      "rifadin iv"
-    ],
-    "atc": null
-  },
-  {
     "slug": "timolol-maleate",
     "canonical": "timolol maleate",
     "names": [
@@ -50647,6 +50605,14 @@
     "canonical": "isosulfan blue",
     "names": [
       "isosulfan blue"
+    ],
+    "atc": null
+  },
+  {
+    "slug": "rifampin",
+    "canonical": "rifampin",
+    "names": [
+      "rifampin"
     ],
     "atc": null
   },
