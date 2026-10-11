@@ -42519,11 +42519,6 @@
       "sinus",
       "acteaminophen",
       "active ingredients acetaminophen 650 mg guaifenesin 400 mg phenylephrine hcl 10 mg",
-      "vicks dayquil severe honey flavor cold",
-      "active ingredients acetaminophen 325 mg dextromethorphan hbr 10 mg guaifenesin 200 mg phenylephrine hcl 5 mg purpose pain reliever",
-      "vicks nyquil severe honey flavor cold",
-      "dextromethrophan",
-      "active ingredients acetaminophen 325 mg dextromethorphan hbr 10 mg doxylamine succinate 6 25 mg phenylephrine hcl 5 mg purpose pain reliever",
       "pharbetol",
       "drug facts active ingredients acetaminophen 325 mg dextromethorphan hbr 10 mg phenylephrine hcl 5 mg",
       "fever reducer dextromethorphan hbr cough suppressant phenylephrine hcl antihistamine",
@@ -44257,9 +44252,6 @@
       "menthol camphor",
       "active ingredients menthol usp 3 camphor usp 3",
       "purpose purpose external analgesic",
-      "vicks vapocool severe",
-      "active ingredients menthol 20 mg purpose anesthetic",
-      "purpose anesthetic",
       "mgc health",
       "cough vanilla honey",
       "active ingredient menthol 2 5",
@@ -45150,10 +45142,7 @@
       "mucus relief cold flu sore throat maximum strength",
       "active ingredients acetaminophen 650 mg dextromethorphan hbr 20 mg guaifenesin 400 mg phenylephrine hcl 10 mg",
       "purposes pain reliever",
-      "fever reducer cough suppressant expectorant nasal decongestant",
-      "vicks formula 44dm cough",
-      "active ingredient dextromethorphan hbr 15 mg",
-      "active ingredient dextromethorphan hbr 10 mg guaifenesin 200 mg"
+      "fever reducer cough suppressant expectorant nasal decongestant"
     ],
     "atc": null
   },
@@ -46461,15 +46450,23 @@
     "atc": null
   },
   {
+    "slug": "camphor-3-1-menthol-6-0-methyl-salicylate-10-0",
+    "canonical": "camphor 3 1 menthol 6 0 methyl salicylate 10 0",
+    "names": [
+      "camphor 3 1 menthol 6 0 methyl salicylate 10 0",
+      "for the temporary minor aches",
+      "pains of muscles",
+      "joints associated with arthritis simple backache strains bruises sprains"
+    ],
+    "atc": null
+  },
+  {
     "slug": "camphor",
     "canonical": "camphor",
     "names": [
       "camphor",
       "eucalyptus oil",
       "menthol",
-      "vicks childrens vaporub",
-      "camphor 4 8 eucalyptus oil 1 2 menthol 2 6 purpose cough suppressant topical analgesic cough suppressant cough suppressant topical analgesic",
-      "purpose cough suppressant topical analgesic cough suppressant cough suppressant topical analgesic",
       "unspecified form",
       "cvs health medicated chest rub",
       "active ingredients camphor 4 7 eucalyptus oil 1 2 menthol 2 6",
@@ -46492,17 +46489,6 @@
       "active ingredients camphora 30c",
       "uses to relieve the symptoms of coldness",
       "active ingredients camphora 200c"
-    ],
-    "atc": null
-  },
-  {
-    "slug": "camphor-3-1-menthol-6-0-methyl-salicylate-10-0",
-    "canonical": "camphor 3 1 menthol 6 0 methyl salicylate 10 0",
-    "names": [
-      "camphor 3 1 menthol 6 0 methyl salicylate 10 0",
-      "for the temporary minor aches",
-      "pains of muscles",
-      "joints associated with arthritis simple backache strains bruises sprains"
     ],
     "atc": null
   },
@@ -47084,8 +47070,7 @@
       "kaopectate peppermint flavor anti diarrheal",
       "active ingredient purposes bismuth subsalicylate 262 mg anti diarrheal upset stomach reliever",
       "active ingredient bismuth subsalicylate 262 mg purpose upset stomach reliever",
-      "pepto bismol fast melts fresh berry flavored",
-      "pocket pepto pepto bismol"
+      "pepto bismol fast melts fresh berry flavored"
     ],
     "atc": null
   },
@@ -49798,59 +49783,6 @@
     "atc": null
   },
   {
-    "slug": "vicks-dayquil-nyquil-berry-kids-cold",
-    "canonical": "vicks dayquil nyquil berry kids cold",
-    "names": [
-      "vicks dayquil nyquil berry kids cold",
-      "cough plus",
-      "chlorpheniramine maleate",
-      "dextromethorphan hbr",
-      "guaifenesin",
-      "phenylephrine hcl",
-      "active ingredients chlorpheniramine maleate 2 mg dextromethorphan hbr 15 mg",
-      "active ingredients dextromethorphan hbr 10 mg guaifenesin 100 mg phenylephrine hcl 5 mg",
-      "purpose antihistamine cough suppressant",
-      "purpose cough suppressant expectorant nasal decongestant"
-    ],
-    "atc": null
-  },
-  {
-    "slug": "vicks-dayquil-nyquil-high-blood-pressure-cold",
-    "canonical": "vicks dayquil nyquil high blood pressure cold",
-    "names": [
-      "vicks dayquil nyquil high blood pressure cold",
-      "flu",
-      "acetaminophen",
-      "dextromethorphan hbr",
-      "doxylamine succinate",
-      "active ingredient acetaminophen 325 mg dextromethorphan hbr 10 mg purpose pain reliever",
-      "fever reducer cough suppressant",
-      "active ingredient acetaminophen 325 mg dextromethorphan hbr 10 mg doxylamine succinate 6 25 mg",
-      "purpose pain reliever",
-      "fever reducer cough suppressant antihistamine"
-    ],
-    "atc": null
-  },
-  {
-    "slug": "vicks-dayquil",
-    "canonical": "vicks dayquil",
-    "names": [
-      "vicks dayquil",
-      "vicks nyquil cold",
-      "flu",
-      "acetaminophen",
-      "dextromethorphan hydrobromide",
-      "phenylephrine hcl",
-      "doxylamine succinate",
-      "active ingredients acetaminophen 650 mg dextromethorphan hbr 30 mg doxylamine succinate 12 5 mg purpose pain reliever",
-      "fever reducer cough suppressant antihistamine",
-      "active ingredients acetaminophen 325 mg dextromethorphan hbr 10 mg phenylephrine hci 5 mg purpose pain reliever",
-      "fever reducer cough suppressant nasal decongestant",
-      "purpose pain reliever"
-    ],
-    "atc": null
-  },
-  {
     "slug": "oxybutynin-cl",
     "canonical": "oxybutynin cl",
     "names": [
@@ -51514,14 +51446,6 @@
     "atc": null
   },
   {
-    "slug": "promethazine-hcl",
-    "canonical": "promethazine hcl",
-    "names": [
-      "promethazine hcl"
-    ],
-    "atc": null
-  },
-  {
     "slug": "fluorescein-na",
     "canonical": "fluorescein na",
     "names": [
@@ -52401,6 +52325,14 @@
     "names": [
       "mupirocin calcium",
       "mupirocin"
+    ],
+    "atc": null
+  },
+  {
+    "slug": "promethazine-hcl",
+    "canonical": "promethazine hcl",
+    "names": [
+      "promethazine hcl"
     ],
     "atc": null
   },
