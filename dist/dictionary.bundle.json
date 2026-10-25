@@ -3733,20 +3733,13 @@
     "canonical": "citric acid",
     "names": [
       "citric acid",
+      "for use with 3 pump hemodialysis machines only",
       "trisodium citrate dihydrate",
       "na phosphate",
       "monobasic",
       "dextrose",
       "adenine",
       "teruflex blood anticoagulant citrate phosphate dextrose adenine for collection of 450ml of blood",
-      "citracid 50",
-      "desinfectant for hemodialysis machine",
-      "for use with 3 pump hemodialysis machines only",
-      "aquacetic 30",
-      "cleaning for hemodialysis machines",
-      "glacial acetic acid",
-      "this product is used to descale",
-      "clean hemodialysis machines",
       "soothe chewable",
       "active ingredients citric acid 75mg purpose antacid",
       "purpose antacid"
@@ -13638,9 +13631,6 @@
       "active ingredient salicylic acid 2 0",
       "replenix gly sal 10 2 cleanser",
       "active ingredient salicylic acid usp",
-      "herbaglow baiwooxia anti acne",
-      "active ingredients salicylic acid 2 0",
-      "purpose salicylic acid acne treatment",
       "first aid beauty fab acne spot treatment",
       "active ingredients salicylic acid 2",
       "acne calming water",
@@ -13697,7 +13687,8 @@
       "acne",
       "vichy laboratoires normaderm acne control moisturizer",
       "liquid callus remover",
-      "cvs clarifying body wash acne treatment"
+      "cvs clarifying body wash acne treatment",
+      "active ingredients salicylic acid 2 0"
     ],
     "atc": "D01AE12"
   },
@@ -31594,11 +31585,10 @@
     "atc": "N03AX07"
   },
   {
-    "slug": "subvenite",
-    "canonical": "subvenite",
+    "slug": "lamotrigine",
+    "canonical": "lamotrigine",
     "names": [
-      "lamotrigine",
-      "subvenite"
+      "lamotrigine"
     ],
     "atc": "N03AX09"
   },
@@ -44907,22 +44897,15 @@
       "simethicone",
       "active ingredient simethicone 180 mg",
       "purpose antigas",
-      "remedy barrier cloths fragrance free",
-      "remedy barrier cloths",
-      "active ingredient dimethicone 3 6 w",
-      "w",
-      "purpose skin protectant",
       "gas relief",
       "purpose antiflatulent",
       "leader gas relief",
       "active ingredient simethicone 80 mg",
       "gas relief extra strength",
       "active ingredient simethicone 125 mg",
-      "unspecified",
-      "extra strength gas relief",
-      "purpose anti gas",
       "aveeno baby calming comfort",
       "active ingredient dimethicone 1 2",
+      "purpose skin protectant",
       "octinoxate",
       "octisalate",
       "oxybenzone",
@@ -45990,15 +45973,6 @@
     "atc": null
   },
   {
-    "slug": "trilona",
-    "canonical": "trilona",
-    "names": [
-      "trilona",
-      "triamcinolone acetonide"
-    ],
-    "atc": null
-  },
-  {
     "slug": "aconitum-napellus",
     "canonical": "aconitum napellus",
     "names": [
@@ -46319,14 +46293,6 @@
     "names": [
       "sildenafil citrate",
       "sildenafil"
-    ],
-    "atc": null
-  },
-  {
-    "slug": "doxepin-hcl",
-    "canonical": "doxepin hcl",
-    "names": [
-      "doxepin hcl"
     ],
     "atc": null
   },
@@ -49039,14 +49005,6 @@
     "atc": null
   },
   {
-    "slug": "glycopyrrolate",
-    "canonical": "glycopyrrolate",
-    "names": [
-      "glycopyrrolate"
-    ],
-    "atc": null
-  },
-  {
     "slug": "hydrocodone-bitartrate",
     "canonical": "hydrocodone bitartrate",
     "names": [
@@ -49155,16 +49113,6 @@
     "canonical": "imatinib mesylate",
     "names": [
       "imatinib mesylate"
-    ],
-    "atc": null
-  },
-  {
-    "slug": "rucaparib-camsylate",
-    "canonical": "rucaparib camsylate",
-    "names": [
-      "rucaparib camsylate",
-      "rubraca",
-      "rucaparib"
     ],
     "atc": null
   },
@@ -49584,6 +49532,14 @@
     "atc": null
   },
   {
+    "slug": "glycopyrrolate",
+    "canonical": "glycopyrrolate",
+    "names": [
+      "glycopyrrolate"
+    ],
+    "atc": null
+  },
+  {
     "slug": "tazarodex-plaque-psoriasis-acne-active-ingredient-tazarotene-0-1",
     "canonical": "tazarodex plaque psoriasis acne active ingredient tazarotene 0 1",
     "names": [
@@ -49980,8 +49936,6 @@
     "canonical": "k chlorate",
     "names": [
       "k chlorate",
-      "dry cid",
-      "dry concentrate for hemodialysis",
       "for use with 3 pump hemodialysis machines only"
     ],
     "atc": null
@@ -50683,6 +50637,14 @@
     "atc": null
   },
   {
+    "slug": "doxepin-hcl",
+    "canonical": "doxepin hcl",
+    "names": [
+      "doxepin hcl"
+    ],
+    "atc": null
+  },
+  {
     "slug": "quinone",
     "canonical": "quinone",
     "names": [
@@ -50858,6 +50820,16 @@
       "white petrolatum",
       "active ingredient white petrolatum 45",
       "purpose skin protectant"
+    ],
+    "atc": null
+  },
+  {
+    "slug": "glacial-acetic-acid",
+    "canonical": "glacial acetic acid",
+    "names": [
+      "glacial acetic acid",
+      "this product is used to descale",
+      "clean hemodialysis machines"
     ],
     "atc": null
   },
