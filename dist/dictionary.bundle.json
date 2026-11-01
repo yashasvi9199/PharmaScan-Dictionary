@@ -474,8 +474,8 @@
     "atc": "A01AC02"
   },
   {
-    "slug": "oak",
-    "canonical": "oak",
+    "slug": "0-9g",
+    "canonical": "0 9g",
     "names": [
       "hydrocortisone",
       "ps 2896 hydrocortisone 1",
@@ -495,15 +495,6 @@
       "hydrocortisone with aloe anti itch",
       "drug facts active ingredients hydrocortisone",
       "usp 1",
-      "truelipids 1 hydrocortisone barrier",
-      "active ingredient purpose hydrocortisone 1 anti itch",
-      "uses temporarily relieves itching associated with minor skin irritations",
-      "inflammation",
-      "rashes due to eczema psoriasis poison ivy",
-      "oak",
-      "sumac insect bites detergents soaps cosmetics jewelry seborrheic dermatitis temporarily relieves external anal",
-      "genital itching other uses of this product should only be under the advice",
-      "supervision of a doctor",
       "shopko hydrocortisone maximum strength",
       "live better hydrocortisone with aloe",
       "hydrocortisone plus 12 moisturizers"
@@ -2546,18 +2537,14 @@
       "purpose stimulant laxative",
       "stimulant laxative enteric coated",
       "active ingredient bisacodyl 5 mg",
-      "publix stimulant laxative",
-      "active ingredient bisacodyl",
-      "usp 5 mg",
+      "laxative",
       "active ingredient bisacodyl usp",
+      "5 mg",
+      "purpose laxative",
       "10 mg",
       "gentle laxative bisacodyl",
       "drug facts active ingredient bisacodyl 10 mg",
       "drug facts purpose bisacodyl 10 mg stimulant laxative",
-      "publix women laxative",
-      "purpose laxative",
-      "laxative",
-      "5 mg",
       "loratadine",
       "allergy relief",
       "active ingredient loratadine 10 mg",
@@ -5803,12 +5790,11 @@
     "atc": "A16AX03"
   },
   {
-    "slug": "nityr",
-    "canonical": "nityr",
+    "slug": "orfadin",
+    "canonical": "orfadin",
     "names": [
       "nitisinone",
-      "orfadin",
-      "nityr"
+      "orfadin"
     ],
     "atc": "A16AX04"
   },
@@ -19468,12 +19454,11 @@
     "atc": "J01CA03"
   },
   {
-    "slug": "augmentin",
-    "canonical": "augmentin",
+    "slug": "amoxicillin",
+    "canonical": "amoxicillin",
     "names": [
       "amoxicillin",
-      "clavulanate k",
-      "augmentin"
+      "clavulanate k"
     ],
     "atc": "J01CA04"
   },
@@ -27281,11 +27266,10 @@
     "atc": "L03AX12"
   },
   {
-    "slug": "glatopa",
-    "canonical": "glatopa",
+    "slug": "glatiramer-acetate",
+    "canonical": "glatiramer acetate",
     "names": [
-      "glatiramer acetate",
-      "glatopa"
+      "glatiramer acetate"
     ],
     "atc": "L03AX13"
   },
@@ -42254,8 +42238,6 @@
       "purpose antibacterial",
       "antibacterial 2x",
       "benzalkonium cl 0 13",
-      "ps 2205 bzk antiseptic towelettes",
-      "purpose first aid antiseptic",
       "callington anti bacterial hand sanitizer wipe",
       "active ingredient benzalkonium cl 0 05",
       "purpose antiseptic",
@@ -42398,10 +42380,6 @@
       "drug facts active ingredients acetaminophen 325 mg dextromethorphan hbr 15 mg doxylamine succinate 6 25 mg",
       "purpose acetaminophen pain reliever",
       "fever reducer dextromethorphan hbr cough suppressant doxylamine succinate antihistamine",
-      "aspirin",
-      "goodys max",
-      "active ingredient s acetaminophen 500 mg aspirin 500 mg caffeine 130 mg nonsteroidal anti inflammatory drug",
-      "purpose pain reliever pain reliever pain reliever aid",
       "goodmeds extra strength pain relief pm",
       "active ingredients acetaminophen 500 mg diphenhydramine hcl 25 mg purpose pain reliever nighttime sleep aid",
       "purpose pain reliever nighttime sleep aid",
@@ -42421,9 +42399,6 @@
       "active ingredient active ingredients acetaminophen 325 mg guaifenesin 200 mg phenylephrine hcl 5 mg",
       "purpose purpose pain reliever",
       "fever reducer expectorant nasal decongestant",
-      "childrens pain",
-      "fever",
-      "active ingredient acetaminophen 160 mg",
       "butalbital",
       "tylenol 8 hr muscle aches",
       "pain",
@@ -42461,6 +42436,7 @@
       "vitapirena",
       "active ingredient purposes active ingredient purposes acetaminophen 500 mg pain reliever",
       "active ingredient purposes acetaminophen 500 mg pain reliever",
+      "aspirin",
       "goodys back",
       "body pain",
       "asprin",
@@ -44465,80 +44441,6 @@
     "atc": null
   },
   {
-    "slug": "lidocaine-hcl",
-    "canonical": "lidocaine hcl",
-    "names": [
-      "lidocaine hcl",
-      "benzalkonium cl",
-      "first aid burn",
-      "active ingredient lidocaine hci 0 5",
-      "active ingredient benzalkonium cl 0 13",
-      "purpose topical analgesic",
-      "purpose topical antiseptic",
-      "burn ease",
-      "3 5g",
-      "active ingredient lidocaine hcl 2",
-      "purpose analgesic",
-      "ps 3885 burn ease",
-      "ps 3866 burn ease",
-      "0 9g",
-      "dch pain relief",
-      "lidocaine hcl 4",
-      "topical analgesic",
-      "accucaine",
-      "alocane botanicals",
-      "active ingredient lidocaine hcl 4",
-      "purpose topical pain relief",
-      "benzyl alcohol",
-      "pain relieving lidocaine",
-      "lidocaine hci",
-      "benzyl alcohol 10",
-      "purpose topical anasthetic",
-      "purpose topical anesthetic",
-      "aspercreme lidocaine with eucalyptus essential oil",
-      "active i ngredient lidocaine hcl 4"
-    ],
-    "atc": null
-  },
-  {
-    "slug": "lidocaine-4-topical-anesthetic-menthol-1-topical-anesthetic",
-    "canonical": "lidocaine 4 topical anesthetic menthol 1 topical anesthetic",
-    "names": [
-      "lidocaine 4 topical anesthetic menthol 1 topical anesthetic",
-      "topical anesthetic"
-    ],
-    "atc": null
-  },
-  {
-    "slug": "lidocaine-4",
-    "canonical": "lidocaine 4",
-    "names": [
-      "lidocaine 4",
-      "topical anesthetic",
-      "menthol 1",
-      "for the temporary relief of palin"
-    ],
-    "atc": null
-  },
-  {
-    "slug": "lidocaine-1",
-    "canonical": "lidocaine 1",
-    "names": [
-      "lidocaine 1",
-      "purpose external analgesic"
-    ],
-    "atc": null
-  },
-  {
-    "slug": "lidocaine-5",
-    "canonical": "lidocaine 5",
-    "names": [
-      "lidocaine 5",
-      "local anesthetic"
-    ],
-    "atc": null
-  },
-  {
     "slug": "miconazole-nitrate-2",
     "canonical": "miconazole nitrate 2",
     "names": [
@@ -44665,8 +44567,6 @@
       "purpose antibacterial",
       "instant hand sanitizer",
       "active ingredient ethyl alcohol 66 5",
-      "ps 2362 hand sanitizer 0 9g packet",
-      "purpose antiseptic handwash",
       "xtracare cucumber melon",
       "active ingredient purpose ethyl alcohol 62 0 antimicrobial",
       "uses for handwashing to decrease bacteria on the skin recommended for repeated use",
@@ -44946,6 +44846,71 @@
     "atc": null
   },
   {
+    "slug": "lidocaine-hcl",
+    "canonical": "lidocaine hcl",
+    "names": [
+      "lidocaine hcl",
+      "burn ease",
+      "3 5g",
+      "active ingredient lidocaine hcl 2",
+      "purpose analgesic",
+      "dch pain relief",
+      "lidocaine hcl 4",
+      "topical analgesic",
+      "accucaine",
+      "alocane botanicals",
+      "active ingredient lidocaine hcl 4",
+      "purpose topical pain relief",
+      "benzyl alcohol",
+      "pain relieving lidocaine",
+      "lidocaine hci",
+      "benzyl alcohol 10",
+      "purpose topical anasthetic",
+      "purpose topical anesthetic",
+      "aspercreme lidocaine with eucalyptus essential oil",
+      "active i ngredient lidocaine hcl 4"
+    ],
+    "atc": null
+  },
+  {
+    "slug": "lidocaine-4-topical-anesthetic-menthol-1-topical-anesthetic",
+    "canonical": "lidocaine 4 topical anesthetic menthol 1 topical anesthetic",
+    "names": [
+      "lidocaine 4 topical anesthetic menthol 1 topical anesthetic",
+      "topical anesthetic"
+    ],
+    "atc": null
+  },
+  {
+    "slug": "lidocaine-4",
+    "canonical": "lidocaine 4",
+    "names": [
+      "lidocaine 4",
+      "topical anesthetic",
+      "menthol 1",
+      "for the temporary relief of palin"
+    ],
+    "atc": null
+  },
+  {
+    "slug": "lidocaine-1",
+    "canonical": "lidocaine 1",
+    "names": [
+      "lidocaine 1",
+      "purpose external analgesic"
+    ],
+    "atc": null
+  },
+  {
+    "slug": "lidocaine-5",
+    "canonical": "lidocaine 5",
+    "names": [
+      "lidocaine 5",
+      "local anesthetic"
+    ],
+    "atc": null
+  },
+  {
     "slug": "lycopodium-clavatum-spore",
     "canonical": "lycopodium clavatum spore",
     "names": [
@@ -45108,58 +45073,6 @@
     "names": [
       "glycerine",
       "skin protectant"
-    ],
-    "atc": null
-  },
-  {
-    "slug": "bacitracin-zinc",
-    "canonical": "bacitracin zinc",
-    "names": [
-      "bacitracin zinc",
-      "neomycin sulphate",
-      "polymyxin b sulphate",
-      "ps 2895 triple antibiotic",
-      "0 5g",
-      "active ingredients bacitracin zinc 400 units",
-      "active ingredient neomycin sulphate 5 mg",
-      "active ingredient polymyxin b sulphate 5000 units",
-      "purpose first aid antibiotic",
-      "health",
-      "beyond triple antibiotic",
-      "active ingredients bacitracin zinc neomycin sulphate neomycin 3 5 mg polymyxin b sulphate polymyxin b 5",
-      "000 units",
-      "unishield triple antibiotic",
-      "purpose first aid antibiotic first aid antibiotic first aid antibiotic",
-      "triple antibiotic",
-      "active ingredients bacitracin zinc 400 units neomycin sulphate 3 5 mg polymyxin b sulphate 5",
-      "pramoxine hcl",
-      "sunmark triple antibiotic plus pain relief",
-      "active ingredients purposes bacitracin 500 units first aid antibiotic neomycin 3 5 mg first aid antibiotic polymyxin b 10",
-      "000 units first aid antibiotic pramoxine hcl 10 mg topical pain reliever",
-      "winco maximum strength triple antibiotic",
-      "poymyxin b sulphate",
-      "pramoxine hydrochrloride",
-      "active ingredients purpose bacitracin zinc 500 units first aid antibiotic neomycin sulphate 3 5 mg first aid antibiotic polymyxin b sulphate 10",
-      "000 units first aid antibiotic pramoxine hcl 10 mg external analgesic",
-      "uses first aid to help prevent infection",
-      "for temporary relief of pain or discomfort in minor cuts scrapes burns",
-      "equaline first aid antibiotic",
-      "neomycin",
-      "polymyxin b",
-      "active ingredients bacitracin zinc equivalent to 400 units bacitracin neomycin sulphate equivalent to 3 5 mg of neomycin base polymyxin b 5",
-      "000 units as polymyxin b sulphate",
-      "active ingredients bacitracin zinc neomycin sulphate 5mg polymyxin b sulphate",
-      "op triple antibiotic",
-      "signature care triple antibiotic"
-    ],
-    "atc": null
-  },
-  {
-    "slug": "bacitracin-zinc-500-units",
-    "canonical": "bacitracin zinc 500 units",
-    "names": [
-      "bacitracin zinc 500 units",
-      "first aid antibiotic"
     ],
     "atc": null
   },
@@ -45479,33 +45392,61 @@
     "atc": null
   },
   {
+    "slug": "bacitracin-zinc",
+    "canonical": "bacitracin zinc",
+    "names": [
+      "bacitracin zinc",
+      "neomycin sulphate",
+      "polymyxin b sulphate",
+      "health",
+      "beyond triple antibiotic",
+      "active ingredients bacitracin zinc neomycin sulphate neomycin 3 5 mg polymyxin b sulphate polymyxin b 5",
+      "000 units",
+      "purpose first aid antibiotic",
+      "unishield triple antibiotic",
+      "purpose first aid antibiotic first aid antibiotic first aid antibiotic",
+      "triple antibiotic",
+      "active ingredients bacitracin zinc 400 units neomycin sulphate 3 5 mg polymyxin b sulphate 5",
+      "pramoxine hcl",
+      "sunmark triple antibiotic plus pain relief",
+      "active ingredients purposes bacitracin 500 units first aid antibiotic neomycin 3 5 mg first aid antibiotic polymyxin b 10",
+      "000 units first aid antibiotic pramoxine hcl 10 mg topical pain reliever",
+      "winco maximum strength triple antibiotic",
+      "poymyxin b sulphate",
+      "pramoxine hydrochrloride",
+      "active ingredients purpose bacitracin zinc 500 units first aid antibiotic neomycin sulphate 3 5 mg first aid antibiotic polymyxin b sulphate 10",
+      "000 units first aid antibiotic pramoxine hcl 10 mg external analgesic",
+      "uses first aid to help prevent infection",
+      "for temporary relief of pain or discomfort in minor cuts scrapes burns",
+      "equaline first aid antibiotic",
+      "neomycin",
+      "polymyxin b",
+      "active ingredients bacitracin zinc equivalent to 400 units bacitracin neomycin sulphate equivalent to 3 5 mg of neomycin base polymyxin b 5",
+      "000 units as polymyxin b sulphate",
+      "triple antibiotic plus pain relief",
+      "active ingredients bacitracin zinc 400 units neomycin sulphate 5 mg polymyxin b sulphate 10000 units pramoxine hcl 10 mg",
+      "purposes first aid antibiotic first aid antibiotic first aid antibiotic external analgesic",
+      "active ingredients bacitracin zinc neomycin sulphate 5mg polymyxin b sulphate",
+      "op triple antibiotic",
+      "signature care triple antibiotic"
+    ],
+    "atc": null
+  },
+  {
+    "slug": "bacitracin-zinc-500-units",
+    "canonical": "bacitracin zinc 500 units",
+    "names": [
+      "bacitracin zinc 500 units",
+      "first aid antibiotic"
+    ],
+    "atc": null
+  },
+  {
     "slug": "ziprasidone-hcl",
     "canonical": "ziprasidone hcl",
     "names": [
       "ziprasidone hcl",
       "ziprasidone"
-    ],
-    "atc": null
-  },
-  {
-    "slug": "polymyxin-b-sulphate",
-    "canonical": "polymyxin b sulphate",
-    "names": [
-      "polymyxin b sulphate",
-      "bacitracin zinc",
-      "neomycin sulphate",
-      "ps 2261 triple antibiotic",
-      "0 5g",
-      "active ingredient bacitracin zinc 400 units",
-      "active ingredient neomycin sulphate 5 mg",
-      "active ingredient polymyxin b sulphate 5000 units",
-      "purpose first aid antibiotic",
-      "pramoxine hcl",
-      "antibiotic",
-      "pain relief",
-      "active ingredients neomycin sulphate polymixin b sulphate 10",
-      "000 units pramoxine hcl",
-      "purpose first aid antibiotic first aid antibiotic external analgesic"
     ],
     "atc": null
   },
@@ -45517,15 +45458,7 @@
       "medline",
       "active ingredient white petrolatum 100 w",
       "w",
-      "purpose skin protectant",
-      "crash",
-      "active ingredient white petrolatum usp",
-      "purpose skin protectant uses temporarily protects minor cuts",
-      "scrapes",
-      "burns helps relieve",
-      "prevent",
-      "temporarily protect chaged",
-      "chapped or cracked skin"
+      "purpose skin protectant"
     ],
     "atc": null
   },
@@ -45973,158 +45906,6 @@
     "atc": null
   },
   {
-    "slug": "aconitum-napellus",
-    "canonical": "aconitum napellus",
-    "names": [
-      "aconitum napellus",
-      "bryonia alba root",
-      "calcium sulfide",
-      "spongia officinalis skeleton",
-      "roasted",
-      "tin",
-      "medicago sativa leaf",
-      "oat",
-      "arabica coffee bean",
-      "cough",
-      "bronchial nighttime syrup",
-      "bryonia root",
-      "calcium cation",
-      "active ingredient acontinum napellus 3x alfalfa 1x coffea cruda 6x avena sativa 1x bryonia 3x hepar sulphuris calcareum 6c spongia tosta 3x stannum metallicum 6c",
-      "purpose temporarily relieves coughs due to minor throat",
-      "bronchial irritation as may occur with a cold helps loosen phlegm",
-      "thin bronchial secretions to drain bronchial tubes soothes the throat"
-    ],
-    "atc": null
-  },
-  {
-    "slug": "aconitum-napellus-whole",
-    "canonical": "aconitum napellus whole",
-    "names": [
-      "aconitum napellus whole",
-      "arsenic trioxide",
-      "atropa belladonna",
-      "oyster shell calcium carbonate",
-      "crude",
-      "activated charcoal",
-      "human breast tumor cell",
-      "causticum",
-      "gelsemium sempervirens root",
-      "lachesis muta venom",
-      "mercury",
-      "nitric acid",
-      "phosphorus",
-      "toxicodendron pubescens leaf",
-      "na cl",
-      "anxiety ii hp",
-      "aconitum napellus",
-      "active ingredients aconitum napellus 30c",
-      "arsenicum album 30c",
-      "belladonna 30c",
-      "calcarea carbonica 30c",
-      "carbo vegetabilis 30c",
-      "carcinosin 30c",
-      "causticum 30c",
-      "gelsemium 30c",
-      "lachesis mutus 30c",
-      "mercurius vivus 30c",
-      "natrum muriaticum",
-      "nitricum ac 30c",
-      "rhus tox 30c",
-      "uses temporarily relieves simple nervous tension",
-      "arabica coffee bean",
-      "magnesium",
-      "strychnos nux vomica seed",
-      "pulsatilla vulgaris whole",
-      "sepia officinalis juice",
-      "sulfur",
-      "sleepy time cp",
-      "aconitum",
-      "arsenicum alb",
-      "calc carb",
-      "coffea cruda",
-      "magnesium met",
-      "nux vom",
-      "pulsatilla",
-      "sepia",
-      "sulphur",
-      "active ingredients equal amounts of aconitum 30x",
-      "arsenicum alb 30x",
-      "calc carb 30x",
-      "coffea cruda 30x",
-      "magnesium met 30x",
-      "nux vom 30x",
-      "pulsatilla 30x",
-      "sepia 30x",
-      "sulphur 30x",
-      "uses temporarily relieves occasional sleeplessness",
-      "cairina moschata heart",
-      "liver autolysate",
-      "bryonia alba root",
-      "eupatorium perfoliatum flowering top",
-      "influenza a virus whole",
-      "influenza a virus a",
-      "darwin",
-      "6",
-      "2021 whole",
-      "influenza b virus b",
-      "austria",
-      "1359417",
-      "2021 bvr 26 whole",
-      "phuket",
-      "3073",
-      "2013 bvr 1b whole",
-      "ipecac",
-      "phytolacca americana root",
-      "sanguinaria canadensis root",
-      "lobaria pulmonaria",
-      "triple flu defense",
-      "anas barbariae",
-      "hepatis et cordis extractum",
-      "bryonia",
-      "eupatorium perfoliatum",
-      "gelsemium sempervirens",
-      "influenzinum",
-      "ipecacuanha",
-      "nux vomica",
-      "phytolacca decandra",
-      "sanguinaria canadensis",
-      "sticta pulmonaria",
-      "anas barbariae 30c",
-      "bryonia 30c",
-      "eupatorium perfoliatum 30c",
-      "gelsemium sempervirens 30c",
-      "influenzinum 30c",
-      "ipecacuanha 30c",
-      "nux vomica 30c",
-      "phosphorus 30c",
-      "phytolacca decandra 30c",
-      "sanguinaria canadensis 30c",
-      "sticta pulmonaria 30c",
-      "purpose aconitum napellus dizziness",
-      "fever",
-      "anas barbariae general flu symptoms",
-      "bryonia body aches",
-      "sinus pain",
-      "eupatorium perfoliatum body aches",
-      "couch",
-      "gelsemium sempervirens chills",
-      "fatigue",
-      "influenzinum general flu symptoms",
-      "ipecacuanha nausea",
-      "vomiting",
-      "nux vomica headache",
-      "nausea",
-      "phosphorus congestion",
-      "phytolacca decandra congestion",
-      "sore throat",
-      "sanguinaria canadensis diarrhea",
-      "headache",
-      "sticta pulmonaria cough",
-      "sore throat this product has not been tested or the uses evaluated by the fda"
-    ],
-    "atc": null
-  },
-  {
     "slug": "propylhexedrine",
     "canonical": "propylhexedrine",
     "names": [
@@ -46388,14 +46169,6 @@
       "iopidine 1",
       "apraclonidine hcl ophthalmic",
       "apraclonidine"
-    ],
-    "atc": null
-  },
-  {
-    "slug": "mesalamine",
-    "canonical": "mesalamine",
-    "names": [
-      "mesalamine"
     ],
     "atc": null
   },
@@ -46768,16 +46541,6 @@
       "strains",
       "bruises",
       "sprains"
-    ],
-    "atc": null
-  },
-  {
-    "slug": "altuviiio",
-    "canonical": "altuviiio",
-    "names": [
-      "altuviiio",
-      "antihemophilic factor",
-      "fc vwf xten fusion protein ehtl"
     ],
     "atc": null
   },
@@ -49413,76 +49176,6 @@
     "atc": null
   },
   {
-    "slug": "calcium-polycarbophil",
-    "canonical": "calcium polycarbophil",
-    "names": [
-      "calcium polycarbophil",
-      "publix",
-      "drug fats active ingredient calcium polycarbophil 625 mg equivalent to 500 mg polycarbophil",
-      "purpose bulk forming laxative"
-    ],
-    "atc": null
-  },
-  {
-    "slug": "calcium-fluoride",
-    "canonical": "calcium fluoride",
-    "names": [
-      "calcium fluoride",
-      "magnesium sulphate heptahydrate",
-      "na nitrate",
-      "zinc",
-      "ferrosoferric phosphate",
-      "magnesium cl",
-      "silicon dioxide",
-      "sulfur",
-      "meb puri vega",
-      "sulphur",
-      "ferrum phosphoricum",
-      "natrum nitricum",
-      "calcarea fluorata",
-      "magnesia sulphurica",
-      "magnesia muriatica",
-      "zincum metalicum",
-      "active ingredients purpose silicea 4x hpus ulcers sulphur 4x hpus tumour ferrum phosphoricum 7x hpus inflammation",
-      "ulcers natrum nitricum 5x hpus inflammation calcarea fluorata 6x hpus inflammation",
-      "tumor magnesia sulphurica 7x hpus internal disease magnesia muriatica 7x hpus inflammation zincum metalicum 8x internal disease",
-      "tribasic calcium phosphate",
-      "miranda castros healing cell salts for bones",
-      "hair",
-      "nails",
-      "teeth homeopathic combination",
-      "calcarea fluorica",
-      "calcarea phosphorica",
-      "silicea",
-      "active ingredients purpose calcarea fluorica 6x restores elasticity",
-      "strength to veins",
-      "muscles",
-      "skin",
-      "bones",
-      "joints calcarea phosphorica 6x restores tone",
-      "boosts nutrition to weakened or growing bones",
-      "teeth silicea 6x strengthens weakened hair",
-      "nails as well as weakened or growing bones",
-      "teeth the letters hpus indicate that these ingredients are officially monographed in the homeopathic pharmacopeia of the united states",
-      "homeopathic combination for bones",
-      "teeth"
-    ],
-    "atc": null
-  },
-  {
-    "slug": "calcium-sulphate-dihydrate",
-    "canonical": "calcium sulphate dihydrate",
-    "names": [
-      "calcium sulphate dihydrate",
-      "schuessler tissue salts calc sulph blood cleanser 3",
-      "calcarea sulphurica",
-      "active ingredients purpose calcarea sulphurica 6x hpus skin disorders",
-      "minor skin eruptions",
-      "slow healing wounds hpus is the homeopathic pharmacopoeia of the united states"
-    ],
-    "atc": null
-  },
-  {
     "slug": "tungsten-disulfide",
     "canonical": "tungsten disulfide",
     "names": [
@@ -49553,6 +49246,143 @@
     "canonical": "sarracenia purpurea",
     "names": [
       "sarracenia purpurea"
+    ],
+    "atc": null
+  },
+  {
+    "slug": "aconitum-napellus-whole",
+    "canonical": "aconitum napellus whole",
+    "names": [
+      "aconitum napellus whole",
+      "arsenic trioxide",
+      "atropa belladonna",
+      "oyster shell calcium carbonate",
+      "crude",
+      "activated charcoal",
+      "human breast tumor cell",
+      "causticum",
+      "gelsemium sempervirens root",
+      "lachesis muta venom",
+      "mercury",
+      "nitric acid",
+      "phosphorus",
+      "toxicodendron pubescens leaf",
+      "na cl",
+      "anxiety ii hp",
+      "aconitum napellus",
+      "active ingredients aconitum napellus 30c",
+      "arsenicum album 30c",
+      "belladonna 30c",
+      "calcarea carbonica 30c",
+      "carbo vegetabilis 30c",
+      "carcinosin 30c",
+      "causticum 30c",
+      "gelsemium 30c",
+      "lachesis mutus 30c",
+      "mercurius vivus 30c",
+      "natrum muriaticum",
+      "nitricum ac 30c",
+      "rhus tox 30c",
+      "uses temporarily relieves simple nervous tension",
+      "arabica coffee bean",
+      "magnesium",
+      "strychnos nux vomica seed",
+      "pulsatilla vulgaris whole",
+      "sepia officinalis juice",
+      "sulfur",
+      "sleepy time cp",
+      "aconitum",
+      "arsenicum alb",
+      "calc carb",
+      "coffea cruda",
+      "magnesium met",
+      "nux vom",
+      "pulsatilla",
+      "sepia",
+      "sulphur",
+      "active ingredients equal amounts of aconitum 30x",
+      "arsenicum alb 30x",
+      "calc carb 30x",
+      "coffea cruda 30x",
+      "magnesium met 30x",
+      "nux vom 30x",
+      "pulsatilla 30x",
+      "sepia 30x",
+      "sulphur 30x",
+      "uses temporarily relieves occasional sleeplessness",
+      "cairina moschata heart",
+      "liver autolysate",
+      "bryonia alba root",
+      "eupatorium perfoliatum flowering top",
+      "influenza a virus whole",
+      "influenza a virus a",
+      "darwin",
+      "6",
+      "2021 whole",
+      "influenza b virus b",
+      "austria",
+      "1359417",
+      "2021 bvr 26 whole",
+      "phuket",
+      "3073",
+      "2013 bvr 1b whole",
+      "ipecac",
+      "phytolacca americana root",
+      "sanguinaria canadensis root",
+      "lobaria pulmonaria",
+      "triple flu defense",
+      "anas barbariae",
+      "hepatis et cordis extractum",
+      "bryonia",
+      "eupatorium perfoliatum",
+      "gelsemium sempervirens",
+      "influenzinum",
+      "ipecacuanha",
+      "nux vomica",
+      "phytolacca decandra",
+      "sanguinaria canadensis",
+      "sticta pulmonaria",
+      "anas barbariae 30c",
+      "bryonia 30c",
+      "eupatorium perfoliatum 30c",
+      "gelsemium sempervirens 30c",
+      "influenzinum 30c",
+      "ipecacuanha 30c",
+      "nux vomica 30c",
+      "phosphorus 30c",
+      "phytolacca decandra 30c",
+      "sanguinaria canadensis 30c",
+      "sticta pulmonaria 30c",
+      "purpose aconitum napellus dizziness",
+      "fever",
+      "anas barbariae general flu symptoms",
+      "bryonia body aches",
+      "sinus pain",
+      "eupatorium perfoliatum body aches",
+      "couch",
+      "gelsemium sempervirens chills",
+      "fatigue",
+      "influenzinum general flu symptoms",
+      "ipecacuanha nausea",
+      "vomiting",
+      "nux vomica headache",
+      "nausea",
+      "phosphorus congestion",
+      "phytolacca decandra congestion",
+      "sore throat",
+      "sanguinaria canadensis diarrhea",
+      "headache",
+      "sticta pulmonaria cough",
+      "sore throat this product has not been tested or the uses evaluated by the fda"
+    ],
+    "atc": null
+  },
+  {
+    "slug": "acetaminophen-250-mg-aspirin-250-mg-caffeine-65-mg-nonsteroidal-anti-inflammatory-drug",
+    "canonical": "acetaminophen 250 mg aspirin 250 mg caffeine 65 mg nonsteroidal anti inflammatory drug",
+    "names": [
+      "acetaminophen 250 mg aspirin 250 mg caffeine 65 mg nonsteroidal anti inflammatory drug",
+      "pain reliever pain reliever aid"
     ],
     "atc": null
   },
@@ -49694,14 +49524,6 @@
     "names": [
       "strontium oxide",
       "strontium oxydatum"
-    ],
-    "atc": null
-  },
-  {
-    "slug": "mometasone-furoate",
-    "canonical": "mometasone furoate",
-    "names": [
-      "mometasone furoate"
     ],
     "atc": null
   },
@@ -50103,17 +49925,6 @@
     "atc": null
   },
   {
-    "slug": "omeprazole-magnesium",
-    "canonical": "omeprazole magnesium",
-    "names": [
-      "omeprazole magnesium",
-      "omeprazole",
-      "active ingredient omeprazole delayed 20 mg",
-      "purpose acid reducer"
-    ],
-    "atc": null
-  },
-  {
     "slug": "phenytoin-na",
     "canonical": "phenytoin na",
     "names": [
@@ -50324,6 +50135,65 @@
     "canonical": "triamcinolone acetonide",
     "names": [
       "triamcinolone acetonide"
+    ],
+    "atc": null
+  },
+  {
+    "slug": "calcium-fluoride",
+    "canonical": "calcium fluoride",
+    "names": [
+      "calcium fluoride",
+      "magnesium sulphate heptahydrate",
+      "na nitrate",
+      "zinc",
+      "ferrosoferric phosphate",
+      "magnesium cl",
+      "silicon dioxide",
+      "sulfur",
+      "meb puri vega",
+      "sulphur",
+      "ferrum phosphoricum",
+      "natrum nitricum",
+      "calcarea fluorata",
+      "magnesia sulphurica",
+      "magnesia muriatica",
+      "zincum metalicum",
+      "active ingredients purpose silicea 4x hpus ulcers sulphur 4x hpus tumour ferrum phosphoricum 7x hpus inflammation",
+      "ulcers natrum nitricum 5x hpus inflammation calcarea fluorata 6x hpus inflammation",
+      "tumor magnesia sulphurica 7x hpus internal disease magnesia muriatica 7x hpus inflammation zincum metalicum 8x internal disease",
+      "tribasic calcium phosphate",
+      "miranda castros healing cell salts for bones",
+      "hair",
+      "nails",
+      "teeth homeopathic combination",
+      "calcarea fluorica",
+      "calcarea phosphorica",
+      "silicea",
+      "active ingredients purpose calcarea fluorica 6x restores elasticity",
+      "strength to veins",
+      "muscles",
+      "skin",
+      "bones",
+      "joints calcarea phosphorica 6x restores tone",
+      "boosts nutrition to weakened or growing bones",
+      "teeth silicea 6x strengthens weakened hair",
+      "nails as well as weakened or growing bones",
+      "teeth the letters hpus indicate that these ingredients are officially monographed in the homeopathic pharmacopeia of the united states",
+      "homeopathic combination for bones",
+      "teeth"
+    ],
+    "atc": null
+  },
+  {
+    "slug": "calcium-sulphate-dihydrate",
+    "canonical": "calcium sulphate dihydrate",
+    "names": [
+      "calcium sulphate dihydrate",
+      "schuessler tissue salts calc sulph blood cleanser 3",
+      "calcarea sulphurica",
+      "active ingredients purpose calcarea sulphurica 6x hpus skin disorders",
+      "minor skin eruptions",
+      "slow healing wounds hpus is the homeopathic pharmacopoeia of the united states"
     ],
     "atc": null
   },
@@ -50820,6 +50690,14 @@
       "white petrolatum",
       "active ingredient white petrolatum 45",
       "purpose skin protectant"
+    ],
+    "atc": null
+  },
+  {
+    "slug": "mesalamine",
+    "canonical": "mesalamine",
+    "names": [
+      "mesalamine"
     ],
     "atc": null
   },
@@ -51713,6 +51591,21 @@
       "nausea",
       "cough",
       "fatigue"
+    ],
+    "atc": null
+  },
+  {
+    "slug": "polymyxin-b-sulphate",
+    "canonical": "polymyxin b sulphate",
+    "names": [
+      "polymyxin b sulphate",
+      "neomycin sulphate",
+      "pramoxine hcl",
+      "antibiotic",
+      "pain relief",
+      "active ingredients neomycin sulphate polymixin b sulphate 10",
+      "000 units pramoxine hcl",
+      "purpose first aid antibiotic first aid antibiotic external analgesic"
     ],
     "atc": null
   },
