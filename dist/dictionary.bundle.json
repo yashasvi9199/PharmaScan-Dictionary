@@ -371,8 +371,6 @@
       "zinc oxide",
       "botanical soothing spf 30",
       "active ingredients octinoxate octisalate zinc oxide",
-      "note mattifying extreme wear foundation",
-      "active ingredient octinoxate 0 6 purpose sunscreen",
       "titanium dioxide",
       "no7 protect",
       "perfect intense advanced all in one foundation spf 50 cameo",
@@ -474,14 +472,10 @@
     "atc": "A01AC02"
   },
   {
-    "slug": "0-9g",
-    "canonical": "0 9g",
+    "slug": "usp-1",
+    "canonical": "usp 1",
     "names": [
       "hydrocortisone",
-      "ps 2896 hydrocortisone 1",
-      "0 9g",
-      "active ingredient hydrocortisone usp 1",
-      "purpose antipruritic",
       "active ingredient hydrocortisone 1",
       "purpose anti itch",
       "theracare hydrocortisone",
@@ -491,9 +485,11 @@
       "hydrocortisone 1",
       "anti itch",
       "dermarest eczema medicated",
+      "drug facts active ingredients hydrocortisone",
+      "usp 1 active ingredient",
+      "purpose anti itch purpose",
       "hydrocortisone with aloe",
       "hydrocortisone with aloe anti itch",
-      "drug facts active ingredients hydrocortisone",
       "usp 1",
       "shopko hydrocortisone maximum strength",
       "live better hydrocortisone with aloe",
@@ -827,8 +823,6 @@
       "tums chewy bites orange",
       "es",
       "active ingredient calcium carbonate 750 mg",
-      "extra strength",
-      "active ingredient calcium carbonate usp 750mg",
       "goodsense ultra strength antacid peppermint",
       "family wellness regular strength antacid 126 regular strength antacid",
       "active ingredient calcium carbonate 500 mg",
@@ -2541,7 +2535,6 @@
       "active ingredient bisacodyl usp",
       "5 mg",
       "purpose laxative",
-      "10 mg",
       "gentle laxative bisacodyl",
       "drug facts active ingredient bisacodyl 10 mg",
       "drug facts purpose bisacodyl 10 mg stimulant laxative",
@@ -2558,6 +2551,7 @@
       "active ingredients loratadine 5 mg pseudoephedrine sulphate 120 mg",
       "purpose antihistamine nasal decongestant",
       "nuvicare allergy relief loratadine",
+      "10 mg",
       "non drowsy allergy relief",
       "24 7 life",
       "active ingredient active ingredient loratadine 10 mg",
@@ -5212,10 +5206,7 @@
     "slug": "zinc-gluconate",
     "canonical": "zinc gluconate",
     "names": [
-      "zinc gluconate",
-      "cold eeze cold remedy ultramelt chews",
-      "active ingredient active ingredient zinc gluconate 1x hpus the letters hpus indicate that the active ingredient is in the official homeopathic pharmacopeia of the united states",
-      "purposes cold remedy"
+      "zinc gluconate"
     ],
     "atc": "A12CB02"
   },
@@ -13654,9 +13645,6 @@
       "active ingredient salicylic acid 40",
       "purpose callus remover",
       "medicated callus removers extra thick",
-      "liquid corn",
-      "callus remover",
-      "purpose corn",
       "oil free daily face eqb",
       "salicylic acid 2",
       "active ingreient purpose salicylic acid 2 acne medication",
@@ -13672,7 +13660,6 @@
       "crystal clear acne treatment pads",
       "acne",
       "vichy laboratoires normaderm acne control moisturizer",
-      "liquid callus remover",
       "cvs clarifying body wash acne treatment",
       "active ingredients salicylic acid 2 0"
     ],
@@ -16316,28 +16303,10 @@
     "atc": "G01AD"
   },
   {
-    "slug": "levomenol",
-    "canonical": "levomenol",
+    "slug": "lactic-acid",
+    "canonical": "lactic acid",
     "names": [
-      "lactic acid",
-      "boric acid",
-      "chlorhexidine gluconate",
-      "cnidium monnieri fruit oil",
-      "levomenol",
-      "medicated foaming feminine",
-      "cnidium monnieri fruit",
-      "active ingredient purpose lactic acid 0 5 maintains natural ph levels",
-      "fostering a healthy environment to prevent irritation",
-      "infections boric acid 0 5 restores",
-      "stabilizes acidic ph levels",
-      "effectively preventing yeast infections chlorhexidine digluconate 1 offers potent antibacterial protection",
-      "reducing the risk of bacterial infections without disrupting the vaginal flora cnidium monnieri fruit extract 0 5 provides anti inflammatory properties",
-      "soothing the skin",
-      "reducing any potential irritation bisabolol 0 3 calms",
-      "soothes the skin",
-      "reducing redness",
-      "providing a gentle",
-      "comforting effect upon application"
+      "lactic acid"
     ],
     "atc": "G01AD01"
   },
@@ -34709,13 +34678,13 @@
       "4 mg",
       "purpose stop smoking aid",
       "active ingredient nicotine polacrilex",
-      "equate nicotine",
       "active ingredient nicotine polacrilex usp",
       "2 mg",
       "nicorette fruit chill nicotine polacrilex",
       "exchange select nicotine",
       "basic care nicotine",
       "topcare nicotine",
+      "equate nicotine",
       "habitrol step 3",
       "habitrol step 2",
       "habitrol step 1",
@@ -35098,11 +35067,10 @@
     "atc": "P01AB06"
   },
   {
-    "slug": "solosec",
-    "canonical": "solosec",
+    "slug": "secnidazole",
+    "canonical": "secnidazole",
     "names": [
-      "secnidazole",
-      "solosec"
+      "secnidazole"
     ],
     "atc": "P01AB07"
   },
@@ -37245,11 +37213,9 @@
       "purpose cough suppressant expectorant",
       "active ingredients dextromethorphan hydrobromide usp 60 mg guaifenesin usp 1200 mg",
       "purposes cough suppressant expectorant",
-      "childrens mucus relief chest congestion",
-      "active ingredient guaifenesin",
-      "usp 100 mg",
       "mucus relief dm",
       "active ingredients dextromethorphan hbr 30 mg guaifenesin 600 mg",
+      "active ingredient guaifenesin",
       "usp 1200 mg",
       "topco mucus relief",
       "equaline mucus dm",
@@ -38907,8 +38873,7 @@
     "names": [
       "travoprost",
       "travoprost ophthalmic",
-      "0 004",
-      "travatan z"
+      "0 004"
     ],
     "atc": "S01EE04"
   },
@@ -42418,11 +42383,11 @@
       "acetaminophen extra strength",
       "drug facts active ingredient acetaminophen usp 500 mg",
       "members mark acetaminophen",
-      "medique apap",
+      "dover aminophen",
       "medi first non aspirin",
       "medi first plus non aspirin",
+      "medique apap",
       "dover aminofen",
-      "dover aminophen",
       "tussnex fm cold",
       "sinus",
       "acteaminophen",
@@ -43433,7 +43398,6 @@
       "isopropyl alcohol",
       "active ingredients isopropyl alcohol 70",
       "purpose first aid antiseptic",
-      "active ingredient isopropyl alcohol",
       "dukal sterile alcohol prep pad",
       "active ingredients isopropyl alcohol 70 purpose antiseptic cleanser",
       "use for preparation of skin prior to an",
@@ -43457,9 +43421,6 @@
       "glycerin",
       "active ingredients isopropyl alcohol",
       "active ingredient isopropyl alcohol 91",
-      "alcohol wipes",
-      "isopropyl alcohol 70",
-      "first aid antiseptic",
       "isopropyl rubbing alcohol"
     ],
     "atc": null
@@ -43479,7 +43440,8 @@
     "names": [
       "isopropyl alcohol 70",
       "to clean",
-      "other catheter sites"
+      "other catheter sites",
+      "first aid antiseptic"
     ],
     "atc": null
   },
@@ -43757,8 +43719,6 @@
       "active ingredients avobenzone 3 0 octinoxate 6 5 octisalate 5 0 octocrylene 1 5 purpose sunscreen",
       "purpose sunscreen",
       "oxybenzone",
-      "equate beauty daily moisturizer spf 30 sunscreen",
-      "active ingredients purpose avobenzone 3 sunscreen homosalate 15 sunscreen octisalate 5 sunscreen octocrylene 3 sunscreen oxybenzone 6 sunscreen",
       "h e b solutions sunscreen",
       "sport spf 70",
       "active ingredients avobenzone 3 0",
@@ -43768,8 +43728,6 @@
       "oxybenzone 6 0",
       "shiseido ultimate sun protector",
       "active ingredients purpose avobenzone 2 3 sunscreen homosalate 10 0 sunscreen octisalate 5 0 sunscreen octocrylene 5 0 sunscreen",
-      "sunscreen",
-      "active ingredients avobenzone 3 homosalate 15 octisalate 5 octocrylene 10",
       "clear glow broad spectrum suncreen spf 50",
       "homosalate octisalate",
       "active ingredients avobenzone 3 homosalate 10 octilsalate 5 octocrylene 8 purpose sunscreen",
@@ -43809,8 +43767,10 @@
       "octocrylene 4 0",
       "active ingredients purpose avobenzone 3 sunscreen homosalate 8 sunscreen octisalate 5 sunscreen octocrylene 4 0 sunscreen",
       "loreal paris revitalift derm intensives invisible uv fluid broad spectrum spf 50 sunscreen",
+      "active ingredients avobenzone 3 homosalate 15 octisalate 5 octocrylene 10",
       "begins by jungsaemmool blue chamomile hyaluronic acid airy sun stick broad spectrum spf 50 plus",
       "avobenzone 2 7 homosalate 9 5 octisalate 4 5 octocrylene 5 0",
+      "sunscreen",
       "la roche posay laboratoire dermatologique anthelios 60 face light fluid sunscreen broad spectrum spf 60 water resistant 80 minutes",
       "active ingredients avobenzone 3 homosalate 10 octisalate 5 octocrylene 7",
       "prequel lip visor nude spf 30",
@@ -44475,9 +44435,9 @@
     "canonical": "amlodipine besylate",
     "names": [
       "amlodipine besylate",
-      "benazepril hcl",
-      "amlodipine",
       "olmesartan medoxomil",
+      "amlodipine",
+      "benazepril hcl",
       "atorvastatin calcium trihydrate",
       "atorvastatin"
     ],
@@ -44846,71 +44806,6 @@
     "atc": null
   },
   {
-    "slug": "lidocaine-hcl",
-    "canonical": "lidocaine hcl",
-    "names": [
-      "lidocaine hcl",
-      "burn ease",
-      "3 5g",
-      "active ingredient lidocaine hcl 2",
-      "purpose analgesic",
-      "dch pain relief",
-      "lidocaine hcl 4",
-      "topical analgesic",
-      "accucaine",
-      "alocane botanicals",
-      "active ingredient lidocaine hcl 4",
-      "purpose topical pain relief",
-      "benzyl alcohol",
-      "pain relieving lidocaine",
-      "lidocaine hci",
-      "benzyl alcohol 10",
-      "purpose topical anasthetic",
-      "purpose topical anesthetic",
-      "aspercreme lidocaine with eucalyptus essential oil",
-      "active i ngredient lidocaine hcl 4"
-    ],
-    "atc": null
-  },
-  {
-    "slug": "lidocaine-4-topical-anesthetic-menthol-1-topical-anesthetic",
-    "canonical": "lidocaine 4 topical anesthetic menthol 1 topical anesthetic",
-    "names": [
-      "lidocaine 4 topical anesthetic menthol 1 topical anesthetic",
-      "topical anesthetic"
-    ],
-    "atc": null
-  },
-  {
-    "slug": "lidocaine-4",
-    "canonical": "lidocaine 4",
-    "names": [
-      "lidocaine 4",
-      "topical anesthetic",
-      "menthol 1",
-      "for the temporary relief of palin"
-    ],
-    "atc": null
-  },
-  {
-    "slug": "lidocaine-1",
-    "canonical": "lidocaine 1",
-    "names": [
-      "lidocaine 1",
-      "purpose external analgesic"
-    ],
-    "atc": null
-  },
-  {
-    "slug": "lidocaine-5",
-    "canonical": "lidocaine 5",
-    "names": [
-      "lidocaine 5",
-      "local anesthetic"
-    ],
-    "atc": null
-  },
-  {
     "slug": "lycopodium-clavatum-spore",
     "canonical": "lycopodium clavatum spore",
     "names": [
@@ -44973,9 +44868,6 @@
       "active ingredients purpose dextromethorphan hydrobromide 5 mg cough suppressant guaifenesin 50 mg expectorant",
       "purpose cough suppressant expectorant",
       "phenylephrine hcl",
-      "maximum strength severe congestion",
-      "cough",
-      "active ingredients purposes dextromethorphan hbr 20 mg cough suppressant guaifenesin 400 mg expectorant phenylephrine hcl 10 mg nasal decongestant",
       "actidom dmx",
       "active ingredients dextromethorphan hbr",
       "30 mg guaifenesin",
@@ -45073,6 +44965,67 @@
     "names": [
       "glycerine",
       "skin protectant"
+    ],
+    "atc": null
+  },
+  {
+    "slug": "lidocaine-hcl",
+    "canonical": "lidocaine hcl",
+    "names": [
+      "lidocaine hcl",
+      "dch pain relief",
+      "lidocaine hcl 4",
+      "topical analgesic",
+      "accucaine",
+      "alocane botanicals",
+      "active ingredient lidocaine hcl 4",
+      "purpose topical pain relief",
+      "benzyl alcohol",
+      "pain relieving lidocaine",
+      "lidocaine hci",
+      "benzyl alcohol 10",
+      "purpose topical anasthetic",
+      "purpose topical anesthetic",
+      "aspercreme lidocaine with eucalyptus essential oil",
+      "active i ngredient lidocaine hcl 4"
+    ],
+    "atc": null
+  },
+  {
+    "slug": "lidocaine-4-topical-anesthetic-menthol-1-topical-anesthetic",
+    "canonical": "lidocaine 4 topical anesthetic menthol 1 topical anesthetic",
+    "names": [
+      "lidocaine 4 topical anesthetic menthol 1 topical anesthetic",
+      "topical anesthetic"
+    ],
+    "atc": null
+  },
+  {
+    "slug": "lidocaine-4",
+    "canonical": "lidocaine 4",
+    "names": [
+      "lidocaine 4",
+      "topical anesthetic",
+      "menthol 1",
+      "for the temporary relief of palin"
+    ],
+    "atc": null
+  },
+  {
+    "slug": "lidocaine-1",
+    "canonical": "lidocaine 1",
+    "names": [
+      "lidocaine 1",
+      "purpose external analgesic"
+    ],
+    "atc": null
+  },
+  {
+    "slug": "lidocaine-5",
+    "canonical": "lidocaine 5",
+    "names": [
+      "lidocaine 5",
+      "local anesthetic"
     ],
     "atc": null
   },
@@ -46006,15 +45959,6 @@
     "atc": null
   },
   {
-    "slug": "norgestimate",
-    "canonical": "norgestimate",
-    "names": [
-      "norgestimate",
-      "ethinyl estradiol"
-    ],
-    "atc": null
-  },
-  {
     "slug": "59-2-ml-active-ingredient-active-ingredient",
     "canonical": "59 2 ml active ingredient active ingredient",
     "names": [
@@ -46404,16 +46348,6 @@
     "atc": null
   },
   {
-    "slug": "quetiapine-fumarate",
-    "canonical": "quetiapine fumarate",
-    "names": [
-      "quetiapine fumarate",
-      "quetiapine",
-      "seroquel"
-    ],
-    "atc": null
-  },
-  {
     "slug": "colesevelam-hcl",
     "canonical": "colesevelam hcl",
     "names": [
@@ -46501,8 +46435,6 @@
       "active ingredient cetirizine hcl usp",
       "10 mg",
       "childrens allergy relief",
-      "active ingredient cetirizine hcl 10 mg",
-      "allergy relief",
       "cetirizine",
       "cetirizine hcl 5 mg cetirizine hcl 10 mg",
       "antihistamine",
@@ -46700,9 +46632,6 @@
       "antidiarrheal",
       "pepto bismol",
       "purpose upset stomach reliever",
-      "qc anti diarrheal vanilla regular flavor",
-      "purposes antidiarrheal",
-      "upset stomach reliever",
       "heb stomach relief cherry",
       "anti diarrheal",
       "caseys 4good",
@@ -48745,15 +48674,6 @@
     "atc": null
   },
   {
-    "slug": "tofacitinib-citrate",
-    "canonical": "tofacitinib citrate",
-    "names": [
-      "tofacitinib citrate",
-      "tofacitinib"
-    ],
-    "atc": null
-  },
-  {
     "slug": "sepia-officinalis-juice",
     "canonical": "sepia officinalis juice",
     "names": [
@@ -48957,6 +48877,16 @@
       "sulfacetamide na",
       "sulfur",
       "na sulfacetamide"
+    ],
+    "atc": null
+  },
+  {
+    "slug": "quetiapine-fumarate",
+    "canonical": "quetiapine fumarate",
+    "names": [
+      "quetiapine fumarate",
+      "quetiapine",
+      "seroquel"
     ],
     "atc": null
   },
@@ -49804,15 +49734,6 @@
     "atc": null
   },
   {
-    "slug": "podofilox",
-    "canonical": "podofilox",
-    "names": [
-      "podofilox",
-      "condylox"
-    ],
-    "atc": null
-  },
-  {
     "slug": "clobetasol-propionate",
     "canonical": "clobetasol propionate",
     "names": [
@@ -50285,12 +50206,9 @@
     "atc": null
   },
   {
-    "slug": "30-day-acne-treatment-kit",
-    "canonical": "30 day acne treatment kit",
+    "slug": "acne-cleanser-active-ingredients-purpose-salicylic-acid-0-5-acne-medication",
+    "canonical": "acne cleanser active ingredients purpose salicylic acid 0 5 acne medication",
     "names": [
-      "30 day acne treatment kit",
-      "salicylic acid",
-      "benzoyl peroxide",
       "acne cleanser active ingredients purpose salicylic acid 0 5 acne medication",
       "acne active ingredient purpose benzoyl peroxide 5 acne treatment",
       "use for the treatment of acne"
@@ -50547,6 +50465,15 @@
       "purpose acth 6x adrenal support arnica montana 6x anti inflammatory barium oxalosuccinate 3x forgetfulness baryta carbonica 6x improves mental attention brain derived neurotrophic factor 4c helps mental activity dl malic acid 3x promote cell metabolism frontal lobe 6x stimulates mental alertness glandula suprarenalis 6x detoxification hepar 6x detoxification hypothalamus 6x improves mental attention insuline like growth factor 1 4c enhances protein anabolism luteinizing hormone releasing hormone 6x helps manage stress melatonin 4c helps manage stress neurotrophin 3 4c helps mental activity neurotrophin 4 4c helps mental activity oxytocin 6x stimulates social recognition parabenzochinon 3x antioxidant phenylalanine 3x stimulates mental alertness plumbum metallicum 6x antiaging pyruvic acid 3x antioxidant thyrotropin releasing hormone 6x helps manage stress thyroxine t4 6x stimulates mental alertness",
       "for the temporary relief symptoms due to aging",
       "scuh as poor memory impaired concentration"
+    ],
+    "atc": null
+  },
+  {
+    "slug": "norgestimate",
+    "canonical": "norgestimate",
+    "names": [
+      "norgestimate",
+      "ethinyl estradiol"
     ],
     "atc": null
   },
