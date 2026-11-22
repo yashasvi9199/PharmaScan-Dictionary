@@ -39,9 +39,10 @@
       "colgate max fresh advanced whitening",
       "active ingredient na fluoride 0 24 0 15 w",
       "gelato apf",
-      "crest 3d white fresh mint",
+      "crest kids sparklefun bubblegum",
       "active ingredient na fluoride 0 243 0 15 w",
       "purpose anticavity toothpaste",
+      "crest 3d white fresh mint",
       "crest strawberry",
       "crest bubblegum",
       "crest complete multi benefit whitening plus scope",
@@ -573,125 +574,10 @@
     "atc": "A01AC04"
   },
   {
-    "slug": "onion",
-    "canonical": "onion",
+    "slug": "epinephrine",
+    "canonical": "epinephrine",
     "names": [
-      "epinephrine",
-      "onion",
-      "ambrosia artemisiifolia whole",
-      "arsenic triiodide",
-      "artemisia vulgaris pollen",
-      "bellis perennis whole",
-      "brassica rapa subsp oleifera pollen",
-      "chenopodium album pollen",
-      "euphrasia stricta",
-      "histamine dihydrochloride",
-      "medicago sativa pollen",
-      "phleum pratense pollen",
-      "rumex crispus pollen",
-      "schoenocaulon officinale seed",
-      "silicon dioxide",
-      "solidago canadensis pollen",
-      "taraxacum officinale pollen",
-      "trifolium pratense pollen",
-      "xanthium strumarium pollen",
-      "pollen hayfever",
-      "adrenalinum",
-      "allium cepa",
-      "ambrosia artemisiaefolia",
-      "arsenicum iodatum",
-      "mugwort pollen",
-      "bellis perennis",
-      "brassica spp",
-      "chenopodium album",
-      "euphrasia officinalis",
-      "histaminum hydrochloricum",
-      "alfalfa pollen",
-      "phleum pratense",
-      "yellow dock pollen",
-      "sabadilla",
-      "silicea",
-      "goldenrod pollen",
-      "dandelion pollen",
-      "red clover pollen",
-      "xanthium strumarium",
-      "active ingredient allium cepa 6x 5 55",
-      "arsenicum iodatum 6x 5 55",
-      "euphrasia officinalis 6x 5 55",
-      "sabadilla 6x 5 55",
-      "histaminum hydrochloricum 12x 5 55",
-      "ambrosia artemisiaefolia 12x 5 55",
-      "artemisia vulgaris 12x 5 55",
-      "bellis perennis 12x 5 55",
-      "brassica spp 12x 5 55",
-      "chenopodium album 12x 5 55",
-      "medicago sativa 12x 5 55",
-      "phleum pratense 12x 5 55",
-      "rumex crispus 12x 5 55",
-      "silicea 12x 5 55",
-      "solidago canadensis 12x 5 55",
-      "taraxacum officinale 12x 5 55",
-      "trifolium pratense 12x 5 55",
-      "xanthium strumarium 12x 5 55",
-      "adrenalinum 6x 0 10",
-      "purpose allium cepa relieves allergy symptoms",
-      "arsenicum iodatum relieves allergy symptoms",
-      "euphrasia officinalis relieves allergy symptoms",
-      "sabadilla relieves allergy symptoms",
-      "histaminum hydrochloricum antihistamine",
-      "ambrosia artemisiaefolia assist with the management of allergy symptoms",
-      "artemisia vulgaris assist with the management of allergy symptoms",
-      "bellis perennis assist with the management of allergy symptoms",
-      "brassica spp assist with the management of allergy symptoms",
-      "chenopodium album assist with the management of allergy symptoms",
-      "medicago sativa assist with the management of allergy symptoms",
-      "phleum pratense assist with the management of allergy symptoms",
-      "rumex crispus assist with the management of allergy symptoms",
-      "silicea assist with the management of allergy symptoms",
-      "solidago canadensis assist with the management of allergy symptoms",
-      "taraxacum officinale assist with the management of allergy symptoms",
-      "trifolium pratense assist with the management of allergy symptoms",
-      "xanthium strumarium assist with the management of allergy symptoms",
-      "adrenalinum decongestant claims based on traditional homeopathic practice",
-      "not accepted medical evidence not fda evaluated",
-      "apis mellifera",
-      "aralia racemosa root",
-      "arundo pliniana root",
-      "baptisia tinctoria root",
-      "echinacea angustifolia whole",
-      "gelsemium sempervirens root",
-      "lycopodium clavatum spore",
-      "toxicodendron pubescens leaf",
-      "sanguinaria canadensis root",
-      "urtica urens whole",
-      "pollen distress",
-      "apis mellifica",
-      "aralia racemosa",
-      "arundo mauritanica",
-      "baptisia tinctoria",
-      "echinacea",
-      "gelsemium sempervirens",
-      "lycopodium clavatum",
-      "rhus tox",
-      "sanguinaria canadensis",
-      "urtica urens",
-      "active ingredients 6 67 of allium cepa 6x",
-      "apis mellifica 6x",
-      "aralia racemosa 6x",
-      "arundo mauritanica 30c",
-      "baptisia tinctoria 3x",
-      "echinacea 4x",
-      "euphrasia officinalis 6x",
-      "gelsemium sempervirens 200c",
-      "histaminum hydrochloricum 12x",
-      "lycopodium clavatum 6x",
-      "rhus tox 200c",
-      "sabadilla 6x",
-      "sanguinaria canadensis 200c",
-      "urtica urens 3x",
-      "200c",
-      "purpose may temporarily relieve these symptoms associated with seasonal pollen distress runny nose itchy",
-      "watery eyes rash headache sneezing claims based on traditional homeopathic practice"
+      "epinephrine"
     ],
     "atc": "A01AD01"
   },
@@ -902,6 +788,8 @@
       "goodsense ultra strength antacid peppermint",
       "family wellness regular strength antacid 126 regular strength antacid",
       "active ingredient calcium carbonate 500 mg",
+      "topcare antacid calcium",
+      "active ingredient calcium carbonate usp 1000mg",
       "guardian ultra strength antacid assorted fruit"
     ],
     "atc": "A02AC01"
@@ -31164,11 +31052,10 @@
     "atc": "N02CC"
   },
   {
-    "slug": "tosymra",
-    "canonical": "tosymra",
+    "slug": "sumatriptan",
+    "canonical": "sumatriptan",
     "names": [
-      "sumatriptan",
-      "tosymra"
+      "sumatriptan"
     ],
     "atc": "N02CC01"
   },
@@ -45342,7 +45229,13 @@
       "bali body watermelon tanning oil spf 6",
       "active ingredients octisalate 5 octocrylene 3 avobenzone 1",
       "bali body cacao tanning oil spf 15",
-      "active ingredients octocrylene 9 octisalate 5 avobenzone 3"
+      "active ingredients octocrylene 9 octisalate 5 avobenzone 3",
+      "coppertone sport face spf 60 plus sunscreen",
+      "avobenzone 3",
+      "homosalate 15",
+      "octisalate 5",
+      "octocrylene 10",
+      "active ingredients avobenzone 3"
     ],
     "atc": null
   },
@@ -46573,6 +46466,14 @@
     "names": [
       "penicillin g benzathine",
       "bicillin l a"
+    ],
+    "atc": null
+  },
+  {
+    "slug": "penicillin-v-k",
+    "canonical": "penicillin v k",
+    "names": [
+      "penicillin v k"
     ],
     "atc": null
   },
@@ -48308,22 +48209,6 @@
     "atc": null
   },
   {
-    "slug": "topcare-multi-symptom-flu-relief-combo-pack",
-    "canonical": "topcare multi symptom flu relief combo pack",
-    "names": [
-      "topcare multi symptom flu relief combo pack",
-      "acetaminophen",
-      "dextromethorphan hbr",
-      "chlorpheniramine maleate",
-      "active ingredients acetaminophen 1000 mg dextromethorphan hbr 30 mg",
-      "active ingredients acetaminophen 1000 mg chlorpheniramine maleate 4 mg dextromethorphan hbr 30 mg",
-      "purposes pain reliever",
-      "fever reducer cough suppressant",
-      "fever reducer antihistamine cough suppressant"
-    ],
-    "atc": null
-  },
-  {
     "slug": "allergy-active-ingredient-fexofenadine-hcl-usp",
     "canonical": "allergy active ingredient fexofenadine hcl usp",
     "names": [
@@ -48943,15 +48828,6 @@
     "canonical": "hydralazine hcl",
     "names": [
       "hydralazine hcl"
-    ],
-    "atc": null
-  },
-  {
-    "slug": "tofacitinib-citrate",
-    "canonical": "tofacitinib citrate",
-    "names": [
-      "tofacitinib citrate",
-      "tofacitinib"
     ],
     "atc": null
   },
@@ -50257,6 +50133,60 @@
       "omeprazole",
       "active ingredient omeprazole delayed 20 mg",
       "purpose acid reducer"
+    ],
+    "atc": null
+  },
+  {
+    "slug": "onion",
+    "canonical": "onion",
+    "names": [
+      "onion",
+      "apis mellifera",
+      "aralia racemosa root",
+      "arundo pliniana root",
+      "baptisia tinctoria root",
+      "echinacea angustifolia whole",
+      "euphrasia stricta",
+      "gelsemium sempervirens root",
+      "histamine dihydrochloride",
+      "lycopodium clavatum spore",
+      "toxicodendron pubescens leaf",
+      "schoenocaulon officinale seed",
+      "sanguinaria canadensis root",
+      "urtica urens whole",
+      "pollen distress",
+      "allium cepa",
+      "apis mellifica",
+      "aralia racemosa",
+      "arundo mauritanica",
+      "baptisia tinctoria",
+      "echinacea",
+      "euphrasia officinalis",
+      "gelsemium sempervirens",
+      "histaminum hydrochloricum",
+      "lycopodium clavatum",
+      "rhus tox",
+      "sabadilla",
+      "sanguinaria canadensis",
+      "urtica urens",
+      "active ingredients 6 67 of allium cepa 6x",
+      "apis mellifica 6x",
+      "aralia racemosa 6x",
+      "arundo mauritanica 30c",
+      "baptisia tinctoria 3x",
+      "echinacea 4x",
+      "euphrasia officinalis 6x",
+      "gelsemium sempervirens 200c",
+      "histaminum hydrochloricum 12x",
+      "lycopodium clavatum 6x",
+      "rhus tox 200c",
+      "sabadilla 6x",
+      "sanguinaria canadensis 200c",
+      "urtica urens 3x",
+      "200c",
+      "purpose may temporarily relieve these symptoms associated with seasonal pollen distress runny nose itchy",
+      "watery eyes rash headache sneezing claims based on traditional homeopathic practice",
+      "not accepted medical evidence not fda evaluated"
     ],
     "atc": null
   },
@@ -51600,6 +51530,18 @@
     "atc": null
   },
   {
+    "slug": "obagi-nu-derm-fx-system-normal-oily-skin-transformation-complexion-brightening-system",
+    "canonical": "obagi nu derm fx system normal oily skin transformation complexion brightening system",
+    "names": [
+      "obagi nu derm fx system normal oily skin transformation complexion brightening system",
+      "homosalate",
+      "octisalate",
+      "zinc oxide",
+      "active ingredients purpose homosalate 10 sunscreen octisalate 5 sunscreen zinc oxide 16 5 sunscreen"
+    ],
+    "atc": null
+  },
+  {
     "slug": "phosphomolybdic-acid",
     "canonical": "phosphomolybdic acid",
     "names": [
@@ -52086,6 +52028,15 @@
       "betula papyrifera 6x",
       "for contitutional treatments based on homeopathic",
       "anthroposophic indications or as directed by your physician"
+    ],
+    "atc": null
+  },
+  {
+    "slug": "nafcillin-na",
+    "canonical": "nafcillin na",
+    "names": [
+      "nafcillin na",
+      "nafcillin"
     ],
     "atc": null
   },
